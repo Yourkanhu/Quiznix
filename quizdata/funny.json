@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "What is something you will never find in a refrigerator?",
+        "options": ["A hot cup of coffee", "Vegetables", "Ice cream", "Juice"],
+        "answer": "A hot cup of coffee"
+      },
+      {
+        "question": "Why did the scarecrow win an award?",
+        "options": ["He was very brave", "He was outstanding in his field", "He was smart", "He saved a bird"],
+        "answer": "He was outstanding in his field"
+      },
+      {
+        "question": "What can you catch but not throw?",
+        "options": ["A cold", "A football", "A ball", "A balloon"],
+        "answer": "A cold"
+      },
+      {
+        "question": "Why do bees have sticky hair?",
+        "options": ["Because they use honeycombs", "Because they live in hives", "Because of flowers", "Because they do not shower"],
+        "answer": "Because they use honeycombs"
+      },
+      {
+        "question": "What do you call fake spaghetti?",
+        "options": ["An impasta", "Noodle faker", "Pasta clone", "Spaghosti"],
+        "answer": "An impasta"
+      },
+      {
+        "question": "What gets wetter the more it dries?",
+        "options": ["A towel", "Rain", "Soap", "A sponge"],
+        "answer": "A towel"
+      },
+      {
+        "question": "Why did the math book look sad?",
+        "options": ["Because it had too many problems", "Because it was torn", "Because it failed the test", "Because it was old"],
+        "answer": "Because it had too many problems"
+      },
+      {
+        "question": "What kind of tree fits in your hand?",
+        "options": ["A palm tree", "A tiny tree", "A finger tree", "A small oak"],
+        "answer": "A palm tree"
+      },
+      {
+        "question": "Why was the computer cold?",
+        "options": ["Because it left its Windows open", "Because it had no heater", "Because it was frozen", "Because of ice"],
+        "answer": "Because it left its Windows open"
+      },
+      {
+        "question": "What did one wall say to the other wall?",
+        "options": ["I will meet you at the corner", "You are strong", "Let us stick together", "We are supporting each other"],
+        "answer": "I will meet you at the corner"
+      }
+    ]
+  }

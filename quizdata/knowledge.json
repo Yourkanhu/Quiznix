@@ -1,0 +1,54 @@
+{
+    "questions": [
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+        "answer": "William Shakespeare"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+      },
+      {
+        "question": "What is the largest mammal in the world?",
+        "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "How many continents are there on Earth?",
+        "options": ["Five", "Six", "Seven", "Eight"],
+        "answer": "Seven"
+      },
+      {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "In which year did India gain independence from British rule?",
+        "options": ["1947", "1950", "1935", "1942"],
+        "answer": "1947"
+      },
+      {
+        "question": "Which organ in the human body pumps blood?",
+        "options": ["Lungs", "Liver", "Heart", "Kidneys"],
+        "answer": "Heart"
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+        "answer": "Leonardo da Vinci"
+      }
+    ]
+  }

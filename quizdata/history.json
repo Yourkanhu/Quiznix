@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1918", "1950"],
+      "answer": "1945"
+    },
+    {
+      "question": "Which ancient civilization built the pyramids?",
+      "options": ["Egyptians", "Romans", "Greeks", "Mayans"],
+      "answer": "Egyptians"
+    },
+    {
+      "question": "Who discovered America in 1492?",
+      "options": ["Christopher Columbus", "Marco Polo", "Leif Erikson", "Amerigo Vespucci"],
+      "answer": "Christopher Columbus"
+    },
+    {
+      "question": "What was the name of the ship on which the Pilgrims traveled to America?",
+      "options": ["Mayflower", "Titanic", "Santa Maria", "Endeavour"],
+      "answer": "Mayflower"
+    },
+    {
+      "question": "Which empire was ruled by Julius Caesar?",
+      "options": ["Roman Empire", "Greek Empire", "Ottoman Empire", "British Empire"],
+      "answer": "Roman Empire"
+    },
+    {
+      "question": "Who was the famous queen of ancient Egypt known for her beauty?",
+      "options": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"],
+      "answer": "Cleopatra"
+    },
+    {
+      "question": "What wall separated East and West Berlin during the Cold War?",
+      "options": ["Berlin Wall", "Iron Curtain", "Wall of Freedom", "Soviet Wall"],
+      "answer": "Berlin Wall"
+    },
+    {
+      "question": "Who was the leader of Nazi Germany during World War II?",
+      "options": ["Adolf Hitler", "Joseph Stalin", "Winston Churchill", "Benito Mussolini"],
+      "answer": "Adolf Hitler"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the United States?",
+      "options": ["France", "United Kingdom", "Germany", "Canada"],
+      "answer": "France"
+    }
+  ]
+}
