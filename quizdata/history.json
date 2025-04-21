@@ -49,6 +49,206 @@
       "question": "Which country gifted the Statue of Liberty to the United States?",
       "options": ["France", "United Kingdom", "Germany", "Canada"],
       "answer": "France"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic?",
+      "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+      "answer": "Amelia Earhart"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1905", "1912", "1918", "1923"],
+      "answer": "1912"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell"
+    },
+    {
+      "question": "Which war was fought between the North and South regions of the United States?",
+      "options": ["Revolutionary War", "War of 1812", "Civil War", "Spanish-American War"],
+      "answer": "Civil War"
+    },
+    {
+      "question": "Who was the first person to step on the moon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+      "answer": "Neil Armstrong"
+    },
+    {
+      "question": "Which ancient wonder was located in Babylon?",
+      "options": ["Great Pyramid", "Hanging Gardens", "Colossus of Rhodes", "Lighthouse of Alexandria"],
+      "answer": "Hanging Gardens"
+    },
+    {
+      "question": "Who wrote the Declaration of Independence?",
+      "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
+      "answer": "Thomas Jefferson"
+    },
+    {
+      "question": "Which civilization invented paper?",
+      "options": ["Egyptians", "Greeks", "Chinese", "Romans"],
+      "answer": "Chinese"
+    },
+    {
+      "question": "Who was the first female Prime Minister of Britain?",
+      "options": ["Queen Victoria", "Margaret Thatcher", "Theresa May", "Indira Gandhi"],
+      "answer": "Margaret Thatcher"
+    },
+    {
+      "question": "What was the name of the first artificial Earth satellite?",
+      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Telstar 1"],
+      "answer": "Sputnik 1"
+    },
+    {
+      "question": "First US President?",
+      "options": ["Jefferson", "Adams", "Washington", "Madison"],
+      "answer": "Washington"
+    },
+    {
+      "question": "WWII end year?",
+      "options": ["1943", "1945", "1947", "1950"],
+      "answer": "1945"
+    },
+    {
+      "question": "Pyramid builders?",
+      "options": ["Greeks", "Romans", "Egyptians", "Mayans"],
+      "answer": "Egyptians"
+    },
+    {
+      "question": "America discovered 1492 by?",
+      "options": ["Columbus", "Polo", "Erikson", "Vespucci"],
+      "answer": "Columbus"
+    },
+    {
+      "question": "Pilgrims' ship?",
+      "options": ["Mayflower", "Titanic", "Santa Maria", "Endeavour"],
+      "answer": "Mayflower"
+    },
+    {
+      "question": "Julius Caesar's empire?",
+      "options": ["Greek", "Roman", "Ottoman", "British"],
+      "answer": "Roman"
+    },
+    {
+      "question": "Famous Egyptian queen?",
+      "options": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"],
+      "answer": "Cleopatra"
+    },
+    {
+      "question": "Berlin Wall fell?",
+      "options": ["1985", "1989", "1991", "1993"],
+      "answer": "1989"
+    },
+    {
+      "question": "First Roman emperor?",
+      "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
+      "answer": "Augustus"
+    },
+    {
+      "question": "Gunpowder inventors?",
+      "options": ["Greeks", "Romans", "Chinese", "Egyptians"],
+      "answer": "Chinese"
+    },
+    {
+      "question": "Sistine Chapel painter?",
+      "options": ["Da Vinci", "Michelangelo", "Raphael", "Donatello"],
+      "answer": "Michelangelo"
+    },
+    {
+      "question": "First female PM of UK?",
+      "options": ["Victoria", "Thatcher", "May", "Gandhi"],
+      "answer": "Thatcher"
+    },
+    {
+      "question": "First satellite name?",
+      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Telstar 1"],
+      "answer": "Sputnik 1"
+    },
+    {
+      "question": "Declaration of Independence author?",
+      "options": ["Washington", "Franklin", "Jefferson", "Adams"],
+      "answer": "Jefferson"
+    },
+    {
+      "question": "Paper inventors?",
+      "options": ["Egyptians", "Greeks", "Chinese", "Romans"],
+      "answer": "Chinese"
+    },
+    {
+      "question": "First moon landing year?",
+      "options": ["1965", "1969", "1972", "1975"],
+      "answer": "1969"
+    },
+    {
+      "question": "Hanging Gardens location?",
+      "options": ["Egypt", "Babylon", "Greece", "Persia"],
+      "answer": "Babylon"
+    },
+    {
+      "question": "French Revolution start?",
+      "options": ["1776", "1789", "1799", "1812"],
+      "answer": "1789"
+    },
+    {
+      "question": "First female astronaut?",
+      "options": ["Ride", "Tereshkova", "Savitskaya", "Fisher"],
+      "answer": "Tereshkova"
+    },
+    {
+      "question": "Industrial Revolution began in?",
+      "options": ["France", "Germany", "USA", "Britain"],
+      "answer": "Britain"
+    },
+    {
+      "question": "Ancient Olympic birthplace?",
+      "options": ["Athens", "Sparta", "Olympia", "Rome"],
+      "answer": "Olympia"
+    },
+    {
+      "question": "Magna Carta signed?",
+      "options": ["1066", "1215", "1453", "1492"],
+      "answer": "1215"
+    },
+    {
+      "question": "First printing press inventor?",
+      "options": ["Da Vinci", "Gutenberg", "Edison", "Bell"],
+      "answer": "Gutenberg"
+    },
+    {
+      "question": "Cold War ended?",
+      "options": ["1985", "1989", "1991", "1993"],
+      "answer": "1991"
+    },
+    {
+      "question": "First civilization in Americas?",
+      "options": ["Inca", "Maya", "Aztec", "Olmec"],
+      "answer": "Olmec"
+    },
+    {
+      "question": "First emperor of China?",
+      "options": ["Confucius", "Qin Shi Huang", "Han Wudi", "Genghis Khan"],
+      "answer": "Qin Shi Huang"
+    },
+    {
+      "question": "First US state?",
+      "options": ["Virginia", "Massachusetts", "Delaware", "Pennsylvania"],
+      "answer": "Delaware"
+    },
+    {
+      "question": "First woman Nobel winner?",
+      "options": ["Curie", "Addams", "McClintock", "Yousafzai"],
+      "answer": "Curie"
+    },
+    {
+      "question": "First human in space?",
+      "options": ["Armstrong", "Gagarin", "Glenn", "Shepard"],
+      "answer": "Gagarin"
+    },
+    {
+      "question": "First computer programmer?",
+      "options": ["Turing", "Lovelace", "Babbage", "Hopper"],
+      "answer": "Lovelace"
     }
   ]
 }

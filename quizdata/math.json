@@ -49,6 +49,207 @@
         "question": "If you divide 100 by 4, what do you get?",
         "options": ["20", "25", "30", "40"],
         "answer": "25"
+      },
+      {
+        "question": "What is 15 squared?",
+        "options": ["150", "225", "175", "200"],
+        "answer": "225"
+      },
+      {
+        "question": "If a train travels 300 miles in 5 hours, what is its average speed?",
+        "options": ["45 mph", "55 mph", "60 mph", "65 mph"],
+        "answer": "60 mph"
+      },
+      {
+        "question": "Solve for x: 2x + 5 = 17",
+        "options": ["4", "5", "6", "7"],
+        "answer": "6"
+      },
+      {
+        "question": "What is 25% of 200?",
+        "options": ["25", "50", "75", "100"],
+        "answer": "50"
+      },
+      {
+        "question": "What is the next number in this sequence: 2, 4, 8, 16, ___?",
+        "options": ["20", "24", "32", "64"],
+        "answer": "32"
+      },
+      {
+        "question": "How many centimeters are in a meter?",
+        "options": ["10", "50", "100", "1000"],
+        "answer": "100"
+      },
+      {
+        "question": "What is the perimeter of a square with 5 cm sides?",
+        "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
+        "answer": "20 cm"
+      },
+      {
+        "question": "What is 3 to the power of 4?",
+        "options": ["12", "27", "64", "81"],
+        "answer": "81"
+      },
+      {
+        "question": "How many degrees are in a right angle?",
+        "options": ["45", "90", "180", "360"],
+        "answer": "90"
+      },
+      {
+        "question": "What is the sum of angles in a triangle?",
+        "options": ["90°", "180°", "270°", "360°"],
+        "answer": "180°"
+      },
+      {
+        "question": "7 × 8 = ?",
+        "options": ["48", "54", "56", "64"],
+        "answer": "56"
+      },
+      {
+        "question": "√144 = ?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "12"
+      },
+      {
+        "question": "15% of 200?",
+        "options": ["20", "25", "30", "35"],
+        "answer": "30"
+      },
+      {
+        "question": "Next prime after 11?",
+        "options": ["12", "13", "15", "17"],
+        "answer": "13"
+      },
+      {
+        "question": "9 squared?",
+        "options": ["81", "72", "90", "99"],
+        "answer": "81"
+      },
+      {
+        "question": "Area of 5×3 rectangle?",
+        "options": ["15", "8", "10", "12"],
+        "answer": "15"
+      },
+      {
+        "question": "Hexagon sides?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "6"
+      },
+      {
+        "question": "π value?",
+        "options": ["3.12", "3.14", "3.16", "3.18"],
+        "answer": "3.14"
+      },
+      {
+        "question": "100 ÷ 4 = ?",
+        "options": ["20", "25", "30", "40"],
+        "answer": "25"
+      },
+      {
+        "question": "Sum of angles in triangle?",
+        "options": ["90°", "180°", "270°", "360°"],
+        "answer": "180°"
+      },
+      {
+        "question": "2x + 5 = 17, x = ?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "6"
+      },
+      {
+        "question": "0.5 as fraction?",
+        "options": ["1/8", "1/4", "1/2", "3/4"],
+        "answer": "1/2"
+      },
+      {
+        "question": "Pentagon sides?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "5"
+      },
+      {
+        "question": "3³ = ?",
+        "options": ["9", "18", "27", "81"],
+        "answer": "27"
+      },
+      {
+        "question": "Diameter if radius=7?",
+        "options": ["3.5", "7", "14", "21"],
+        "answer": "14"
+      },
+      {
+        "question": "Quadrilateral angle sum?",
+        "options": ["180°", "270°", "360°", "450°"],
+        "answer": "360°"
+      },
+      {
+        "question": "Next in 2,4,8,16?",
+        "options": ["20", "24", "32", "64"],
+        "answer": "32"
+      },
+      {
+        "question": "Average of 10,20,30?",
+        "options": ["15", "20", "25", "30"],
+        "answer": "20"
+      },
+      {
+        "question": "Factors of 12?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "6"
+      },
+      {
+        "question": "15 squared?",
+        "options": ["150", "175", "200", "225"],
+        "answer": "225"
+      },
+      {
+        "question": "300 miles in 5 hours?",
+        "options": ["45 mph", "55 mph", "60 mph", "65 mph"],
+        "answer": "60 mph"
+      },
+      {
+        "question": "25% of 200?",
+        "options": ["25", "50", "75", "100"],
+        "answer": "50"
+      },
+      {
+        "question": "1 meter = ? cm",
+        "options": ["10", "50", "100", "1000"],
+        "answer": "100"
+      },
+      {
+        "question": "Perimeter of 5cm square?",
+        "options": ["10cm", "15cm", "20cm", "25cm"],
+        "answer": "20cm"
+      },
+      {
+        "question": "Right angle degrees?",
+        "options": ["45", "90", "180", "360"],
+        "answer": "90"
+      },
+      {
+        "question": "Prime numbers <10?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      {
+        "question": "1/4 as decimal?",
+        "options": ["0.15", "0.20", "0.25", "0.30"],
+        "answer": "0.25"
+      },
+      {
+        "question": "20% as fraction?",
+        "options": ["1/2", "1/4", "1/5", "1/10"],
+        "answer": "1/5"
+      },
+      {
+        "question": "3/4 + 1/2 = ?",
+        "options": ["1", "1.25", "1.5", "2"],
+        "answer": "1.25"
+      },
+      {
+        "question": "10² - 5² = ?",
+        "options": ["25", "50", "75", "100"],
+        "answer": "75"
       }
     ]
   }
+  

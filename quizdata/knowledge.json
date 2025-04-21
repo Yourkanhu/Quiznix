@@ -49,6 +49,206 @@
         "question": "Who painted the Mona Lisa?",
         "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
         "answer": "Leonardo da Vinci"
+      },
+      {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
+        "answer": "Australia"
+      },
+      {
+        "question": "Which language has the most native speakers?",
+        "options": ["English", "Spanish", "Hindi", "Mandarin"],
+        "answer": "Mandarin"
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Mount Everest"
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "What is the most widely spoken language in Africa?",
+        "options": ["English", "French", "Arabic", "Swahili"],
+        "answer": "Arabic"
+      },
+      {
+        "question": "Which country has the most time zones?",
+        "options": ["USA", "Russia", "China", "France"],
+        "answer": "France"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Won", "Yen", "Ringgit", "Baht"],
+        "answer": "Yen"
+      },
+      {
+        "question": "Which city is known as the 'City of Love'?",
+        "options": ["Venice", "Rome", "Paris", "Vienna"],
+        "answer": "Paris"
+      },
+      {
+        "question": "What is the national animal of Canada?",
+        "options": ["Moose", "Beaver", "Polar Bear", "Bald Eagle"],
+        "answer": "Beaver"
+      },
+      {
+        "question": "Capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "answer": "Canberra"
+      },
+      {
+        "question": "Largest ocean?",
+        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+        "answer": "Pacific"
+      },
+      {
+        "question": "Element symbol O?",
+        "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
+        "answer": "Oxygen"
+      },
+      {
+        "question": "Longest river?",
+        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+        "answer": "Nile"
+      },
+      {
+        "question": "Mona Lisa painter?",
+        "options": ["Da Vinci", "Picasso", "Van Gogh", "Michelangelo"],
+        "answer": "Da Vinci"
+      },
+      {
+        "question": "India independence year?",
+        "options": ["1947", "1950", "1935", "1942"],
+        "answer": "1947"
+      },
+      {
+        "question": "Largest mammal?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippo"],
+        "answer": "Blue Whale"
+      },
+      {
+        "question": "Romeo & Juliet author?",
+        "options": ["Shakespeare", "Dickens", "Austen", "Tolstoy"],
+        "answer": "Shakespeare"
+      },
+      {
+        "question": "Most spoken language?",
+        "options": ["English", "Spanish", "Hindi", "Mandarin"],
+        "answer": "Mandarin"
+      },
+      {
+        "question": "Statue of Liberty gifter?",
+        "options": ["England", "Spain", "France", "Italy"],
+        "answer": "France"
+      },
+      {
+        "question": "Tallest mountain?",
+        "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
+        "answer": "Everest"
+      },
+      {
+        "question": "Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+      },
+      {
+        "question": "Currency of Japan?",
+        "options": ["Won", "Yen", "Ringgit", "Baht"],
+        "answer": "Yen"
+      },
+      {
+        "question": "Desert ship animal?",
+        "options": ["Horse", "Elephant", "Camel", "Donkey"],
+        "answer": "Camel"
+      },
+      {
+        "question": "Great Barrier Reef location?",
+        "options": ["Australia", "Belize", "New Caledonia", "Red Sea"],
+        "answer": "Australia"
+      },
+      {
+        "question": "Land of Rising Sun?",
+        "options": ["China", "Japan", "Korea", "Thailand"],
+        "answer": "Japan"
+      },
+      {
+        "question": "Largest desert?",
+        "options": ["Sahara", "Arabian", "Gobi", "Antarctica"],
+        "answer": "Antarctica"
+      },
+      {
+        "question": "Morning Star planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+        "answer": "Venus"
+      },
+      {
+        "question": "Brazil capital?",
+        "options": ["Rio", "São Paulo", "Brasília", "Salvador"],
+        "answer": "Brasília"
+      },
+      {
+        "question": "Most time zones country?",
+        "options": ["USA", "Russia", "China", "France"],
+        "answer": "France"
+      },
+      {
+        "question": "City of Love?",
+        "options": ["Venice", "Rome", "Paris", "Vienna"],
+        "answer": "Paris"
+      },
+      {
+        "question": "Canada national animal?",
+        "options": ["Moose", "Beaver", "Polar Bear", "Eagle"],
+        "answer": "Beaver"
+      },
+      {
+        "question": "Biggest island?",
+        "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+        "answer": "Greenland"
+      },
+      {
+        "question": "Smallest country?",
+        "options": ["Monaco", "Nauru", "Vatican", "San Marino"],
+        "answer": "Vatican"
+      },
+      {
+        "question": "Most populated city?",
+        "options": ["Tokyo", "Delhi", "Shanghai", "São Paulo"],
+        "answer": "Tokyo"
+      },
+      {
+        "question": "Oldest civilization?",
+        "options": ["Egypt", "Mesopotamia", "Indus", "China"],
+        "answer": "Mesopotamia"
+      },
+      {
+        "question": "Invention year of telephone?",
+        "options": ["1876", "1854", "1892", "1901"],
+        "answer": "1876"
+      },
+      {
+        "question": "UN headquarters?",
+        "options": ["Geneva", "New York", "Vienna", "Nairobi"],
+        "answer": "New York"
+      },
+      {
+        "question": "First woman in space?",
+        "options": ["Tereshkova", "Ride", "Savitskaya", "Fisher"],
+        "answer": "Tereshkova"
+      },
+      {
+        "question": "Inventor of light bulb?",
+        "options": ["Edison", "Tesla", "Swan", "Latimer"],
+        "answer": "Edison"
       }
     ]
   }

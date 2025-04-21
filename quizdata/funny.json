@@ -49,6 +49,206 @@
         "question": "What did one wall say to the other wall?",
         "options": ["I will meet you at the corner", "You are strong", "Let us stick together", "We are supporting each other"],
         "answer": "I will meet you at the corner"
+      },
+      {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "A toothless bear", "A hungry bear", "A sad bear"],
+        "answer": "A gummy bear"
+      },
+      {
+        "question": "Why don't skeletons fight each other?",
+        "options": ["They don't have the guts", "They're too brittle", "They're already dead", "They're scared"],
+        "answer": "They don't have the guts"
+      },
+      {
+        "question": "What's brown and sticky?",
+        "options": ["A stick", "Chocolate", "Mud", "A brownie"],
+        "answer": "A stick"
+      },
+      {
+        "question": "What do you get when you cross a snowman and a vampire?",
+        "options": ["Frostbite", "A cold-blooded killer", "Snowflakes", "A winter nightmare"],
+        "answer": "Frostbite"
+      },
+      {
+        "question": "What's the best thing about Switzerland?",
+        "options": ["The chocolate", "The flag is a big plus", "The mountains", "The watches"],
+        "answer": "The flag is a big plus"
+      },
+      {
+        "question": "Why don't eggs tell jokes?",
+        "options": ["They'd crack each other up", "They're too fragile", "They're not funny", "They're always poached"],
+        "answer": "They'd crack each other up"
+      },
+      {
+        "question": "How do you organize a space party?",
+        "options": ["You planet", "With moon pies", "Invite aliens", "Book a rocket"],
+        "answer": "You planet"
+      },
+      {
+        "question": "Why did the golfer bring two pairs of pants?",
+        "options": ["In case he got a hole in one", "He was indecisive", "For different courses", "He forgot he already had some"],
+        "answer": "In case he got a hole in one"
+      },
+      {
+        "question": "What did the ocean say to the beach?",
+        "options": ["Nothing, it just waved", "Let's stick together", "You're so sandy", "I'm tide of you"],
+        "answer": "Nothing, it just waved"
+      },
+      {
+        "question": "Why did the tomato turn red?",
+        "options": ["It saw the salad dressing", "It was ripe", "It was embarrassed", "It was painted"],
+        "answer": "It saw the salad dressing"
+      },
+      {
+        "question": "Why did the cookie go to the doctor?",
+        "options": ["It was feeling sweet", "It was feeling crummy", "It had a chip", "It needed checkup"],
+        "answer": "It was feeling crummy"
+      },
+      {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "Toothless", "Hungry bear", "Sad bear"],
+        "answer": "A gummy bear"
+      },
+      {
+        "question": "Why don't skeletons fight?",
+        "options": ["No guts", "Too brittle", "Already dead", "They're scared"],
+        "answer": "No guts"
+      },
+      {
+        "question": "What's brown and sticky?",
+        "options": ["A stick", "Chocolate", "Mud", "Honey"],
+        "answer": "A stick"
+      },
+      {
+        "question": "Why did the scarecrow win an award?",
+        "options": ["Outstanding in field", "Scared most crows", "Talented", "Judges pitied"],
+        "answer": "Outstanding in field"
+      },
+      {
+        "question": "What do fake noodles call themselves?",
+        "options": ["Impasta", "Noodle faker", "Pasta clone", "Faux-odles"],
+        "answer": "Impasta"
+      },
+      {
+        "question": "Why was the computer cold?",
+        "options": ["Windows open", "No heater", "Frozen", "AC too high"],
+        "answer": "Windows open"
+      },
+      {
+        "question": "What did one wall say to other?",
+        "options": ["Meet at corner", "You're strong", "Let's stick", "Support each other"],
+        "answer": "Meet at corner"
+      },
+      {
+        "question": "Why don't eggs joke?",
+        "options": ["Crack up", "Too fragile", "Not funny", "Always poached"],
+        "answer": "Crack up"
+      },
+      {
+        "question": "How organize space party?",
+        "options": ["You planet", "Moon pies", "Invite aliens", "Rocket venue"],
+        "answer": "You planet"
+      },
+      {
+        "question": "Why tomato turn red?",
+        "options": ["Saw dressing", "Ripe", "Embarrassed", "Sunburn"],
+        "answer": "Saw dressing"
+      },
+      {
+        "question": "What cheese isn't yours?",
+        "options": ["Nacho", "Stolen", "Foreign", "Borrowed"],
+        "answer": "Nacho"
+      },
+      {
+        "question": "Why bicycle fall?",
+        "options": ["Two-tired", "Unbalanced", "Broken", "Ghost"],
+        "answer": "Two-tired"
+      },
+      {
+        "question": "Why nose can't be 12 inches?",
+        "options": ["Be a foot", "Look silly", "Won't fit", "Doctors ban"],
+        "answer": "Be a foot"
+      },
+      {
+        "question": "Grape stepped on said?",
+        "options": ["Let out wine", "Ouch", "Help", "Squished"],
+        "answer": "Let out wine"
+      },
+      {
+        "question": "What's orange sounds like parrot?",
+        "options": ["Carrot", "Orange", "Macaw", "Squawk"],
+        "answer": "Carrot"
+      },
+      {
+        "question": "Why math book sad?",
+        "options": ["Too problems", "Torn", "Failed", "Old"],
+        "answer": "Too problems"
+      },
+      {
+        "question": "What tree fits hand?",
+        "options": ["Palm", "Bonsai", "Twig", "Sapling"],
+        "answer": "Palm"
+      },
+      {
+        "question": "Why couldn't leopard hide?",
+        "options": ["Always spotted", "Bad at hiding", "Loud", "Clumsy"],
+        "answer": "Always spotted"
+      },
+      {
+        "question": "What's best Switzerland?",
+        "options": ["Chocolate", "Flag plus", "Mountains", "Watches"],
+        "answer": "Flag plus"
+      },
+      {
+        "question": "Why melons marry?",
+        "options": ["Cantaloupe", "Sweet", "Round", "Seedy"],
+        "answer": "Cantaloupe"
+      },
+      {
+        "question": "Why ghost bad liar?",
+        "options": ["Transparent", "No body", "Scary", "Boo"],
+        "answer": "Transparent"
+      },
+      {
+        "question": "Why chicken coop?",
+        "options": ["Only 2 doors", "For chickens", "Eggs", "Farm"],
+        "answer": "Only 2 doors"
+      },
+      {
+        "question": "What's blue smells paint?",
+        "options": ["Blue paint", "Ocean", "Sky", "Berry"],
+        "answer": "Blue paint"
+      },
+      {
+        "question": "Why banana go doctor?",
+        "options": ["Peeling bad", "Too yellow", "Bent", "Old"],
+        "answer": "Peeling bad"
+      },
+      {
+        "question": "Why can't elbow talk?",
+        "options": ["No body", "It's joint", "Bony", "Shy"],
+        "answer": "No body"
+      },
+      {
+        "question": "What's fast loud snack?",
+        "options": ["Popcorn", "Chips", "Nuts", "Cookie"],
+        "answer": "Popcorn"
+      },
+      {
+        "question": "Why did golfer wear two pants?",
+        "options": ["Hole in one", "Fashion", "Cold", "Lost"],
+        "answer": "Hole in one"
+      },
+      {
+        "question": "What's astronaut's favorite key?",
+        "options": ["Spacebar", "Rocket", "Moon", "Star"],
+        "answer": "Spacebar"
+      },
+      {
+        "question": "Why did bee marry?",
+        "options": ["Found honey", "Queen", "Stung", "Love"],
+        "answer": "Found honey"
       }
     ]
   }

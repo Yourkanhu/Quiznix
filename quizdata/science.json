@@ -49,6 +49,206 @@
         "question": "What is the main source of energy for Earth?",
         "options": ["The Moon", "Electricity", "The Sun", "Wind"],
         "answer": "The Sun"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+      },
+      {
+        "question": "What is H₂O more commonly known as?",
+        "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
+        "answer": "Water"
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Saturn"
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Mercury", "Lead", "Aluminum", "Copper"],
+        "answer": "Mercury"
+      },
+      {
+        "question": "What is the pH value of pure water?",
+        "options": ["5", "7", "9", "12"],
+        "answer": "7"
+      },
+      {
+        "question": "Which gas makes up about 78% of Earth's atmosphere?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "What is the fastest land animal?",
+        "options": ["Lion", "Cheetah", "Pronghorn Antelope", "Greyhound"],
+        "answer": "Cheetah"
+      },
+      {
+        "question": "Which blood type is the universal donor?",
+        "options": ["A", "B", "AB", "O"],
+        "answer": "O"
+      },
+      {
+        "question": "What is the study of fossils called?",
+        "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
+        "answer": "Paleontology"
+      },
+      {
+        "question": "Chemical symbol for gold?",
+        "options": ["Go", "Gd", "Au", "Ag"],
+        "answer": "Au"
+      },
+      {
+        "question": "H₂O is?",
+        "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
+        "answer": "Water"
+      },
+      {
+        "question": "Planet with most moons?",
+        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+        "answer": "Saturn"
+      },
+      {
+        "question": "Hardest natural substance?",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "Liquid metal at room temp?",
+        "options": ["Mercury", "Lead", "Aluminum", "Copper"],
+        "answer": "Mercury"
+      },
+      {
+        "question": "pH of pure water?",
+        "options": ["5", "7", "9", "12"],
+        "answer": "7"
+      },
+      {
+        "question": "Main atmospheric gas?",
+        "options": ["Oxygen", "CO₂", "Nitrogen", "Helium"],
+        "answer": "Nitrogen"
+      },
+      {
+        "question": "Fastest land animal?",
+        "options": ["Lion", "Cheetah", "Antelope", "Greyhound"],
+        "answer": "Cheetah"
+      },
+      {
+        "question": "Universal blood donor?",
+        "options": ["A", "B", "AB", "O"],
+        "answer": "O"
+      },
+      {
+        "question": "Study of fossils?",
+        "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
+        "answer": "Paleontology"
+      },
+      {
+        "question": "Silver symbol?",
+        "options": ["Si", "Sv", "Ag", "Au"],
+        "answer": "Ag"
+      },
+      {
+        "question": "Ringed planet?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+      },
+      {
+        "question": "Sun's main component?",
+        "options": ["Lava", "Hydrogen", "Oxygen", "Helium"],
+        "answer": "Hydrogen"
+      },
+      {
+        "question": "Plant water absorption?",
+        "options": ["Leaves", "Stem", "Roots", "Flowers"],
+        "answer": "Roots"
+      },
+      {
+        "question": "Mushroom study?",
+        "options": ["Botany", "Mycology", "Zoology", "Entomology"],
+        "answer": "Mycology"
+      },
+      {
+        "question": "Best electricity conductor?",
+        "options": ["Iron", "Copper", "Aluminum", "Silver"],
+        "answer": "Silver"
+      },
+      {
+        "question": "Human bone count?",
+        "options": ["206", "300", "150", "500"],
+        "answer": "206"
+      },
+      {
+        "question": "Nearest star to Earth?",
+        "options": ["Proxima Centauri", "Sun", "Alpha Centauri", "Sirius"],
+        "answer": "Sun"
+      },
+      {
+        "question": "Largest organ?",
+        "options": ["Liver", "Brain", "Skin", "Lungs"],
+        "answer": "Skin"
+      },
+      {
+        "question": "Photosynthesis gas?",
+        "options": ["Oxygen", "CO₂", "Nitrogen", "Hydrogen"],
+        "answer": "CO₂"
+      },
+      {
+        "question": "Atomic number of carbon?",
+        "options": ["6", "12", "14", "16"],
+        "answer": "6"
+      },
+      {
+        "question": "Mitochondria function?",
+        "options": ["Protein", "Energy", "Waste", "Protection"],
+        "answer": "Energy"
+      },
+      {
+        "question": "Light speed (m/s)?",
+        "options": ["300,000", "150,000", "1 million", "30,000"],
+        "answer": "300,000"
+      },
+      {
+        "question": "Earth's core mainly?",
+        "options": ["Iron", "Nickel", "Magnesium", "Silicon"],
+        "answer": "Iron"
+      },
+      {
+        "question": "DNA shape?",
+        "options": ["Spiral", "Helix", "Double helix", "Ladder"],
+        "answer": "Double helix"
+      },
+      {
+        "question": "Newton's 1st law?",
+        "options": ["Inertia", "F=ma", "Action-reaction", "Gravity"],
+        "answer": "Inertia"
+      },
+      {
+        "question": "Ozone layer protects from?",
+        "options": ["UV", "IR", "X-rays", "Microwaves"],
+        "answer": "UV"
+      },
+      {
+        "question": "Human genome pairs?",
+        "options": ["23", "46", "64", "128"],
+        "answer": "23"
+      },
+      {
+        "question": "Most abundant gas in universe?",
+        "options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
+        "answer": "Hydrogen"
+      },
+      {
+        "question": "Plant cell wall made of?",
+        "options": ["Chitin", "Cellulose", "Protein", "Silica"],
+        "answer": "Cellulose"
       }
     ]
   }
