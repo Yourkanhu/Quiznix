@@ -82,19 +82,6 @@ st.markdown("""
             transition: width 0.5s;
         }
         
-        .timer-container {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            background: #0B2E33;
-            padding: 5px 15px;
-            border-radius: 20px;
-            border: 2px solid #B8E3E9;
-            font-weight: bold;
-            color: #B8E3E9;
-            z-index: 1000;
-        }
-        
         .home-button {
             position: fixed;
             top: 10px;
@@ -126,10 +113,7 @@ defaults = {
     "num_questions": 10,
     "answer_shown": False,
     "selected_option": None,
-    "show_confirm_home": False,
-    "timer": 15,
-    "timer_active": False,
-    "start_time": None
+    "show_confirm_home": False
 }
 for k, v in defaults.items():
     if k not in st.session_state:
@@ -165,23 +149,6 @@ def save_to_leaderboard():
             json.dump(data, f, indent=2)
     except Exception as e:
         st.error(f"Error saving leaderboard: {e}")
-
-def start_timer():
-    st.session_state.timer_active = True
-    st.session_state.start_time = time.time()
-    st.session_state.timer = 15
-
-def update_timer():
-    if st.session_state.timer_active:
-        elapsed = time.time() - st.session_state.start_time
-        st.session_state.timer = max(0, 15 - int(elapsed))
-        if st.session_state.timer <= 0:
-            st.session_state.timer_active = False
-            st.session_state.answer_shown = True
-            st.session_state.q_index += 1
-            if st.session_state.q_index < st.session_state.num_questions:
-                start_timer()
-            st.rerun()
 
 # -------------------- APP SCREENS --------------------
 st.markdown("<h1 style='text-align:center;'>Welcome to Quiznix</h1>", unsafe_allow_html=True)
@@ -260,7 +227,6 @@ elif st.session_state.stage == "choose_num":
             st.session_state.q_index = 0
             st.session_state.score = 0
             st.session_state.stage = "quiz"
-            start_timer()
             st.rerun()
         else:
             st.error("No questions available. Try another category.")
@@ -269,15 +235,6 @@ elif st.session_state.stage == "choose_num":
 elif st.session_state.stage == "quiz":
     q_index = st.session_state.q_index
     questions = st.session_state.questions
-    
-    # Timer display
-    if st.session_state.timer_active:
-        update_timer()
-        st.markdown(f"""
-            <div class="timer-container">
-                ⏱️ {st.session_state.timer}s
-            </div>
-        """, unsafe_allow_html=True)
     
     # Home button
     st.markdown("""
@@ -328,7 +285,6 @@ elif st.session_state.stage == "quiz":
             if selected is None:
                 st.warning("Please select an answer before submitting!")
             else:
-                st.session_state.timer_active = False
                 st.session_state.selected_option = selected
                 st.session_state.answer_shown = True
                 if selected == q["answer"]:
@@ -340,14 +296,11 @@ elif st.session_state.stage == "quiz":
                 time.sleep(1.5)
                 st.session_state.q_index += 1
                 st.session_state.answer_shown = False
-                if st.session_state.q_index < st.session_state.num_questions:
-                    start_timer()
                 st.rerun()
     
     # QUIZ COMPLETED
     else:
-        st.session_state.timer_active = False
-        st.balloons()
+        st.balloons()  # Confetti animation
         st.markdown(f"""
             <div style="text-align:center;">
                 <h2>🎉 Quiz Completed!</h2>
