@@ -13,7 +13,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed"
 )
 
-# -------------------- ORANGE-BLACK NEON THEME & STYLES --------------------
+# -------------------- THEME & STYLES --------------------
 st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
@@ -23,129 +23,91 @@ st.markdown("""
         }
         
         .main {
-            background: #0a0a0a;
-            color: #ffffff;
+            background: linear-gradient(135deg, #0B2E33 0%, #1c1c2d 100%);
+            color: white;
         }
         
         .stButton>button {
-            background: linear-gradient(90deg, #ff7b00 0%, #ff5500 100%);
-            color: #000000;
+            background: linear-gradient(90deg, #4F7C82 0%, #93B1B5 100%);
+            color: black;
             font-weight: bold;
             border: none;
-            border-radius: 12px;
-            padding: 12px 28px;
+            border-radius: 8px;
+            padding: 10px 24px;
             transition: all 0.3s;
-            box-shadow: 0 0 15px rgba(255, 123, 0, 0.5);
-            border: 1px solid #ff7b00;
         }
         
         .stButton>button:hover {
             transform: scale(1.05);
-            box-shadow: 0 0 25px rgba(255, 123, 0, 0.8);
+            box-shadow: 0 0 15px #B8E3E9;
         }
         
         .stRadio>div {
-            background: rgba(40, 40, 40, 0.8);
-            border-radius: 12px;
-            padding: 18px;
-            border: 2px solid #ff7b00;
-            box-shadow: 0 0 10px rgba(255, 123, 0, 0.3);
-        }
-        
-        /* Prevent auto-selection of first option */
-        .stRadio>div>div:first-child {
-            display: none !important;
+            background: #1c1c2d;
+            border-radius: 10px;
+            padding: 15px;
+            border: 1px solid #4F7C82;
         }
         
         .stTextInput>div>div>input {
-            background: rgba(40, 40, 40, 0.8) !important;
+            background: #1c1c2d !important;
             color: white !important;
-            border: 2px solid #ff7b00 !important;
-            border-radius: 8px;
-            padding: 10px;
-            box-shadow: 0 0 10px rgba(255, 123, 0, 0.2);
-            transition: all 0.3s;
-        }
-        
-        /* 3D box effect and animation for input fields */
-        .stTextInput>div>div>input:focus {
-            box-shadow: 0 0 20px rgba(255, 123, 0, 0.5);
-            transform: translateY(-2px);
-            border: 2px solid #ffaa00 !important;
-        }
-        
-        /* Hover effect for input fields */
-        .stTextInput>div>div>input:hover {
-            box-shadow: 0 0 15px rgba(255, 123, 0, 0.4);
+            border: 1px solid #4F7C82 !important;
         }
         
         h1, h2, h3 {
-            color: #ff7b00 !important;
+            color: #B8E3E9 !important;
             text-align: center;
-            text-shadow: 0 0 10px rgba(255, 123, 0, 0.5);
         }
         
         .quiz-card {
-            background: rgba(40, 40, 40, 0.8);
-            padding: 25px;
-            border-radius: 15px;
-            border-left: 5px solid #ff7b00;
-            margin-bottom: 25px;
-            box-shadow: 0 0 20px rgba(255, 123, 0, 0.3);
+            background: #1c1c2d;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #4F7C82;
+            margin-bottom: 20px;
         }
         
         .progress-bar {
             height: 20px;
-            background: rgba(40, 40, 40, 0.8);
+            background: #1c1c2d;
             border-radius: 10px;
-            margin: 15px 0;
-            box-shadow: 0 0 10px rgba(255, 123, 0, 0.2);
+            margin: 10px 0;
         }
         
         .progress-fill {
             height: 100%;
-            background: linear-gradient(90deg, #ff7b00 0%, #ff5500 100%);
+            background: linear-gradient(90deg, #4F7C82 0%, #93B1B5 100%);
             border-radius: 10px;
             transition: width 0.5s;
-            box-shadow: 0 0 10px rgba(255, 123, 0, 0.5);
         }
         
-        /* Home button positioning */
-        .home-btn {
-            position: fixed;
-            top: 15px;
-            right: 15px;
-            z-index: 100;
-        }
-        
-        /* Timer styling */
         .timer-container {
             position: fixed;
-            top: 15px;
-            left: 15px;
-            z-index: 100;
-            background: rgba(40, 40, 40, 0.9);
-            padding: 8px 15px;
+            top: 10px;
+            right: 10px;
+            background: #0B2E33;
+            padding: 5px 15px;
             border-radius: 20px;
-            border: 2px solid #ff7b00;
-            box-shadow: 0 0 10px rgba(255, 123, 0, 0.3);
-        }
-        
-        .timer {
-            color: #ff7b00;
+            border: 2px solid #B8E3E9;
             font-weight: bold;
-            font-size: 1.1rem;
-            text-shadow: 0 0 5px rgba(255, 123, 0, 0.5);
+            color: #B8E3E9;
+            z-index: 1000;
         }
         
-        .timer-warning {
-            color: #ff0000;
-            animation: pulse 0.5s infinite alternate;
+        .home-button {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            z-index: 1000;
         }
         
-        @keyframes pulse {
-            from { opacity: 1; }
-            to { opacity: 0.7; }
+        .home-button button {
+            background: #0B2E33 !important;
+            color: #B8E3E9 !important;
+            border: 1px solid #B8E3E9 !important;
+            border-radius: 5px;
+            padding: 5px 10px;
         }
     </style>
 """, unsafe_allow_html=True)
@@ -165,9 +127,9 @@ defaults = {
     "answer_shown": False,
     "selected_option": None,
     "show_confirm_home": False,
-    "start_time": None,
-    "question_start_time": None,
-    "time_left": 30  # 30 seconds per question
+    "timer": 15,
+    "timer_active": False,
+    "start_time": None
 }
 for k, v in defaults.items():
     if k not in st.session_state:
@@ -179,8 +141,7 @@ def load_questions(category):
     try:
         with open(f"quizdata/{category}.json", "r") as f:
             data = json.load(f)
-            questions = data.get("questions", [])
-            return questions
+            return data.get("questions", [])
     except Exception as e:
         st.error(f"Error loading questions: {e}")
         return []
@@ -205,61 +166,30 @@ def save_to_leaderboard():
     except Exception as e:
         st.error(f"Error saving leaderboard: {e}")
 
+def start_timer():
+    st.session_state.timer_active = True
+    st.session_state.start_time = time.time()
+    st.session_state.timer = 15
+
 def update_timer():
-    """Update the timer and handle timeouts."""
-    if st.session_state.stage == "quiz" and st.session_state.question_start_time:
-        elapsed = time.time() - st.session_state.question_start_time
-        st.session_state.time_left = max(0, 30 - int(elapsed))
-        
-        if st.session_state.time_left <= 0:
-            st.session_state.selected_option = None
+    if st.session_state.timer_active:
+        elapsed = time.time() - st.session_state.start_time
+        st.session_state.timer = max(0, 15 - int(elapsed))
+        if st.session_state.timer <= 0:
+            st.session_state.timer_active = False
             st.session_state.answer_shown = True
-            st.error("⏰ Time's up! Moving to next question.")
-            time.sleep(1.5)
             st.session_state.q_index += 1
             if st.session_state.q_index < st.session_state.num_questions:
-                st.session_state.question_start_time = time.time()
-                st.session_state.time_left = 30
-            st.session_state.answer_shown = False
+                start_timer()
             st.rerun()
 
 # -------------------- APP SCREENS --------------------
 st.markdown("<h1 style='text-align:center;'>Welcome to Quiznix</h1>", unsafe_allow_html=True)
 
-# Global home button (only for quiz screens)
-if st.session_state.stage in ["quiz", "suggest"]:
-    st.markdown("""
-        <div class="home-btn">
-            <button onclick="window.streamlitScriptHost.requestRerun({'stage': 'confirm_home'})" style="
-                background: linear-gradient(90deg, #ff3d00 0%, #ff1a00 100%);
-                color: white;
-                border: none;
-                border-radius: 50%;
-                width: 50px;
-                height: 50px;
-                font-size: 20px;
-                cursor: pointer;
-                box-shadow: 0 0 15px rgba(255, 61, 0, 0.7);
-                transition: all 0.3s;
-            " onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 0 20px rgba(255, 61, 0, 0.9)'" 
-            onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 0 15px rgba(255, 61, 0, 0.7)'">🏠</button>
-        </div>
-    """, unsafe_allow_html=True)
-
-# Timer display (only for quiz screen)
-if st.session_state.stage == "quiz":
-    update_timer()
-    timer_class = "timer-warning" if st.session_state.time_left <= 10 else "timer"
-    st.markdown(f"""
-        <div class="timer-container">
-            <span class="{timer_class}">⏱️ {st.session_state.time_left}s</span>
-        </div>
-    """, unsafe_allow_html=True)
-
 # 1. EMAIL SCREEN
 if st.session_state.stage == "email":
     st.subheader("Enter Your Email")
-    email = st.text_input("Email", placeholder="example@email.com", key="email_input")
+    email = st.text_input("Email", placeholder="example@email.com")
     if st.button("Send OTP"):
         if "@" in email and "." in email:
             otp = str(random.randint(1000, 9999))
@@ -277,7 +207,7 @@ if st.session_state.stage == "email":
 # 2. OTP SCREEN
 elif st.session_state.stage == "otp":
     st.subheader("Verify OTP")
-    entered_otp = st.text_input("Enter 4-digit OTP", max_chars=4, key="otp_input")
+    entered_otp = st.text_input("Enter 4-digit OTP", max_chars=4)
     if st.button("Verify"):
         if verify_entered_otp(entered_otp, st.session_state.otp):
             st.success("OTP Verified! ✅")
@@ -291,7 +221,7 @@ elif st.session_state.stage == "otp":
 # 3. NAME SCREEN
 elif st.session_state.stage == "name":
     st.subheader("Enter Your Name")
-    name = st.text_input("Name", placeholder="John Doe", key="name_input")
+    name = st.text_input("Name", placeholder="John Doe")
     if st.button("Continue"):
         if name.strip():
             st.session_state.name = name
@@ -307,6 +237,9 @@ elif st.session_state.stage == "category":
     cols = st.columns(4)
     for i, cat in enumerate(categories):
         with cols[i % 4]:
+            icon_path = f"assets/icons/{cat}.png"
+            if os.path.exists(icon_path):
+                st.image(icon_path, width=80)
             if st.button(cat.capitalize(), key=f"cat_{i}"):
                 st.session_state.category = cat
                 st.session_state.stage = "choose_num"
@@ -315,114 +248,125 @@ elif st.session_state.stage == "category":
 # 5. NUMBER OF QUESTIONS
 elif st.session_state.stage == "choose_num":
     st.subheader(f"Select Questions for {st.session_state.category.capitalize()}")
-    available_questions = len(load_questions(st.session_state.category))
-    max_questions = min(20, available_questions)
-    
-    num = st.slider(
-        "Number of Questions",
-        min_value=5,
-        max_value=max_questions,
-        value=min(10, max_questions),
-        step=5,
-        help=f"Total available: {available_questions} questions"
-    )
-    
+    num = st.slider("Number of Questions", 5, 20, 10, step=5)
     if st.button("Start Quiz"):
         questions = load_questions(st.session_state.category)
         if questions:
             selected_qs = random.sample(questions, min(num, len(questions)))
             for q in selected_qs:
                 q["shuffled_options"] = random.sample(q["options"], len(q["options"]))
-            
             st.session_state.questions = selected_qs
-            st.session_state.num_questions = len(selected_qs)
+            st.session_state.num_questions = num
             st.session_state.q_index = 0
             st.session_state.score = 0
-            st.session_state.start_time = time.time()
-            st.session_state.question_start_time = time.time()
-            st.session_state.time_left = 30
             st.session_state.stage = "quiz"
+            start_timer()
             st.rerun()
         else:
             st.error("No questions available. Try another category.")
 
 # 6. QUIZ SCREEN
 elif st.session_state.stage == "quiz":
-    # Handle home confirmation
-    if st.session_state.get("stage") == "confirm_home":
+    q_index = st.session_state.q_index
+    questions = st.session_state.questions
+    
+    # Timer display
+    if st.session_state.timer_active:
+        update_timer()
+        st.markdown(f"""
+            <div class="timer-container">
+                ⏱️ {st.session_state.timer}s
+            </div>
+        """, unsafe_allow_html=True)
+    
+    # Home button
+    st.markdown("""
+        <div class="home-button">
+            <button onclick="window.streamlitScriptHostCommunication.comm.sendMessage({type: 'SET_QUERY_PARAMS', queryParams: {'home': 'true'}});" 
+                style="background: #0B2E33; color: #B8E3E9; border: 1px solid #B8E3E9; border-radius: 5px; padding: 5px 10px; cursor: pointer;">
+                🏠 Home
+            </button>
+        </div>
+    """, unsafe_allow_html=True)
+    
+    if st.query_params.get("home") == "true":
         st.session_state.show_confirm_home = True
-        st.session_state.stage = "quiz"
     
-    if st.session_state.show_confirm_home:
-        st.warning("Are you sure you want to quit the quiz?")
-        col1, col2 = st.columns(2)
-        with col1:
-            if st.button("Yes, Quit"):
-                st.session_state.stage = "category"
-                st.session_state.show_confirm_home = False
-                st.rerun()
-        with col2:
-            if st.button("No, Continue"):
-                st.session_state.show_confirm_home = False
-                st.rerun()
-    
-    # Quiz container
-    with st.container():
-        q_index = st.session_state.q_index
-        questions = st.session_state.questions
+    if q_index < st.session_state.num_questions:
+        q = questions[q_index]
+        st.markdown(f"""
+            <div class="quiz-card">
+                <h3>Q{q_index+1}. {q['question']}</h3>
+            </div>
+        """, unsafe_allow_html=True)
         
-        if q_index < st.session_state.num_questions:
-            q = questions[q_index]
-            st.markdown(f"""
-                <div class="quiz-card">
-                    <h3>Q{q_index+1}. {q['question']}</h3>
-                </div>
-            """, unsafe_allow_html=True)
-            
-            selected = st.radio(
-                "Choose an option:", 
-                q["shuffled_options"], 
-                key=f"q_{q_index}",
-                index=None  # No default selection
-            )
-            
-            if st.button("Submit Answer", key=f"submit_{q_index}"):
-                if selected is None:
-                    st.warning("Please select an option!")
-                else:
-                    st.session_state.selected_option = selected
-                    st.session_state.answer_shown = True
-                    if selected == q["answer"]:
-                        st.success("✅ Correct!")
-                        st.session_state.score += 1
-                    else:
-                        st.error("❌ Incorrect!")
-                        st.info(f"Correct Answer: **{q['answer']}**")
-                    time.sleep(1.5)
-                    st.session_state.q_index += 1
-                    if st.session_state.q_index < st.session_state.num_questions:
-                        st.session_state.question_start_time = time.time()
-                        st.session_state.time_left = 30
-                    st.session_state.answer_shown = False
+        # Modified radio button with index=None to prevent auto-selection
+        selected = st.radio(
+            "Choose an option:", 
+            q["shuffled_options"], 
+            key=f"q_{q_index}",
+            index=None  # No option selected by default
+        )
+        
+        # Home Button Confirmation
+        if st.session_state.show_confirm_home:
+            st.warning("Are you sure you want to quit the quiz?")
+            col1, col2 = st.columns(2)
+            with col1:
+                if st.button("Yes, Quit"):
+                    st.session_state.stage = "category"
+                    st.session_state.show_confirm_home = False
+                    st.query_params.clear()
+                    st.rerun()
+            with col2:
+                if st.button("No, Continue"):
+                    st.session_state.show_confirm_home = False
+                    st.query_params.clear()
                     st.rerun()
         
-        # QUIZ COMPLETED
-        else:
-            st.balloons()
-            correct_answers = min(st.session_state.score, st.session_state.num_questions)
-            st.markdown(f"""
-                <div style="text-align:center;">
-                    <h2>🎉 Quiz Completed!</h2>
-                    <h3>Your Score: {correct_answers}/{st.session_state.num_questions}</h3>
-                    <div class="progress-bar">
-                        <div class="progress-fill" style="width:{int((correct_answers/st.session_state.num_questions)*100)}%"></div>
-                    </div>
+        if st.button("Submit Answer", key=f"submit_{q_index}"):
+            if selected is None:
+                st.warning("Please select an answer before submitting!")
+            else:
+                st.session_state.timer_active = False
+                st.session_state.selected_option = selected
+                st.session_state.answer_shown = True
+                if selected == q["answer"]:
+                    st.success("✅ Correct!")
+                    st.session_state.score += 1
+                else:
+                    st.error("❌ Incorrect!")
+                    st.info(f"Correct Answer: **{q['answer']}**")
+                time.sleep(1.5)
+                st.session_state.q_index += 1
+                st.session_state.answer_shown = False
+                if st.session_state.q_index < st.session_state.num_questions:
+                    start_timer()
+                st.rerun()
+    
+    # QUIZ COMPLETED
+    else:
+        st.session_state.timer_active = False
+        st.balloons()
+        st.markdown(f"""
+            <div style="text-align:center;">
+                <h2>🎉 Quiz Completed!</h2>
+                <h3>Your Score: {min(st.session_state.score, st.session_state.num_questions)}/{st.session_state.num_questions}</h3>
+                <div class="progress-bar">
+                    <div class="progress-fill" style="width:{int((min(st.session_state.score, st.session_state.num_questions)/st.session_state.num_questions)*100)}%"></div>
                 </div>
-            """, unsafe_allow_html=True)
-            
-            save_to_leaderboard()
-            
-            if st.button("📝 Suggest a Question", key="suggest_btn"):
+            </div>
+        """, unsafe_allow_html=True)
+        
+        save_to_leaderboard()
+        
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("🏠 Home"):
+                st.session_state.stage = "category"
+                st.rerun()
+        with col2:
+            if st.button("📝 Suggest a Question"):
                 st.session_state.stage = "suggest"
                 st.rerun()
 
