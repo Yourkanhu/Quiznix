@@ -279,6 +279,396 @@
       "question": "Who is known as the 'Missile Man of India'?",
       "options": ["Vikram Sarabhai", "Homi Bhabha", "A.P.J. Abdul Kalam", "Satish Dhawan"],
       "answer": "A.P.J. Abdul Kalam"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+      "answer": "Gujarat",
+      "fact": "Gujarat's coastline stretches 1,600 km - longer than India's nuclear-capable Agni-V missile range (1,500 km)!"
+    },
+    {
+      "question": "The Indian Railways' 'Vande Bharat Express' can reach what maximum speed?",
+      "options": ["160 kmph", "180 kmph", "200 kmph", "220 kmph"],
+      "answer": "180 kmph",
+      "fact": "Its acceleration is 0-100 kmph in just 52 seconds - faster than most luxury cars!"
+    },
+    {
+      "question": "Which Indian city hosts the world's highest cricket ground?",
+      "options": ["Shimla", "Darjeeling", "Leh", "Gangtok"],
+      "answer": "Chail (Himachal Pradesh)",
+      "fact": "At 2,444 meters elevation, it's 244 meters higher than Bolivia's famous 'Death Road'!"
+    },
+    {
+      "question": "India's ASHA healthcare workers cover what distance daily on average?",
+      "options": ["5 km", "10 km", "15 km", "20 km"],
+      "answer": "15 km",
+      "fact": "Collectively, they walk equivalent to circling Earth 17,000 times annually!"
+    },
+    {
+      "question": "The Indian Tricolor's chakra has how many spokes?",
+      "options": ["12", "18", "24", "30"],
+      "answer": "24",
+      "fact": "Each spoke represents 1 hour of the day - symbolizing constant progress!"
+    },
+    {
+      "question": "How many times does the human heart beat in an average lifetime?",
+      "options": ["100 million", "1 billion", "2.5 billion", "5 billion"],
+      "answer": "2.5 billion",
+      "fact": "Enough energy to lift an elephant 3 km high if harnessed!"
+    },
+    {
+      "question": "Your small intestine's length is approximately?",
+      "options": ["3 meters", "6 meters", "9 meters", "12 meters"],
+      "answer": "6 meters",
+      "fact": "If unfolded, its surface area would cover a badminton court!"
+    },
+    {
+      "question": "Which body part grows 0.3-0.5 mm per minute?",
+      "options": ["Hair", "Nails", "Eyelashes", "Tongue"],
+      "answer": "Hair",
+      "fact": "Your scalp grows about 12 km of hair in a decade!"
+    },
+    {
+      "question": "How many taste buds does the average human tongue have?",
+      "options": ["1,000", "3,000", "5,000", "10,000"],
+      "answer": "5,000",
+      "fact": "They regenerate every 10-14 days - faster than any other body cell!"
+    },
+    {
+      "question": "The human eye can distinguish about how many colors?",
+      "options": ["100,000", "1 million", "10 million", "100 million"],
+      "answer": "10 million",
+      "fact": "More color variations than all pixels on an 8K TV combined!"
+    },
+    {
+      "question": "India's first rocket was transported by?",
+      "options": ["Bullock cart", "Train", "Bicycle", "Ship"],
+      "answer": "Bullock cart",
+      "fact": "The 1963 launch vehicle parts were carried to Thumba on cycle and bullock carts!"
+    },
+    {
+      "question": "Which Indian state produces 95% of India's saffron?",
+      "options": ["Himachal Pradesh", "Jammu & Kashmir", "Uttarakhand", "Sikkim"],
+      "answer": "Jammu & Kashmir",
+      "fact": "1 kg saffron requires 150,000 flowers - worth ₹2-3 lakhs!"
+    },
+    {
+      "question": "The world's highest battlefield is in?",
+      "options": ["Kargil", "Leh", "Siachen", "Nathu La"],
+      "answer": "Siachen",
+      "fact": "At 5,400m, soldiers consume 8,000 calories/day (3x normal) just to survive!"
+    },
+    {
+      "question": "Your bones are stronger than which material?",
+      "options": ["Concrete", "Steel", "Granite", "Titanium"],
+      "answer": "Concrete",
+      "fact": "A matchbox-sized bone can support 9,000 kg - equal to 5 cars!"
+    },
+    {
+      "question": "How fast does a sneeze travel?",
+      "options": ["50 kmph", "100 kmph", "150 kmph", "200 kmph"],
+      "answer": "150 kmph",
+      "fact": "Faster than India's fastest train (Gatimaan Express at 160 kmph)!"
+    },
+    {
+      "question": "Your brain generates enough electricity to?",
+      "options": ["Power a LED", "Charge a phone", "Light a bulb", "Run a fridge"],
+      "answer": "Power a LED",
+      "fact": "About 12-25 watts - enough for 2 energy-saving bulbs!"
+    },
+    {
+      "question": "Which country has the most pyramids in the world?",
+      "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+      "answer": "Sudan",
+      "fact": "Sudan has over 200 pyramids - double Egypt's count!"
+    },
+    {
+      "question": "What percentage of Earth's surface is covered by water?",
+      "options": ["50%", "61%", "71%", "80%"],
+      "answer": "71%",
+      "fact": "Oceans hold 96.5% of all Earth's water!"
+    },
+    {
+      "question": "Which planet rains diamonds?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Uranus"],
+      "answer": "Uranus",
+      "fact": "Atmospheric pressure turns methane into diamonds!"
+    },
+    {
+      "question": "What is the only continent without bees?",
+      "options": ["Australia", "Antarctica", "South America", "Africa"],
+      "answer": "Antarctica",
+      "fact": "Too cold for pollinators!"
+    },
+    {
+      "question": "Which country has no rivers?",
+      "options": ["Saudi Arabia", "Maldives", "Kuwait", "Vatican City"],
+      "answer": "Saudi Arabia",
+      "fact": "World's largest country without a permanent river!"
+    },
+    {
+      "question": "How many minutes does sunlight take to reach Earth?",
+      "options": ["1 minute", "5 minutes", "8 minutes", "15 minutes"],
+      "answer": "8 minutes",
+      "fact": "Traveling at light speed (299,792 km/s)!"
+    },
+    {
+      "question": "Which fruit has its seeds on the outside?",
+      "options": ["Pineapple", "Strawberry", "Kiwi", "Raspberry"],
+      "answer": "Strawberry",
+      "fact": "Each strawberry has ~200 seeds!"
+    },
+    {
+      "question": "What percentage of human DNA is identical to bananas?",
+      "options": ["20%", "40%", "60%", "80%"],
+      "answer": "60%",
+      "fact": "We share 98.7% DNA with chimpanzees!"
+    },
+    {
+      "question": "Which country has the most time zones?",
+      "options": ["USA", "Russia", "France", "UK"],
+      "answer": "France",
+      "fact": "12 time zones due to overseas territories!"
+    },
+    {
+      "question": "Where is the world's quietest room located?",
+      "options": ["NASA (USA)", "Microsoft (USA)", "Toyota (Japan)", "Siemens (Germany)"],
+      "answer": "Microsoft (USA)",
+      "fact": "-20.6 dB - you can hear your blood flow!"
+    },
+    {
+      "question": "Which animal never sleeps?",
+      "options": ["Shark", "Bullfrog", "Giraffe", "Ant"],
+      "answer": "Bullfrog",
+      "fact": "They can stay awake for years!"
+    },
+    {
+      "question": "What is the only food that never spoils?",
+      "options": ["Salt", "Sugar", "Honey", "Vinegar"],
+      "answer": "Honey",
+      "fact": "Edible after 3000 years - found in Egyptian tombs!"
+    },
+    {
+      "question": "Which country has the most languages?",
+      "options": ["India", "Nigeria", "Papua New Guinea", "Indonesia"],
+      "answer": "Papua New Guinea",
+      "fact": "840 languages in 462,840 sq km!"
+    },
+    {
+      "question": "What is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus",
+      "fact": "Avg temp 465°C - hot enough to melt lead!"
+    },
+    {
+      "question": "Which country invented tea bags by accident?",
+      "options": ["China", "India", "USA", "UK"],
+      "answer": "USA",
+      "fact": "1908: Thomas Sullivan sent tea in silk bags, customers brewed them directly!"
+    },
+    {
+      "question": "How many Earths can fit inside the Sun?",
+      "options": ["100", "1,000", "100,000", "1.3 million"],
+      "answer": "1.3 million",
+      "fact": "Sun's volume is 1.3 million times Earth's!"
+    },
+    {
+      "question": "Which country has the most islands?",
+      "options": ["Indonesia", "Philippines", "Sweden", "Canada"],
+      "answer": "Sweden",
+      "fact": "267,570 islands - only 1,000 inhabited!"
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "options": ["Flying Squirrel", "Bat", "Colugo", "Sugar Glider"],
+      "answer": "Bat",
+      "fact": "Over 1,400 bat species exist!"
+    },
+    {
+      "question": "Which country has a town called 'Hell' that freezes every winter?",
+      "options": ["Norway", "Iceland", "Canada", "USA"],
+      "answer": "Norway",
+      "fact": "Temperatures drop to -30°C!"
+    },
+    {
+      "question": "What is the most stolen food in the world?",
+      "options": ["Chocolate", "Cheese", "Coffee", "Bread"],
+      "answer": "Cheese",
+      "fact": "4% of global cheese production is stolen!"
+    },
+    {
+      "question": "Which planet has the shortest day?",
+      "options": ["Mercury", "Venus", "Jupiter", "Saturn"],
+      "answer": "Jupiter",
+      "fact": "9 hours 55 minutes per rotation!"
+    },
+    {
+      "question": "Where is the world's largest desert located?",
+      "options": ["Africa", "Asia", "Antarctica", "Australia"],
+      "answer": "Antarctica",
+      "fact": "14 million sq km - receives <50mm rain/year!"
+    },
+    {
+      "question": "Which country has the most vending machines per capita?",
+      "options": ["USA", "China", "Japan", "Germany"],
+      "answer": "Japan",
+      "fact": "1 vending machine per 23 people!"
+    },
+    {
+      "question": "What is the only letter not appearing in any US state name?",
+      "options": ["Q", "X", "Z", "J"],
+      "answer": "Q",
+      "fact": "Z appears in Arizona; X in Texas, New Mexico!"
+    },
+    {
+      "question": "Which country has a national 'Useless Inventions Museum'?",
+      "options": ["USA", "Japan", "Germany", "UK"],
+      "answer": "Japan",
+      "fact": "Features inventions like noodle-cooling fans!"
+    },
+    {
+      "question": "Which Indian state grows 95% of India's saffron?",
+      "options": ["Himachal Pradesh", "Jammu & Kashmir", "Uttarakhand", "Sikkim"],
+      "answer": "Jammu & Kashmir",
+      "fact": "1 kg requires 150,000 flowers - worth ₹2-3 lakhs!"
+    },
+    {
+      "question": "India's first rocket was transported by?",
+      "options": ["Bullock cart", "Train", "Bicycle", "Ship"],
+      "answer": "Bullock cart",
+      "fact": "1963: Parts carried to Thumba on cycles & bullock carts!"
+    },
+    {
+      "question": "Which Indian city has the world's highest cricket ground?",
+      "options": ["Shimla", "Darjeeling", "Leh", "Gangtok"],
+      "answer": "Chail (Himachal Pradesh)",
+      "fact": "2,444m elevation - higher than Bolivia's 'Death Road'!"
+    },
+    {
+      "question": "The Indian Tricolor's chakra has how many spokes?",
+      "options": ["12", "18", "24", "30"],
+      "answer": "24",
+      "fact": "Each represents 1 hour - symbolizing constant progress!"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+      "answer": "Gujarat",
+      "fact": "1,600 km - longer than India's Agni-V missile range!"
+    },
+    {
+      "question": "India's ASHA healthcare workers walk how much daily on average?",
+      "options": ["5 km", "10 km", "15 km", "20 km"],
+      "answer": "15 km",
+      "fact": "Collectively circle Earth 17,000 times annually!"
+    },
+    {
+      "question": "Which Indian monument changes color from pink to golden?",
+      "options": ["Taj Mahal", "Hawa Mahal", "Sun Temple", "Charminar"],
+      "answer": "Taj Mahal",
+      "fact": "Pink at dawn, white by day, golden at sunset!"
+    },
+    {
+      "question": "India's Vande Bharat Express reaches what max speed?",
+      "options": ["160 kmph", "180 kmph", "200 kmph", "220 kmph"],
+      "answer": "180 kmph",
+      "fact": "0-100 kmph in 52 sec - faster than luxury cars!"
+    },
+    {
+      "question": "Which Indian state produces 90% of world's sandalwood?",
+      "options": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+      "answer": "Karnataka",
+      "fact": "1 kg pure sandalwood oil costs ₹1.5 lakh!"
+    },
+    {
+      "question": "Where is Asia's only active volcano located in India?",
+      "options": ["Andaman Islands", "Lakshadweep", "Western Ghats", "Himalayas"],
+      "answer": "Barren Island (Andaman)",
+      "fact": "Last erupted in 2022!"
+    },
+    {
+      "question": "Which Indian city has the world's largest sundial?",
+      "options": ["Delhi", "Jaipur", "Varanasi", "Ujjain"],
+      "answer": "Jaipur",
+      "fact": "Jantar Mantar's samrat yantra is 27m tall!"
+    },
+    {
+      "question": "India's first talking robot 'Rashmi' speaks how many languages?",
+      "options": ["3", "9", "15", "23"],
+      "answer": "9",
+      "fact": "Including Hindi, English, Bhojpuri!"
+    },
+    {
+      "question": "Which Indian state has the highest literacy rate?",
+      "options": ["Kerala", "Mizoram", "Goa", "Tamil Nadu"],
+      "answer": "Kerala",
+      "fact": "94% literacy - higher than global average!"
+    },
+    {
+      "question": "India's first post office was established in?",
+      "options": ["Kolkata (1727)", "Mumbai (1774)", "Chennai (1786)", "Delhi (1793)"],
+      "answer": "Kolkata (1727)",
+      "fact": "Before USA became independent!"
+    },
+    {
+      "question": "Which Indian city has the world's largest office building?",
+      "options": ["Mumbai", "Delhi", "Hyderabad", "Chennai"],
+      "answer": "Surat",
+      "fact": "Surat Diamond Bourse: 7.1 million sq ft!"
+    },
+    {
+      "question": "India's first fingerprint bureau was established in?",
+      "options": ["Kolkata (1897)", "Mumbai (1905)", "Chennai (1912)", "Delhi (1920)"],
+      "answer": "Kolkata (1897)",
+      "fact": "By the British Raj!"
+    },
+    {
+      "question": "Which Indian state has the highest number of tigers?",
+      "options": ["Karnataka", "Madhya Pradesh", "Uttarakhand", "Assam"],
+      "answer": "Madhya Pradesh",
+      "fact": "785 tigers as per 2022 census!"
+    },
+    {
+      "question": "India's first digital village is located in?",
+      "options": ["Maharashtra", "Gujarat", "Kerala", "Andhra Pradesh"],
+      "answer": "Akodara (Gujarat)",
+      "fact": "Fully cashless since 2015!"
+    },
+    {
+      "question": "Which Indian city has the highest number of bridges?",
+      "options": ["Mumbai", "Chennai", "Kolkata", "Pune"],
+      "answer": "Mumbai",
+      "fact": "Over 50 bridges including sea links!"
+    },
+    {
+      "question": "India's first 3D-printed post office is in?",
+      "options": ["Bengaluru", "Hyderabad", "Chennai", "Mumbai"],
+      "answer": "Bengaluru",
+      "fact": "Built in just 43 days!"
+    },
+    {
+      "question": "Which Indian state has the highest number of airports?",
+      "options": ["Uttar Pradesh", "Maharashtra", "Gujarat", "Rajasthan"],
+      "answer": "Uttar Pradesh",
+      "fact": "15 operational airports!"
+    },
+    {
+      "question": "India's first underwater metro is in which city?",
+      "options": ["Mumbai", "Chennai", "Kolkata", "Kochi"],
+      "answer": "Kolkata",
+      "fact": "16m under Hooghly river!"
+    },
+    {
+      "question": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
+      "options": ["Tamil Nadu", "Maharashtra", "Uttar Pradesh", "Karnataka"],
+      "answer": "Maharashtra",
+      "fact": "6 sites including Ajanta-Ellora!"
+    },
+    {
+      "question": "India's first solar-powered village is in which state?",
+      "options": ["Rajasthan", "Gujarat", "Haryana", "Madhya Pradesh"],
+      "answer": "Modhera (Gujarat)",
+      "fact": "24x7 solar power since 2022!"
     }
   ]
 }

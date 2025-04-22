@@ -274,6 +274,261 @@
       "question": "What do you call an Indian who's always late?",
       "options": ["Indian Standard Time", "The delayed don", "Late bahadur", "Tardy taj"],
       "answer": "Indian Standard Time"
+    },
+    {
+      "question": "Why don't scientists trust atoms?",
+      "options": ["They make up everything", "They're too small", "They're unstable", "They're invisible"],
+      "answer": "They make up everything"
+    },
+    {
+      "question": "What do you call a fish wearing a bowtie?",
+      "options": ["Sofishticated", "Fishionable", "Gill-ty", "Nemo's dad"],
+      "answer": "Sofishticated"
+    },
+    {
+      "question": "How do you make a tissue dance?",
+      "options": ["Put a little boogie in it", "Play music", "Wave it around", "Tissue can't dance"],
+      "answer": "Put a little boogie in it"
+    },
+    {
+      "question": "Why did the invisible man turn down the job offer?",
+      "options": ["He couldn't see himself doing it", "No benefits", "Low salary", "Bad work environment"],
+      "answer": "He couldn't see himself doing it"
+    },
+    {
+      "question": "What do you call a bear with no teeth?",
+      "options": ["A gummy bear", "Toothless", "Hungry", "Sad bear"],
+      "answer": "A gummy bear"
+    },
+    {
+      "question": "Why did the photo go to jail?",
+      "options": ["It was framed", "It stole a shot", "It was negative", "Flash crime"],
+      "answer": "It was framed"
+    },
+    {
+      "question": "What do you call a fake noodle?",
+      "options": ["An impasta", "Noodle fraud", "Phony pasta", "Spag-lie"],
+      "answer": "An impasta"
+    },
+    {
+      "question": "Why did the scarecrow win an Oscar?",
+      "options": ["He was outstanding in his field", "Great actor", "Lucky", "The competition was weak"],
+      "answer": "He was outstanding in his field"
+    },
+    {
+      "question": "What do you call a snowman with a six-pack?",
+      "options": ["An abdominal snowman", "Fit frosty", "Cold muscles", "Winter hunk"],
+      "answer": "An abdominal snowman"
+    },
+    {
+      "question": "Why did the golfer wear two pairs of pants?",
+      "options": ["In case he got a hole in one", "Fashion", "Cold weather", "Lost a bet"],
+      "answer": "In case he got a hole in one"
+    },
+    {
+      "question": "What's the best time to go to the dentist?",
+      "options": ["Tooth-hurty", "Morning", "Afternoon", "Never"],
+      "answer": "Tooth-hurty"
+    },
+    {
+      "question": "What do you call cheese that isn't yours?",
+      "options": ["Nacho cheese", "Stolen goods", "Cheese thief", "Shared cheese"],
+      "answer": "Nacho cheese"
+    },
+    {
+      "question": "Why couldn't the bicycle stand up by itself?",
+      "options": ["It was two-tired", "Flat tire", "Broken", "Lazy"],
+      "answer": "It was two-tired"
+    },
+    {
+      "question": "What did the janitor say when he jumped out of the closet?",
+      "options": ["Supplies!", "Boo!", "Clean up!", "I quit!"],
+      "answer": "Supplies!"
+    },
+    {
+      "question": "What did the buffalo say to his son when he left for college?",
+      "options": ["Bison", "Goodbye son", "Study hard", "Call home"],
+      "answer": "Bison"
+    },
+    {
+      "question": "Why did the math book look sad?",
+      "options": ["It had too many problems", "Old edition", "No one read it", "Hard cover"],
+      "answer": "It had too many problems"
+    },
+    {
+      "question": "What's orange and sounds like a parrot?",
+      "options": ["A carrot", "Orange parrot", "Pumpkin", "Traffic cone"],
+      "answer": "A carrot"
+    },
+    {
+      "question": "How do you catch a squirrel?",
+      "options": ["Climb a tree and act like a nut", "Use a trap", "Chase it", "Ask nicely"],
+      "answer": "Climb a tree and act like a nut"
+    },
+    {
+      "question": "Why don't skeletons fight each other?",
+      "options": ["They don't have the guts", "They're friends", "Too fragile", "No muscles"],
+      "answer": "They don't have the guts"
+    },
+    {
+      "question": "What do you call a dinosaur with an extensive vocabulary?",
+      "options": ["A thesaurus", "Smartasaurus", "Wordosaurus", "Professor Rex"],
+      "answer": "A thesaurus"
+    },
+    {
+      "question": "Why did the tomato turn red?",
+      "options": ["It saw the salad dressing", "It was ripe", "Sunburn", "Embarrassed"],
+      "answer": "It saw the salad dressing"
+    },
+    {
+      "question": "What do you get when you cross a snowman and a vampire?",
+      "options": ["Frostbite", "Cold blood", "Winter fear", "Snowpire"],
+      "answer": "Frostbite"
+    },
+    {
+      "question": "Why don't eggs tell jokes?",
+      "options": ["They'd crack each other up", "No sense of humor", "Too fragile", "Always poached"],
+      "answer": "They'd crack each other up"
+    },
+    {
+      "question": "What's brown and sticky?",
+      "options": ["A stick", "Chocolate", "Mud", "Tape"],
+      "answer": "A stick"
+    },
+    {
+      "question": "Why did the Indian traffic light turn red?",
+      "options": ["It saw the traffic", "Angry", "Tired", "Colorblind"],
+      "answer": "It saw the traffic"
+    },
+    {
+      "question": "Why don't Indian moms need GPS?",
+      "options": ["They have 'beta right le lo'", "Great memory", "Never lost", "Superpower"],
+      "answer": "They have 'beta right le lo'"
+    },
+    {
+      "question": "What do you call a samosa that tells jokes?",
+      "options": ["Punjabi", "Laughing snack", "Funny food", "Comedian chaat"],
+      "answer": "Punjabi"
+    },
+    {
+      "question": "Why did the dosa break up with the idli?",
+      "options": ["It was too plain", "Found better sambar", "Wanted space", "Cultural differences"],
+      "answer": "It was too plain"
+    },
+    {
+      "question": "Why was the Indian student's report card wet?",
+      "options": ["Below C-level", "Rain", "Spilled water", "Tears"],
+      "answer": "Below C-level"
+    },
+    {
+      "question": "Why don't Indian uncles use smartphones?",
+      "options": ["Already know everything", "Too complicated", "Eyesight", "Prefer newspapers"],
+      "answer": "Already know everything"
+    },
+    {
+      "question": "What do you call a chai that won't stop talking?",
+      "options": ["Chai-lu-lah", "Gossip tea", "Masala mouth", "Talkative brew"],
+      "answer": "Chai-lu-lah"
+    },
+    {
+      "question": "Why did the auto-rickshaw go to therapy?",
+      "options": ["Too many issues", "Midlife crisis", "Meter issues", "Identity crisis"],
+      "answer": "Too many issues"
+    },
+    {
+      "question": "What's an Indian ghost's favorite food?",
+      "options": ["Boo-ndi", "Spirit food", "Haunted halwa", "Ghost curry"],
+      "answer": "Boo-ndi"
+    },
+    {
+      "question": "Why did the Indian bride take a ladder to her wedding?",
+      "options": ["To reach new heights", "Venue was up", "Tradition", "Fashion"],
+      "answer": "To reach new heights"
+    },
+    {
+      "question": "What do you call a sleeping biryani?",
+      "options": ["Korma-tose", "Rice dream", "Naan-sense", "Pulao-ver"],
+      "answer": "Korma-tose"
+    },
+    {
+      "question": "Why did the Indian politician carry a ladder?",
+      "options": ["To climb the political ladder", "Construction", "Exercise", "Art project"],
+      "answer": "To climb the political ladder"
+    },
+    {
+      "question": "What's an Indian student's favorite plant?",
+      "options": ["Marks-plant", "Tulsi", "Neem", "Bamboo"],
+      "answer": "Marks-plant"
+    },
+    {
+      "question": "Why did the gol gappa go to school?",
+      "options": ["To become smart-puri", "Education", "Peer pressure", "Free water"],
+      "answer": "To become smart-puri"
+    },
+    {
+      "question": "Why was the Indian computer always tired?",
+      "options": ["Too many windows open", "Old", "Virus", "Overworked"],
+      "answer": "Too many windows open"
+    },
+    {
+      "question": "What do you call an Indian who can't stop making dad jokes?",
+      "options": ["Papa-dum", "Uncle funny", "Joke-shah", "Laughing singh"],
+      "answer": "Papa-dum"
+    },
+    {
+      "question": "Why did the Indian weather forecast fail?",
+      "options": ["Couldn't predict AC temp", "Bad tech", "No data", "Lazy meteorologist"],
+      "answer": "Couldn't predict AC temp"
+    },
+    {
+      "question": "What's an Indian mosquito's favorite song?",
+      "options": ["Hum honge kaamyaab", "Bzzz India", "Mera sting desh", "Dil hai chota sa"],
+      "answer": "Hum honge kaamyaab"
+    },
+    {
+      "question": "Why did the Indian onion refuse to play hide and seek?",
+      "options": ["Makes everyone cry", "No friends", "Too smelly", "Bad at hiding"],
+      "answer": "Makes everyone cry"
+    },
+    {
+      "question": "What do you call an Indian who's always late?",
+      "options": ["Indian Standard Time", "Late bahadur", "Tardy taj", "Delayed don"],
+      "answer": "Indian Standard Time"
+    },
+    {
+      "question": "Why did the Indian broom go to college?",
+      "options": ["To get a sweepstakes degree", "Education", "Peer pressure", "Clean knowledge"],
+      "answer": "To get a sweepstakes degree"
+    },
+    {
+      "question": "What do you call an Indian magician's cow?",
+      "options": ["Abra-ka-doodh", "Magic moo", "Illusion cattle", "Hocus moocus"],
+      "answer": "Abra-ka-doodh"
+    },
+    {
+      "question": "Why did the Indian smartphone get glasses?",
+      "options": ["Too much screen time", "Old age", "Fashion", "Blurry photos"],
+      "answer": "Too much screen time"
+    },
+    {
+      "question": "What's an Indian plumber's favorite music?",
+      "options": ["Pipe-dream music", "Tap tunes", "Leak beats", "Drain rap"],
+      "answer": "Pipe-dream music"
+    },
+    {
+      "question": "Why did the Indian calendar get arrested?",
+      "options": ["Too many dates", "Forgot holidays", "Time crime", "Illegal months"],
+      "answer": "Too many dates"
+    },
+    {
+      "question": "What do you call an Indian astronaut's pet?",
+      "options": ["Laika 2.0", "Space dog", "Rocket pet", "Orbit animal"],
+      "answer": "Laika 2.0"
+    },
+    {
+      "question": "Why did the Indian dictionary gain weight?",
+      "options": ["Too many meanings", "Bookworm diet", "Thick cover", "Paper calories"],
+      "answer": "Too many meanings"
     }
   ]
 }

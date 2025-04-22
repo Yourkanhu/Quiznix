@@ -384,6 +384,256 @@
       "question": "Who was the first Indian to travel to space?",
       "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Ravish Malhotra"],
       "answer": "Rakesh Sharma"
+    },
+    {
+      "question": "Which ancient city was home to the Hanging Gardens, one of the Seven Wonders of the Ancient World?",
+      "options": ["Athens", "Babylon", "Rome", "Memphis"],
+      "answer": "Babylon"
+    },
+    {
+      "question": "Who was the first female pharaoh of Egypt?",
+      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Sobekneferu"],
+      "answer": "Hatshepsut"
+    },
+    {
+      "question": "What was the name of the ship that Charles Darwin sailed on during his voyage of discovery?",
+      "options": ["HMS Beagle", "HMS Endeavour", "Santa Maria", "Mayflower"],
+      "answer": "HMS Beagle"
+    },
+    {
+      "question": "Which ancient civilization invented the concept of zero?",
+      "options": ["Egyptians", "Maya", "Greeks", "Romans"],
+      "answer": "Maya"
+    },
+    {
+      "question": "Who was the first European explorer to reach India by sea?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"],
+      "answer": "Vasco da Gama"
+    },
+    {
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": ["Ottoman Empire", "Mongol Empire", "Persian Empire", "Roman Empire"],
+      "answer": "Mongol Empire"
+    },
+    {
+      "question": "What was the main cause of the fall of the Roman Empire?",
+      "options": ["Plague", "Economic collapse", "Barbarian invasions", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which war was fought between Athens and Sparta in ancient Greece?",
+      "options": ["Trojan War", "Peloponnesian War", "Punic War", "Persian War"],
+      "answer": "Peloponnesian War"
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize, and in which field?",
+      "options": ["Marie Curie (Physics)", "Jane Addams (Peace)", "Mother Teresa (Peace)", "Dorothy Hodgkin (Chemistry)"],
+      "answer": "Marie Curie (Physics)"
+    },
+    {
+      "question": "Which ancient wonder was a giant statue that stood at the entrance of Rhodes harbor?",
+      "options": ["Colossus of Rhodes", "Statue of Zeus", "Great Pyramid", "Lighthouse of Alexandria"],
+      "answer": "Colossus of Rhodes"
+    },
+    {
+      "question": "Who was the first person to circumnavigate the globe?",
+      "options": ["Ferdinand Magellan", "Christopher Columbus", "James Cook", "Vasco da Gama"],
+      "answer": "Ferdinand Magellan"
+    },
+    {
+      "question": "Which ancient city was buried under volcanic ash in 79 AD?",
+      "options": ["Athens", "Pompeii", "Troy", "Carthage"],
+      "answer": "Pompeii"
+    },
+    {
+      "question": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt?",
+      "options": ["Nefertiti", "Cleopatra VII", "Hatshepsut", "Ramses II"],
+      "answer": "Cleopatra VII"
+    },
+    {
+      "question": "Which civilization built Machu Picchu?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "answer": "Inca"
+    },
+    {
+      "question": "Who was the first emperor of the Holy Roman Empire?",
+      "options": ["Charlemagne", "Julius Caesar", "Augustus", "Constantine"],
+      "answer": "Charlemagne"
+    },
+    {
+      "question": "Which war was sparked by the assassination of Archduke Franz Ferdinand?",
+      "options": ["World War I", "World War II", "Crimean War", "Franco-Prussian War"],
+      "answer": "World War I"
+    },
+    {
+      "question": "What was the name of the first written legal code in history?",
+      "options": ["Code of Hammurabi", "Twelve Tables", "Magna Carta", "Justinian Code"],
+      "answer": "Code of Hammurabi"
+    },
+    {
+      "question": "Who was the first female Prime Minister in the world?",
+      "options": ["Indira Gandhi", "Margaret Thatcher", "Sirimavo Bandaranaike", "Golda Meir"],
+      "answer": "Sirimavo Bandaranaike"
+    },
+    {
+      "question": "Which ancient civilization invented paper?",
+      "options": ["Egyptians", "Chinese", "Greeks", "Romans"],
+      "answer": "Chinese"
+    },
+    {
+      "question": "Who was the first ruler to unify most of modern-day France?",
+      "options": ["Charlemagne", "Clovis I", "Louis XIV", "Napoleon"],
+      "answer": "Clovis I"
+    },
+    {
+      "question": "Which ancient empire was known for its 'Royal Road' stretching over 2,500 km?",
+      "options": ["Roman Empire", "Persian Empire", "Mongol Empire", "Ottoman Empire"],
+      "answer": "Persian Empire"
+    },
+    {
+      "question": "Who was the first female ruler of the Byzantine Empire?",
+      "options": ["Theodora", "Empress Irene", "Cleopatra", "Zenobia"],
+      "answer": "Empress Irene"
+    },
+    {
+      "question": "Which ancient African kingdom was known for its wealth in gold and salt trade?",
+      "options": ["Mali Empire", "Songhai Empire", "Ghana Empire", "Zulu Kingdom"],
+      "answer": "Mali Empire"
+    },
+    {
+      "question": "What was the name of the first human-made object to reach space?",
+      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Apollo 11"],
+      "answer": "Sputnik 1"
+    },
+    {
+      "question": "Which ancient civilization built Stonehenge?",
+      "options": ["Celts", "Neolithic Britons", "Vikings", "Druids"],
+      "answer": "Neolithic Britons"
+    },
+    {
+      "question": "Which ancient Indian text is the oldest known medical treatise in the world?",
+      "options": ["Charaka Samhita", "Sushruta Samhita", "Atharvaveda", "Rigveda"],
+      "answer": "Sushruta Samhita"
+    },
+    {
+      "question": "Who was the first Indian woman to become Prime Minister?",
+      "options": ["Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sonia Gandhi"],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question": "Which ancient Indian ruler sent Buddhist missionaries to Sri Lanka and Southeast Asia?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Harsha", "Samudragupta"],
+      "answer": "Ashoka"
+    },
+    {
+      "question": "What was the name of the first university in the world, established in ancient India?",
+      "options": ["Taxila", "Nalanda", "Vikramashila", "Odantapuri"],
+      "answer": "Nalanda"
+    },
+    {
+      "question": "Who was the first Indian to travel to space?",
+      "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Ravish Malhotra"],
+      "answer": "Rakesh Sharma"
+    },
+    {
+      "question": "Which Indian king defeated Alexander the Great's army?",
+      "options": ["Chandragupta Maurya", "Porus", "Ashoka", "Harsha"],
+      "answer": "Porus"
+    },
+    {
+      "question": "Who built the famous Iron Pillar of Delhi, which has not rusted for over 1,600 years?",
+      "options": ["Ashoka", "Chandragupta II", "Samudragupta", "Harsha"],
+      "answer": "Chandragupta II"
+    },
+    {
+      "question": "Which Indian queen led an armed rebellion against the British in 1857?",
+      "options": ["Rani Lakshmibai", "Rani Chennamma", "Razia Sultana", "Nur Jahan"],
+      "answer": "Rani Lakshmibai"
+    },
+    {
+      "question": "What was the name of the first Indian satellite launched into space?",
+      "options": ["Aryabhata", "Bhaskara", "Rohini", "INSAT"],
+      "answer": "Aryabhata"
+    },
+    {
+      "question": "Which ancient Indian mathematician invented the concept of zero?",
+      "options": ["Aryabhata", "Brahmagupta", "Bhaskara", "Varahamihira"],
+      "answer": "Aryabhata"
+    },
+    {
+      "question": "Who was the first Indian to win an individual Olympic gold medal?",
+      "options": ["Abhinav Bindra", "Neeraj Chopra", "PV Sindhu", "Sushil Kumar"],
+      "answer": "Abhinav Bindra"
+    },
+    {
+      "question": "Which Mughal emperor banned music and dance in his court?",
+      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+      "answer": "Aurangzeb"
+    },
+    {
+      "question": "Who was the first Indian woman to climb Mount Everest?",
+      "options": ["Bachendri Pal", "Santosh Yadav", "Arunima Sinha", "Premlata Agarwal"],
+      "answer": "Bachendri Pal"
+    },
+    {
+      "question": "Which Indian king had the largest empire in Indian history?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Samudragupta", "Harsha"],
+      "answer": "Ashoka"
+    },
+    {
+      "question": "What was the name of the first Indian nuclear test in 1974?",
+      "options": ["Smiling Buddha", "Operation Shakti", "Pokhran-I", "Bhim"],
+      "answer": "Smiling Buddha"
+    },
+    {
+      "question": "Who was the first Indian to win a Nobel Prize?",
+      "options": ["Rabindranath Tagore", "CV Raman", "Mother Teresa", "Hargobind Khorana"],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "Which ancient Indian port city was a major trade hub with Rome?",
+      "options": ["Lothal", "Muziris", "Puhar", "Sopara"],
+      "answer": "Muziris"
+    },
+    {
+      "question": "Who was the first Indian woman to become President of India?",
+      "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sonia Gandhi"],
+      "answer": "Pratibha Patil"
+    },
+    {
+      "question": "Which Indian ruler built the Grand Trunk Road?",
+      "options": ["Ashoka", "Sher Shah Suri", "Akbar", "Chandragupta Maurya"],
+      "answer": "Sher Shah Suri"
+    },
+    {
+      "question": "Who was the first Indian to win an Oscar?",
+      "options": ["AR Rahman", "Satyajit Ray", "Bhanu Athaiya", "Gulzar"],
+      "answer": "Bhanu Athaiya"
+    },
+    {
+      "question": "Which ancient Indian text contains the earliest known reference to martial arts?",
+      "options": ["Mahabharata", "Ramayana", "Arthashastra", "Natya Shastra"],
+      "answer": "Mahabharata"
+    },
+    {
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "options": ["Karnam Malleswari", "PV Sindhu", "Saina Nehwal", "Mary Kom"],
+      "answer": "Karnam Malleswari"
+    },
+    {
+      "question": "Which Indian king had the title 'Napoleon of India'?",
+      "options": ["Chandragupta Maurya", "Samudragupta", "Ashoka", "Harsha"],
+      "answer": "Samudragupta"
+    },
+    {
+      "question": "What was the name of the first Indian-made supercomputer?",
+      "options": ["PARAM 8000", "SAGA-220", "EKA", "ANURAG"],
+      "answer": "PARAM 8000"
+    },
+    {
+      "question": "Who was the first Indian to win the Booker Prize?",
+      "options": ["Arundhati Roy", "Salman Rushdie", "Kiran Desai", "Vikram Seth"],
+      "answer": "Arundhati Roy"
     }
   ]
 }
