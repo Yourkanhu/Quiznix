@@ -1,254 +1,294 @@
 {
-    "questions": [
-      {
-        "question": "What planet is known as the Red Planet?",
-        "options": ["Earth", "Mars", "Jupiter", "Venus"],
-        "answer": "Mars"
-      },
-      {
-        "question": "What gas do plants absorb from the atmosphere?",
-        "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
-        "answer": "Carbon Dioxide"
-      },
-      {
-        "question": "What part of the cell contains DNA?",
-        "options": ["Nucleus", "Cytoplasm", "Mitochondria", "Cell Wall"],
-        "answer": "Nucleus"
-      },
-      {
-        "question": "Which organ pumps blood throughout the body?",
-        "options": ["Brain", "Lungs", "Heart", "Liver"],
-        "answer": "Heart"
-      },
-      {
-        "question": "Which planet is the largest in the solar system?",
-        "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
-        "answer": "Jupiter"
-      },
-      {
-        "question": "What is the boiling point of water at sea level?",
-        "options": ["90°C", "100°C", "80°C", "70°C"],
-        "answer": "100°C"
-      },
-      {
-        "question": "What force keeps us on the ground?",
-        "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
-        "answer": "Gravity"
-      },
-      {
-        "question": "Which gas is essential for human respiration?",
-        "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
-        "answer": "Oxygen"
-      },
-      {
-        "question": "Which part of the plant conducts photosynthesis?",
-        "options": ["Stem", "Roots", "Leaves", "Flowers"],
-        "answer": "Leaves"
-      },
-      {
-        "question": "What is the main source of energy for Earth?",
-        "options": ["The Moon", "Electricity", "The Sun", "Wind"],
-        "answer": "The Sun"
-      },
-      {
-        "question": "What is the chemical symbol for gold?",
-        "options": ["Go", "Gd", "Au", "Ag"],
-        "answer": "Au"
-      },
-      {
-        "question": "What is H₂O more commonly known as?",
-        "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
-        "answer": "Water"
-      },
-      {
-        "question": "Which planet has the most moons?",
-        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
-        "answer": "Saturn"
-      },
-      {
-        "question": "What is the hardest natural substance on Earth?",
-        "options": ["Gold", "Iron", "Diamond", "Quartz"],
-        "answer": "Diamond"
-      },
-      {
-        "question": "Which metal is liquid at room temperature?",
-        "options": ["Mercury", "Lead", "Aluminum", "Copper"],
-        "answer": "Mercury"
-      },
-      {
-        "question": "What is the pH value of pure water?",
-        "options": ["5", "7", "9", "12"],
-        "answer": "7"
-      },
-      {
-        "question": "Which gas makes up about 78% of Earth's atmosphere?",
-        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
-        "answer": "Nitrogen"
-      },
-      {
-        "question": "What is the fastest land animal?",
-        "options": ["Lion", "Cheetah", "Pronghorn Antelope", "Greyhound"],
-        "answer": "Cheetah"
-      },
-      {
-        "question": "Which blood type is the universal donor?",
-        "options": ["A", "B", "AB", "O"],
-        "answer": "O"
-      },
-      {
-        "question": "What is the study of fossils called?",
-        "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
-        "answer": "Paleontology"
-      },
-      {
-        "question": "Chemical symbol for gold?",
-        "options": ["Go", "Gd", "Au", "Ag"],
-        "answer": "Au"
-      },
-      {
-        "question": "H₂O is?",
-        "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
-        "answer": "Water"
-      },
-      {
-        "question": "Planet with most moons?",
-        "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
-        "answer": "Saturn"
-      },
-      {
-        "question": "Hardest natural substance?",
-        "options": ["Gold", "Iron", "Diamond", "Quartz"],
-        "answer": "Diamond"
-      },
-      {
-        "question": "Liquid metal at room temp?",
-        "options": ["Mercury", "Lead", "Aluminum", "Copper"],
-        "answer": "Mercury"
-      },
-      {
-        "question": "pH of pure water?",
-        "options": ["5", "7", "9", "12"],
-        "answer": "7"
-      },
-      {
-        "question": "Main atmospheric gas?",
-        "options": ["Oxygen", "CO₂", "Nitrogen", "Helium"],
-        "answer": "Nitrogen"
-      },
-      {
-        "question": "Fastest land animal?",
-        "options": ["Lion", "Cheetah", "Antelope", "Greyhound"],
-        "answer": "Cheetah"
-      },
-      {
-        "question": "Universal blood donor?",
-        "options": ["A", "B", "AB", "O"],
-        "answer": "O"
-      },
-      {
-        "question": "Study of fossils?",
-        "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
-        "answer": "Paleontology"
-      },
-      {
-        "question": "Silver symbol?",
-        "options": ["Si", "Sv", "Ag", "Au"],
-        "answer": "Ag"
-      },
-      {
-        "question": "Ringed planet?",
-        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
-        "answer": "Saturn"
-      },
-      {
-        "question": "Sun's main component?",
-        "options": ["Lava", "Hydrogen", "Oxygen", "Helium"],
-        "answer": "Hydrogen"
-      },
-      {
-        "question": "Plant water absorption?",
-        "options": ["Leaves", "Stem", "Roots", "Flowers"],
-        "answer": "Roots"
-      },
-      {
-        "question": "Mushroom study?",
-        "options": ["Botany", "Mycology", "Zoology", "Entomology"],
-        "answer": "Mycology"
-      },
-      {
-        "question": "Best electricity conductor?",
-        "options": ["Iron", "Copper", "Aluminum", "Silver"],
-        "answer": "Silver"
-      },
-      {
-        "question": "Human bone count?",
-        "options": ["206", "300", "150", "500"],
-        "answer": "206"
-      },
-      {
-        "question": "Nearest star to Earth?",
-        "options": ["Proxima Centauri", "Sun", "Alpha Centauri", "Sirius"],
-        "answer": "Sun"
-      },
-      {
-        "question": "Largest organ?",
-        "options": ["Liver", "Brain", "Skin", "Lungs"],
-        "answer": "Skin"
-      },
-      {
-        "question": "Photosynthesis gas?",
-        "options": ["Oxygen", "CO₂", "Nitrogen", "Hydrogen"],
-        "answer": "CO₂"
-      },
-      {
-        "question": "Atomic number of carbon?",
-        "options": ["6", "12", "14", "16"],
-        "answer": "6"
-      },
-      {
-        "question": "Mitochondria function?",
-        "options": ["Protein", "Energy", "Waste", "Protection"],
-        "answer": "Energy"
-      },
-      {
-        "question": "Light speed (m/s)?",
-        "options": ["300,000", "150,000", "1 million", "30,000"],
-        "answer": "300,000"
-      },
-      {
-        "question": "Earth's core mainly?",
-        "options": ["Iron", "Nickel", "Magnesium", "Silicon"],
-        "answer": "Iron"
-      },
-      {
-        "question": "DNA shape?",
-        "options": ["Spiral", "Helix", "Double helix", "Ladder"],
-        "answer": "Double helix"
-      },
-      {
-        "question": "Newton's 1st law?",
-        "options": ["Inertia", "F=ma", "Action-reaction", "Gravity"],
-        "answer": "Inertia"
-      },
-      {
-        "question": "Ozone layer protects from?",
-        "options": ["UV", "IR", "X-rays", "Microwaves"],
-        "answer": "UV"
-      },
-      {
-        "question": "Human genome pairs?",
-        "options": ["23", "46", "64", "128"],
-        "answer": "23"
-      },
-      {
-        "question": "Most abundant gas in universe?",
-        "options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
-        "answer": "Hydrogen"
-      },
-      {
-        "question": "Plant cell wall made of?",
-        "options": ["Chitin", "Cellulose", "Protein", "Silica"],
-        "answer": "Cellulose"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What part of the cell contains DNA?",
+      "options": ["Nucleus", "Cytoplasm", "Mitochondria", "Cell Wall"],
+      "answer": "Nucleus"
+    },
+    {
+      "question": "Which organ pumps blood throughout the body?",
+      "options": ["Brain", "Lungs", "Heart", "Liver"],
+      "answer": "Heart"
+    },
+    {
+      "question": "Which planet is the largest in the solar system?",
+      "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["90°C", "100°C", "80°C", "70°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "What force keeps us on the ground?",
+      "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "Which gas is essential for human respiration?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": ["Stem", "Roots", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "question": "What is the main source of energy for Earth?",
+      "options": ["The Moon", "Electricity", "The Sun", "Wind"],
+      "answer": "The Sun"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": "Au"
+    },
+    {
+      "question": "What is H₂O more commonly known as?",
+      "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
+      "answer": "Water"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": "Diamond"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Mercury", "Lead", "Aluminum", "Copper"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "What is the pH value of pure water?",
+      "options": ["5", "7", "9", "12"],
+      "answer": "7"
+    },
+    {
+      "question": "Which gas makes up about 78% of Earth's atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+      "answer": "Nitrogen"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Lion", "Cheetah", "Pronghorn Antelope", "Greyhound"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "Which blood type is the universal donor?",
+      "options": ["A", "B", "AB", "O"],
+      "answer": "O"
+    },
+    {
+      "question": "What is the study of fossils called?",
+      "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
+      "answer": "Paleontology"
+    },
+    {
+      "question": "What is the chemical symbol for silver?",
+      "options": ["Si", "Sv", "Ag", "Au"],
+      "answer": "Ag"
+    },
+    {
+      "question": "Which planet is known for its prominent rings?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "What is the Sun's main component?",
+      "options": ["Lava", "Hydrogen", "Oxygen", "Helium"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "Which part of the plant absorbs water?",
+      "options": ["Leaves", "Stem", "Roots", "Flowers"],
+      "answer": "Roots"
+    },
+    {
+      "question": "What is the study of fungi called?",
+      "options": ["Botany", "Mycology", "Zoology", "Entomology"],
+      "answer": "Mycology"
+    },
+    {
+      "question": "Which metal is the best conductor of electricity?",
+      "options": ["Iron", "Copper", "Aluminum", "Silver"],
+      "answer": "Silver"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["206", "300", "150", "500"],
+      "answer": "206"
+    },
+    {
+      "question": "What is the nearest star to Earth?",
+      "options": ["Proxima Centauri", "Sun", "Alpha Centauri", "Sirius"],
+      "answer": "Sun"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Lungs"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which gas do plants use during photosynthesis?",
+      "options": ["Oxygen", "CO₂", "Nitrogen", "Hydrogen"],
+      "answer": "CO₂"
+    },
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": ["6", "12", "14", "16"],
+      "answer": "6"
+    },
+    {
+      "question": "What is the primary function of mitochondria?",
+      "options": ["Protein synthesis", "Energy production", "Waste removal", "Cell protection"],
+      "answer": "Energy production"
+    },
+    {
+      "question": "What is the speed of light in meters per second?",
+      "options": ["300,000", "150,000", "1 million", "30,000"],
+      "answer": "300,000"
+    },
+    {
+      "question": "What is Earth's core primarily composed of?",
+      "options": ["Iron", "Nickel", "Magnesium", "Silicon"],
+      "answer": "Iron"
+    },
+    {
+      "question": "What is the shape of DNA?",
+      "options": ["Spiral", "Helix", "Double helix", "Ladder"],
+      "answer": "Double helix"
+    },
+    {
+      "question": "What does Newton's First Law of Motion describe?",
+      "options": ["Inertia", "F=ma", "Action-reaction", "Gravity"],
+      "answer": "Inertia"
+    },
+    {
+      "question": "What does the ozone layer protect us from?",
+      "options": ["UV radiation", "Infrared radiation", "X-rays", "Microwaves"],
+      "answer": "UV radiation"
+    },
+    {
+      "question": "How many chromosome pairs do humans have?",
+      "options": ["23", "46", "64", "128"],
+      "answer": "23"
+    },
+    {
+      "question": "What is the most abundant gas in the universe?",
+      "options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "What is plant cell wall primarily made of?",
+      "options": ["Chitin", "Cellulose", "Protein", "Silica"],
+      "answer": "Cellulose"
+    },
+    {
+      "question": "What is the process by which plants lose water vapor called?",
+      "options": ["Photosynthesis", "Transpiration", "Respiration", "Osmosis"],
+      "answer": "Transpiration"
+    },
+    {
+      "question": "Which subatomic particle has a negative charge?",
+      "options": ["Proton", "Neutron", "Electron", "Positron"],
+      "answer": "Electron"
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "options": ["Propane", "Butane", "Methane", "Ethane"],
+      "answer": "Methane"
+    },
+    {
+      "question": "Which scientist proposed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+      "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "options": ["NaCl", "H₂O", "CO₂", "HCl"],
+      "answer": "NaCl"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": ["Cerebrum", "Cerebellum", "Brain stem", "Hypothalamus"],
+      "answer": "Cerebellum"
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "options": ["Volt", "Watt", "Ampere", "Ohm"],
+      "answer": "Ampere"
+    },
+    {
+      "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "answer": "Vitamin D"
+    },
+    {
+      "question": "What is the process by which cells divide to form two identical daughter cells?",
+      "options": ["Meiosis", "Mitosis", "Osmosis", "Photosynthesis"],
+      "answer": "Mitosis"
+    },
+    {
+      "question": "Which element has the highest melting point?",
+      "options": ["Gold", "Iron", "Tungsten", "Platinum"],
+      "answer": "Tungsten"
+    },
+    {
+      "question": "What is the name of the galaxy that contains our solar system?",
+      "options": ["Andromeda", "Milky Way", "Sombrero", "Whirlpool"],
+      "answer": "Milky Way"
+    },
+    {
+      "question": "Which blood cells are responsible for fighting infections?",
+      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+      "answer": "White blood cells"
+    },
+    {
+      "question": "What is the term for the bending of light as it passes through different media?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "answer": "Refraction"
+    },
+    {
+      "question": "Which layer of Earth's atmosphere contains the ozone layer?",
+      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
+      "answer": "Stratosphere"
+    },
+    {
+      "question": "What is the name of the process by which plants make their own food?",
+      "options": ["Respiration", "Transpiration", "Photosynthesis", "Fermentation"],
+      "answer": "Photosynthesis"
+    },
+    {
+      "question": "Which scientist is known for the laws of planetary motion?",
+      "options": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Nicolaus Copernicus"],
+      "answer": "Johannes Kepler"
+    },
+    {
+      "question": "What is the chemical symbol for potassium?",
+      "options": ["P", "Pt", "K", "Ko"],
+      "answer": "K"
+    },
+    {
+      "question": "Which organ produces insulin in the human body?",
+      "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+      "answer": "Pancreas"
+    }
+  ]
+}

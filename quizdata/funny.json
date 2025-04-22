@@ -1,254 +1,279 @@
 {
-    "questions": [
-      {
-        "question": "What is something you will never find in a refrigerator?",
-        "options": ["A hot cup of coffee", "Vegetables", "Ice cream", "Juice"],
-        "answer": "A hot cup of coffee"
-      },
-      {
-        "question": "Why did the scarecrow win an award?",
-        "options": ["He was very brave", "He was outstanding in his field", "He was smart", "He saved a bird"],
-        "answer": "He was outstanding in his field"
-      },
-      {
-        "question": "What can you catch but not throw?",
-        "options": ["A cold", "A football", "A ball", "A balloon"],
-        "answer": "A cold"
-      },
-      {
-        "question": "Why do bees have sticky hair?",
-        "options": ["Because they use honeycombs", "Because they live in hives", "Because of flowers", "Because they do not shower"],
-        "answer": "Because they use honeycombs"
-      },
-      {
-        "question": "What do you call fake spaghetti?",
-        "options": ["An impasta", "Noodle faker", "Pasta clone", "Spaghosti"],
-        "answer": "An impasta"
-      },
-      {
-        "question": "What gets wetter the more it dries?",
-        "options": ["A towel", "Rain", "Soap", "A sponge"],
-        "answer": "A towel"
-      },
-      {
-        "question": "Why did the math book look sad?",
-        "options": ["Because it had too many problems", "Because it was torn", "Because it failed the test", "Because it was old"],
-        "answer": "Because it had too many problems"
-      },
-      {
-        "question": "What kind of tree fits in your hand?",
-        "options": ["A palm tree", "A tiny tree", "A finger tree", "A small oak"],
-        "answer": "A palm tree"
-      },
-      {
-        "question": "Why was the computer cold?",
-        "options": ["Because it left its Windows open", "Because it had no heater", "Because it was frozen", "Because of ice"],
-        "answer": "Because it left its Windows open"
-      },
-      {
-        "question": "What did one wall say to the other wall?",
-        "options": ["I will meet you at the corner", "You are strong", "Let us stick together", "We are supporting each other"],
-        "answer": "I will meet you at the corner"
-      },
-      {
-        "question": "What do you call a bear with no teeth?",
-        "options": ["A gummy bear", "A toothless bear", "A hungry bear", "A sad bear"],
-        "answer": "A gummy bear"
-      },
-      {
-        "question": "Why don't skeletons fight each other?",
-        "options": ["They don't have the guts", "They're too brittle", "They're already dead", "They're scared"],
-        "answer": "They don't have the guts"
-      },
-      {
-        "question": "What's brown and sticky?",
-        "options": ["A stick", "Chocolate", "Mud", "A brownie"],
-        "answer": "A stick"
-      },
-      {
-        "question": "What do you get when you cross a snowman and a vampire?",
-        "options": ["Frostbite", "A cold-blooded killer", "Snowflakes", "A winter nightmare"],
-        "answer": "Frostbite"
-      },
-      {
-        "question": "What's the best thing about Switzerland?",
-        "options": ["The chocolate", "The flag is a big plus", "The mountains", "The watches"],
-        "answer": "The flag is a big plus"
-      },
-      {
-        "question": "Why don't eggs tell jokes?",
-        "options": ["They'd crack each other up", "They're too fragile", "They're not funny", "They're always poached"],
-        "answer": "They'd crack each other up"
-      },
-      {
-        "question": "How do you organize a space party?",
-        "options": ["You planet", "With moon pies", "Invite aliens", "Book a rocket"],
-        "answer": "You planet"
-      },
-      {
-        "question": "Why did the golfer bring two pairs of pants?",
-        "options": ["In case he got a hole in one", "He was indecisive", "For different courses", "He forgot he already had some"],
-        "answer": "In case he got a hole in one"
-      },
-      {
-        "question": "What did the ocean say to the beach?",
-        "options": ["Nothing, it just waved", "Let's stick together", "You're so sandy", "I'm tide of you"],
-        "answer": "Nothing, it just waved"
-      },
-      {
-        "question": "Why did the tomato turn red?",
-        "options": ["It saw the salad dressing", "It was ripe", "It was embarrassed", "It was painted"],
-        "answer": "It saw the salad dressing"
-      },
-      {
-        "question": "Why did the cookie go to the doctor?",
-        "options": ["It was feeling sweet", "It was feeling crummy", "It had a chip", "It needed checkup"],
-        "answer": "It was feeling crummy"
-      },
-      {
-        "question": "What do you call a bear with no teeth?",
-        "options": ["A gummy bear", "Toothless", "Hungry bear", "Sad bear"],
-        "answer": "A gummy bear"
-      },
-      {
-        "question": "Why don't skeletons fight?",
-        "options": ["No guts", "Too brittle", "Already dead", "They're scared"],
-        "answer": "No guts"
-      },
-      {
-        "question": "What's brown and sticky?",
-        "options": ["A stick", "Chocolate", "Mud", "Honey"],
-        "answer": "A stick"
-      },
-      {
-        "question": "Why did the scarecrow win an award?",
-        "options": ["Outstanding in field", "Scared most crows", "Talented", "Judges pitied"],
-        "answer": "Outstanding in field"
-      },
-      {
-        "question": "What do fake noodles call themselves?",
-        "options": ["Impasta", "Noodle faker", "Pasta clone", "Faux-odles"],
-        "answer": "Impasta"
-      },
-      {
-        "question": "Why was the computer cold?",
-        "options": ["Windows open", "No heater", "Frozen", "AC too high"],
-        "answer": "Windows open"
-      },
-      {
-        "question": "What did one wall say to other?",
-        "options": ["Meet at corner", "You're strong", "Let's stick", "Support each other"],
-        "answer": "Meet at corner"
-      },
-      {
-        "question": "Why don't eggs joke?",
-        "options": ["Crack up", "Too fragile", "Not funny", "Always poached"],
-        "answer": "Crack up"
-      },
-      {
-        "question": "How organize space party?",
-        "options": ["You planet", "Moon pies", "Invite aliens", "Rocket venue"],
-        "answer": "You planet"
-      },
-      {
-        "question": "Why tomato turn red?",
-        "options": ["Saw dressing", "Ripe", "Embarrassed", "Sunburn"],
-        "answer": "Saw dressing"
-      },
-      {
-        "question": "What cheese isn't yours?",
-        "options": ["Nacho", "Stolen", "Foreign", "Borrowed"],
-        "answer": "Nacho"
-      },
-      {
-        "question": "Why bicycle fall?",
-        "options": ["Two-tired", "Unbalanced", "Broken", "Ghost"],
-        "answer": "Two-tired"
-      },
-      {
-        "question": "Why nose can't be 12 inches?",
-        "options": ["Be a foot", "Look silly", "Won't fit", "Doctors ban"],
-        "answer": "Be a foot"
-      },
-      {
-        "question": "Grape stepped on said?",
-        "options": ["Let out wine", "Ouch", "Help", "Squished"],
-        "answer": "Let out wine"
-      },
-      {
-        "question": "What's orange sounds like parrot?",
-        "options": ["Carrot", "Orange", "Macaw", "Squawk"],
-        "answer": "Carrot"
-      },
-      {
-        "question": "Why math book sad?",
-        "options": ["Too problems", "Torn", "Failed", "Old"],
-        "answer": "Too problems"
-      },
-      {
-        "question": "What tree fits hand?",
-        "options": ["Palm", "Bonsai", "Twig", "Sapling"],
-        "answer": "Palm"
-      },
-      {
-        "question": "Why couldn't leopard hide?",
-        "options": ["Always spotted", "Bad at hiding", "Loud", "Clumsy"],
-        "answer": "Always spotted"
-      },
-      {
-        "question": "What's best Switzerland?",
-        "options": ["Chocolate", "Flag plus", "Mountains", "Watches"],
-        "answer": "Flag plus"
-      },
-      {
-        "question": "Why melons marry?",
-        "options": ["Cantaloupe", "Sweet", "Round", "Seedy"],
-        "answer": "Cantaloupe"
-      },
-      {
-        "question": "Why ghost bad liar?",
-        "options": ["Transparent", "No body", "Scary", "Boo"],
-        "answer": "Transparent"
-      },
-      {
-        "question": "Why chicken coop?",
-        "options": ["Only 2 doors", "For chickens", "Eggs", "Farm"],
-        "answer": "Only 2 doors"
-      },
-      {
-        "question": "What's blue smells paint?",
-        "options": ["Blue paint", "Ocean", "Sky", "Berry"],
-        "answer": "Blue paint"
-      },
-      {
-        "question": "Why banana go doctor?",
-        "options": ["Peeling bad", "Too yellow", "Bent", "Old"],
-        "answer": "Peeling bad"
-      },
-      {
-        "question": "Why can't elbow talk?",
-        "options": ["No body", "It's joint", "Bony", "Shy"],
-        "answer": "No body"
-      },
-      {
-        "question": "What's fast loud snack?",
-        "options": ["Popcorn", "Chips", "Nuts", "Cookie"],
-        "answer": "Popcorn"
-      },
-      {
-        "question": "Why did golfer wear two pants?",
-        "options": ["Hole in one", "Fashion", "Cold", "Lost"],
-        "answer": "Hole in one"
-      },
-      {
-        "question": "What's astronaut's favorite key?",
-        "options": ["Spacebar", "Rocket", "Moon", "Star"],
-        "answer": "Spacebar"
-      },
-      {
-        "question": "Why did bee marry?",
-        "options": ["Found honey", "Queen", "Stung", "Love"],
-        "answer": "Found honey"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "What is something you will never find in a refrigerator?",
+      "options": ["A hot cup of coffee", "Vegetables", "Ice cream", "Juice"],
+      "answer": "A hot cup of coffee"
+    },
+    {
+      "question": "Why did the scarecrow win an award?",
+      "options": ["He was very brave", "He was outstanding in his field", "He was smart", "He saved a bird"],
+      "answer": "He was outstanding in his field"
+    },
+    {
+      "question": "What can you catch but not throw?",
+      "options": ["A cold", "A football", "A ball", "A balloon"],
+      "answer": "A cold"
+    },
+    {
+      "question": "Why do bees have sticky hair?",
+      "options": ["Because they use honeycombs", "Because they live in hives", "Because of flowers", "Because they do not shower"],
+      "answer": "Because they use honeycombs"
+    },
+    {
+      "question": "What do you call fake spaghetti?",
+      "options": ["An impasta", "Noodle faker", "Pasta clone", "Spaghosti"],
+      "answer": "An impasta"
+    },
+    {
+      "question": "What gets wetter the more it dries?",
+      "options": ["A towel", "Rain", "Soap", "A sponge"],
+      "answer": "A towel"
+    },
+    {
+      "question": "Why did the math book look sad?",
+      "options": ["Because it had too many problems", "Because it was torn", "Because it failed the test", "Because it was old"],
+      "answer": "Because it had too many problems"
+    },
+    {
+      "question": "What kind of tree fits in your hand?",
+      "options": ["A palm tree", "A tiny tree", "A finger tree", "A small oak"],
+      "answer": "A palm tree"
+    },
+    {
+      "question": "Why was the computer cold?",
+      "options": ["Because it left its Windows open", "Because it had no heater", "Because it was frozen", "Because of ice"],
+      "answer": "Because it left its Windows open"
+    },
+    {
+      "question": "What did one wall say to the other wall?",
+      "options": ["I will meet you at the corner", "You are strong", "Let us stick together", "We are supporting each other"],
+      "answer": "I will meet you at the corner"
+    },
+    {
+      "question": "Why don't skeletons fight each other?",
+      "options": ["They don't have the guts", "They're too brittle", "They're already dead", "They're scared"],
+      "answer": "They don't have the guts"
+    },
+    {
+      "question": "What's brown and sticky?",
+      "options": ["A stick", "Chocolate", "Mud", "A brownie"],
+      "answer": "A stick"
+    },
+    {
+      "question": "What do you get when you cross a snowman and a vampire?",
+      "options": ["Frostbite", "A cold-blooded killer", "Snowflakes", "A winter nightmare"],
+      "answer": "Frostbite"
+    },
+    {
+      "question": "What's the best thing about Switzerland?",
+      "options": ["The chocolate", "The flag is a big plus", "The mountains", "The watches"],
+      "answer": "The flag is a big plus"
+    },
+    {
+      "question": "Why don't eggs tell jokes?",
+      "options": ["They'd crack each other up", "They're too fragile", "They're not funny", "They're always poached"],
+      "answer": "They'd crack each other up"
+    },
+    {
+      "question": "How do you organize a space party?",
+      "options": ["You planet", "With moon pies", "Invite aliens", "Book a rocket"],
+      "answer": "You planet"
+    },
+    {
+      "question": "Why did the golfer bring two pairs of pants?",
+      "options": ["In case he got a hole in one", "He was indecisive", "For different courses", "He forgot he already had some"],
+      "answer": "In case he got a hole in one"
+    },
+    {
+      "question": "What did the ocean say to the beach?",
+      "options": ["Nothing, it just waved", "Let's stick together", "You're so sandy", "I'm tide of you"],
+      "answer": "Nothing, it just waved"
+    },
+    {
+      "question": "Why did the tomato turn red?",
+      "options": ["It saw the salad dressing", "It was ripe", "It was embarrassed", "It was painted"],
+      "answer": "It saw the salad dressing"
+    },
+    {
+      "question": "Why did the cookie go to the doctor?",
+      "options": ["It was feeling sweet", "It was feeling crummy", "It had a chip", "It needed checkup"],
+      "answer": "It was feeling crummy"
+    },
+    {
+      "question": "What cheese isn't yours?",
+      "options": ["Nacho", "Stolen", "Foreign", "Borrowed"],
+      "answer": "Nacho"
+    },
+    {
+      "question": "Why did the bicycle fall over?",
+      "options": ["Because it was two-tired", "Because it was unbalanced", "Because it was broken", "Because a ghost pushed it"],
+      "answer": "Because it was two-tired"
+    },
+    {
+      "question": "Why can't your nose be 12 inches long?",
+      "options": ["Because then it would be a foot", "Because it would look silly", "Because it wouldn't fit", "Because doctors banned it"],
+      "answer": "Because then it would be a foot"
+    },
+    {
+      "question": "What did the grape say when it got stepped on?",
+      "options": ["Nothing, it just let out a little wine", "Ouch!", "Help!", "I'm squished!"],
+      "answer": "Nothing, it just let out a little wine"
+    },
+    {
+      "question": "What's orange and sounds like a parrot?",
+      "options": ["A carrot", "An orange", "A macaw", "A squawk"],
+      "answer": "A carrot"
+    },
+    {
+      "question": "Why couldn't the leopard hide?",
+      "options": ["Because he was always spotted", "Because he was bad at hiding", "Because he was too loud", "Because he was clumsy"],
+      "answer": "Because he was always spotted"
+    },
+    {
+      "question": "Why did the melons get married?",
+      "options": ["Because they cantaloupe", "Because they were sweet", "Because they were round", "Because they were seedy"],
+      "answer": "Because they cantaloupe"
+    },
+    {
+      "question": "Why are ghosts bad at lying?",
+      "options": ["Because you can see right through them", "Because they have no body", "Because they're too scary", "Because they always say 'boo'"],
+      "answer": "Because you can see right through them"
+    },
+    {
+      "question": "Why is a chicken coop only have two doors?",
+      "options": ["Because if it had four doors it would be a chicken sedan", "Because it's for chickens", "Because of the eggs", "Because it's on a farm"],
+      "answer": "Because if it had four doors it would be a chicken sedan"
+    },
+    {
+      "question": "What's blue and smells like red paint?",
+      "options": ["Blue paint", "The ocean", "The sky", "A blueberry"],
+      "answer": "Blue paint"
+    },
+    {
+      "question": "Why did the banana go to the doctor?",
+      "options": ["Because it wasn't peeling well", "Because it was too yellow", "Because it was bent", "Because it was old"],
+      "answer": "Because it wasn't peeling well"
+    },
+    {
+      "question": "Why can't your elbow talk?",
+      "options": ["Because it has no body", "Because it's just a joint", "Because it's too bony", "Because it's shy"],
+      "answer": "Because it has no body"
+    },
+    {
+      "question": "What's the fastest, loudest snack?",
+      "options": ["Popcorn", "Chips", "Nuts", "A cookie"],
+      "answer": "Popcorn"
+    },
+    {
+      "question": "What's an astronaut's favorite key on the keyboard?",
+      "options": ["The spacebar", "The rocket key", "The moon key", "The star key"],
+      "answer": "The spacebar"
+    },
+    {
+      "question": "Why did the bee get married?",
+      "options": ["Because he found his honey", "Because he met the queen", "Because he got stung", "Because he fell in love"],
+      "answer": "Because he found his honey"
+    },
+    {
+      "question": "Why did the Indian traffic light turn red?",
+      "options": ["Because it saw the Indian traffic", "It was angry", "It was tired", "It wanted to match Indian brides"],
+      "answer": "Because it saw the Indian traffic"
+    },
+    {
+      "question": "Why don't Indian moms need GPS?",
+      "options": ["Because they have 'beta, right le lo'", "They have great memory", "They never get lost", "They use stars"],
+      "answer": "Because they have 'beta, right le lo'"
+    },
+    {
+      "question": "What do you call a samosa that tells jokes?",
+      "options": ["A punjabi", "A laughing gas", "A funny snack", "A comed-yum"],
+      "answer": "A punjabi"
+    },
+    {
+      "question": "Why did the dosa break up with the idli?",
+      "options": ["Because it was too plain", "It wanted to be folded", "It found a better sambar", "It needed space"],
+      "answer": "Because it was too plain"
+    },
+    {
+      "question": "Why was the Indian student's report card wet?",
+      "options": ["Because it was below C-level", "It fell in water", "Teacher spilled tea", "It was crying"],
+      "answer": "Because it was below C-level"
+    },
+    {
+      "question": "Why don't Indian uncles use smartphones?",
+      "options": ["Because they already know everything", "They prefer newspapers", "Too expensive", "Bad eyesight"],
+      "answer": "Because they already know everything"
+    },
+    {
+      "question": "What do you call a chai that won't stop talking?",
+      "options": ["Chai-lu-lah", "Ginger gossip", "Masala mouth", "Tea-rant"],
+      "answer": "Chai-lu-lah"
+    },
+    {
+      "question": "Why did the auto-rickshaw go to therapy?",
+      "options": ["Because it had too many issues", "It was feeling unstable", "Meter wasn't working", "Needed to find itself"],
+      "answer": "Because it had too many issues"
+    },
+    {
+      "question": "What's an Indian ghost's favorite food?",
+      "options": ["Boo-ndi", "Spirit-ual food", "Haunted halwa", "Ghost ki roti"],
+      "answer": "Boo-ndi"
+    },
+    {
+      "question": "Why did the Indian bride take a ladder to her wedding?",
+      "options": ["Because she wanted to reach new heights", "The venue was upstairs", "For the high jump", "To climb the social ladder"],
+      "answer": "Because she wanted to reach new heights"
+    },
+    {
+      "question": "What do you call a sleeping biryani?",
+      "options": ["Naan-sense", "Rice-ing beauty", "Korma-tose", "Pulao-ver"],
+      "answer": "Korma-tose"
+    },
+    {
+      "question": "Why did the Indian politician carry a ladder?",
+      "options": ["To climb the political ladder", "For emergency exits", "To fix promises", "To reach new heights"],
+      "answer": "To climb the political ladder"
+    },
+    {
+      "question": "What's an Indian student's favorite plant?",
+      "options": ["The marks-plant", "Tulsi", "Neem", "Money plant"],
+      "answer": "The marks-plant"
+    },
+    {
+      "question": "Why did the Indian gol gappa go to school?",
+      "options": ["To become a smart-puri", "It wanted knowledge", "For extra water", "To meet friends"],
+      "answer": "To become a smart-puri"
+    },
+    {
+      "question": "Why was the Indian computer always tired?",
+      "options": ["Because it had too many windows open", "Slow processor", "Old age", "Too much work"],
+      "answer": "Because it had too many windows open"
+    },
+    {
+      "question": "What do you call an Indian who can't stop making dad jokes?",
+      "options": ["Papa-dum", "Uncle funny", "Laughing singh", "Joke-shah"],
+      "answer": "Papa-dum"
+    },
+    {
+      "question": "Why did the Indian weather forecast fail?",
+      "options": ["Because it couldn't predict the AC temperature", "Bad equipment", "No satellites", "Meteorologist was sick"],
+      "answer": "Because it couldn't predict the AC temperature"
+    },
+    {
+      "question": "What's an Indian mosquito's favorite song?",
+      "options": ["Hum honge kaamyaab", "Dil hai chota sa", "Bzzzz India", "Mera sting desh hai"],
+      "answer": "Hum honge kaamyaab"
+    },
+    {
+      "question": "Why did the Indian onion refuse to play hide and seek?",
+      "options": ["Because it knew it would make everyone cry", "It was too smelly", "It had no friends", "It was too round"],
+      "answer": "Because it knew it would make everyone cry"
+    },
+    {
+      "question": "What do you call an Indian who's always late?",
+      "options": ["Indian Standard Time", "The delayed don", "Late bahadur", "Tardy taj"],
+      "answer": "Indian Standard Time"
+    }
+  ]
+}

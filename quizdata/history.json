@@ -101,154 +101,289 @@
       "answer": "Sputnik 1"
     },
     {
-      "question": "First US President?",
-      "options": ["Jefferson", "Adams", "Washington", "Madison"],
-      "answer": "Washington"
-    },
-    {
-      "question": "WWII end year?",
-      "options": ["1943", "1945", "1947", "1950"],
-      "answer": "1945"
-    },
-    {
-      "question": "Pyramid builders?",
-      "options": ["Greeks", "Romans", "Egyptians", "Mayans"],
-      "answer": "Egyptians"
-    },
-    {
-      "question": "America discovered 1492 by?",
-      "options": ["Columbus", "Polo", "Erikson", "Vespucci"],
-      "answer": "Columbus"
-    },
-    {
-      "question": "Pilgrims' ship?",
-      "options": ["Mayflower", "Titanic", "Santa Maria", "Endeavour"],
-      "answer": "Mayflower"
-    },
-    {
-      "question": "Julius Caesar's empire?",
-      "options": ["Greek", "Roman", "Ottoman", "British"],
-      "answer": "Roman"
-    },
-    {
-      "question": "Famous Egyptian queen?",
-      "options": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"],
-      "answer": "Cleopatra"
-    },
-    {
-      "question": "Berlin Wall fell?",
+      "question": "In which year did the Berlin Wall fall?",
       "options": ["1985", "1989", "1991", "1993"],
       "answer": "1989"
     },
     {
-      "question": "First Roman emperor?",
+      "question": "Who was the first Roman emperor?",
       "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
       "answer": "Augustus"
     },
     {
-      "question": "Gunpowder inventors?",
+      "question": "Which civilization invented gunpowder?",
       "options": ["Greeks", "Romans", "Chinese", "Egyptians"],
       "answer": "Chinese"
     },
     {
-      "question": "Sistine Chapel painter?",
+      "question": "Who painted the Sistine Chapel ceiling?",
       "options": ["Da Vinci", "Michelangelo", "Raphael", "Donatello"],
       "answer": "Michelangelo"
     },
     {
-      "question": "First female PM of UK?",
-      "options": ["Victoria", "Thatcher", "May", "Gandhi"],
-      "answer": "Thatcher"
-    },
-    {
-      "question": "First satellite name?",
-      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Telstar 1"],
-      "answer": "Sputnik 1"
-    },
-    {
-      "question": "Declaration of Independence author?",
-      "options": ["Washington", "Franklin", "Jefferson", "Adams"],
-      "answer": "Jefferson"
-    },
-    {
-      "question": "Paper inventors?",
-      "options": ["Egyptians", "Greeks", "Chinese", "Romans"],
-      "answer": "Chinese"
-    },
-    {
-      "question": "First moon landing year?",
+      "question": "In which year did the first moon landing occur?",
       "options": ["1965", "1969", "1972", "1975"],
       "answer": "1969"
     },
     {
-      "question": "Hanging Gardens location?",
-      "options": ["Egypt", "Babylon", "Greece", "Persia"],
-      "answer": "Babylon"
-    },
-    {
-      "question": "French Revolution start?",
+      "question": "In which year did the French Revolution begin?",
       "options": ["1776", "1789", "1799", "1812"],
       "answer": "1789"
     },
     {
-      "question": "First female astronaut?",
-      "options": ["Ride", "Tereshkova", "Savitskaya", "Fisher"],
-      "answer": "Tereshkova"
+      "question": "Who was the first female astronaut?",
+      "options": ["Sally Ride", "Valentina Tereshkova", "Svetlana Savitskaya", "Anna Fisher"],
+      "answer": "Valentina Tereshkova"
     },
     {
-      "question": "Industrial Revolution began in?",
+      "question": "Where did the Industrial Revolution begin?",
       "options": ["France", "Germany", "USA", "Britain"],
       "answer": "Britain"
     },
     {
-      "question": "Ancient Olympic birthplace?",
+      "question": "Where were the ancient Olympic Games held?",
       "options": ["Athens", "Sparta", "Olympia", "Rome"],
       "answer": "Olympia"
     },
     {
-      "question": "Magna Carta signed?",
+      "question": "In which year was the Magna Carta signed?",
       "options": ["1066", "1215", "1453", "1492"],
       "answer": "1215"
     },
     {
-      "question": "First printing press inventor?",
+      "question": "Who invented the printing press?",
       "options": ["Da Vinci", "Gutenberg", "Edison", "Bell"],
       "answer": "Gutenberg"
     },
     {
-      "question": "Cold War ended?",
+      "question": "In which year did the Cold War end?",
       "options": ["1985", "1989", "1991", "1993"],
       "answer": "1991"
     },
     {
-      "question": "First civilization in Americas?",
+      "question": "Which was the first civilization in the Americas?",
       "options": ["Inca", "Maya", "Aztec", "Olmec"],
       "answer": "Olmec"
     },
     {
-      "question": "First emperor of China?",
+      "question": "Who was the first emperor of China?",
       "options": ["Confucius", "Qin Shi Huang", "Han Wudi", "Genghis Khan"],
       "answer": "Qin Shi Huang"
     },
     {
-      "question": "First US state?",
+      "question": "Which was the first US state?",
       "options": ["Virginia", "Massachusetts", "Delaware", "Pennsylvania"],
       "answer": "Delaware"
     },
     {
-      "question": "First woman Nobel winner?",
-      "options": ["Curie", "Addams", "McClintock", "Yousafzai"],
-      "answer": "Curie"
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Jane Addams", "Barbara McClintock", "Malala Yousafzai"],
+      "answer": "Marie Curie"
     },
     {
-      "question": "First human in space?",
-      "options": ["Armstrong", "Gagarin", "Glenn", "Shepard"],
-      "answer": "Gagarin"
+      "question": "Who was the first human in space?",
+      "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
+      "answer": "Yuri Gagarin"
     },
     {
-      "question": "First computer programmer?",
-      "options": ["Turing", "Lovelace", "Babbage", "Hopper"],
-      "answer": "Lovelace"
+      "question": "Who is considered the first computer programmer?",
+      "options": ["Alan Turing", "Ada Lovelace", "Charles Babbage", "Grace Hopper"],
+      "answer": "Ada Lovelace"
+    },
+    {
+      "question": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
+      "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
+      "answer": "Aristotle"
+    },
+    {
+      "question": "What was the main cause of the Black Death in the 14th century?",
+      "options": ["Virus", "Bacteria", "Fungus", "Parasite"],
+      "answer": "Bacteria"
+    },
+    {
+      "question": "Which empire was known for building the Taj Mahal?",
+      "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire", "British Empire"],
+      "answer": "Mughal Empire"
+    },
+    {
+      "question": "Who led the Protestant Reformation?",
+      "options": ["John Calvin", "Martin Luther", "Henry VIII", "John Wesley"],
+      "answer": "Martin Luther"
+    },
+    {
+      "question": "Which ancient city was destroyed by a volcanic eruption in 79 AD?",
+      "options": ["Athens", "Sparta", "Pompeii", "Troy"],
+      "answer": "Pompeii"
+    },
+    {
+      "question": "What was the capital of the Byzantine Empire?",
+      "options": ["Rome", "Athens", "Constantinople", "Alexandria"],
+      "answer": "Constantinople"
+    },
+    {
+      "question": "Who was the last Tsar of Russia?",
+      "options": ["Peter the Great", "Ivan the Terrible", "Nicholas II", "Alexander I"],
+      "answer": "Nicholas II"
+    },
+    {
+      "question": "Which country was the first to give women the right to vote?",
+      "options": ["United States", "United Kingdom", "New Zealand", "France"],
+      "answer": "New Zealand"
+    },
+    {
+      "question": "What was the name of Darwin's ship during his famous voyage?",
+      "options": ["Endeavour", "Beagle", "Discovery", "Victory"],
+      "answer": "Beagle"
+    },
+    {
+      "question": "Who was the first Emperor of the Maurya Empire?",
+      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
+      "answer": "Chandragupta Maurya"
+    },
+    {
+      "question": "Which ancient Indian text is considered the world's first surgical manual?",
+      "options": ["Arthashastra", "Sushruta Samhita", "Charaka Samhita", "Rigveda"],
+      "answer": "Sushruta Samhita"
+    },
+    {
+      "question": "The Indus Valley Civilization flourished around which time period?",
+      "options": ["5000 BCE", "2500 BCE", "1000 BCE", "500 BCE"],
+      "answer": "2500 BCE"
+    },
+    {
+      "question": "Who built the famous Iron Pillar of Delhi?",
+      "options": ["Chandragupta II", "Samudragupta", "Harsha", "Raja Raja Chola"],
+      "answer": "Chandragupta II"
+    },
+    {
+      "question": "The Kalinga War was fought by which emperor?",
+      "options": ["Akbar", "Ashoka", "Harshavardhana", "Kanishka"],
+      "answer": "Ashoka"
+    },
+    {
+      "question": "Which Mughal emperor built the Taj Mahal?",
+      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+      "answer": "Shah Jahan"
+    },
+    {
+      "question": "The ancient university of Nalanda was located in which present-day Indian state?",
+      "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Gujarat"],
+      "answer": "Bihar"
+    },
+    {
+      "question": "Who was the first woman ruler of the Delhi Sultanate?",
+      "options": ["Razia Sultana", "Nur Jahan", "Mumtaz Mahal", "Chand Bibi"],
+      "answer": "Razia Sultana"
+    },
+    {
+      "question": "The Bhakti movement saint Kabir was a disciple of which guru?",
+      "options": ["Guru Nanak", "Ramananda", "Chaitanya Mahaprabhu", "Basavanna"],
+      "answer": "Ramananda"
+    },
+    {
+      "question": "Which Indian king established the Vikram Samvat calendar?",
+      "options": ["Vikramaditya", "Harsha", "Pulakeshin II", "Raja Bhoja"],
+      "answer": "Vikramaditya"
+    },
+    {
+      "question": "The Battle of Plassey (1757) was fought between whom?",
+      "options": ["British and French", "British and Marathas", "British and Nawab of Bengal", "British and Tipu Sultan"],
+      "answer": "British and Nawab of Bengal"
+    },
+    {
+      "question": "Who founded the city of Jaipur?",
+      "options": ["Raja Man Singh", "Sawai Jai Singh II", "Prithviraj Chauhan", "Rana Pratap"],
+      "answer": "Sawai Jai Singh II"
+    },
+    {
+      "question": "The Quit India Movement was launched in which year?",
+      "options": ["1930", "1942", "1947", "1920"],
+      "answer": "1942"
+    },
+    {
+      "question": "Who was the first Indian woman president of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Vijaya Lakshmi Pandit"],
+      "answer": "Annie Besant"
+    },
+    {
+      "question": "The ancient port city of Lothal was part of which civilization?",
+      "options": ["Indus Valley", "Mauryan", "Gupta", "Chola"],
+      "answer": "Indus Valley"
+    },
+    {
+      "question": "Who composed the national song 'Vande Mataram'?",
+      "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subramania Bharati", "Ishwar Chandra Vidyasagar"],
+      "answer": "Bankim Chandra Chatterjee"
+    },
+    {
+      "question": "The famous Ajanta caves were built during which period?",
+      "options": ["Maurya", "Gupta", "Satavahana", "Rashtrakuta"],
+      "answer": "Gupta"
+    },
+    {
+      "question": "Who was known as the 'Frontier Gandhi'?",
+      "options": ["Maulana Azad", "Khan Abdul Ghaffar Khan", "Bal Gangadhar Tilak", "Lala Lajpat Rai"],
+      "answer": "Khan Abdul Ghaffar Khan"
+    },
+    {
+      "question": "The first war of Indian independence (1857) started from which city?",
+      "options": ["Delhi", "Kanpur", "Meerut", "Lucknow"],
+      "answer": "Meerut"
+    },
+    {
+      "question": "Who built the Konark Sun Temple?",
+      "options": ["Narasimhadeva I", "Rajendra Chola", "Krishnadevaraya", "Bhoja"],
+      "answer": "Narasimhadeva I"
+    },
+    {
+      "question": "The ancient trade route 'Uttarapatha' connected India with which region?",
+      "options": ["South East Asia", "Central Asia", "Middle East", "Africa"],
+      "answer": "Central Asia"
+    },
+    {
+      "question": "Who was the first Indian to win a Nobel Prize?",
+      "options": ["C.V. Raman", "Rabindranath Tagore", "Mother Teresa", "Hargobind Khorana"],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "The famous 'Dandi March' was associated with which movement?",
+      "options": ["Non-Cooperation", "Quit India", "Civil Disobedience", "Swadeshi"],
+      "answer": "Civil Disobedience"
+    },
+    {
+      "question": "Which Chola king built the Brihadeeswarar Temple in Thanjavur?",
+      "options": ["Rajendra Chola I", "Rajaraja Chola I", "Karikala Chola", "Vijayalaya Chola"],
+      "answer": "Rajaraja Chola I"
+    },
+    {
+      "question": "The ancient text 'Arthashastra' was written by whom?",
+      "options": ["Chanakya", "Banabhatta", "Kalhana", "Panini"],
+      "answer": "Chanakya"
+    },
+    {
+      "question": "Who founded the Sikh religion?",
+      "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Tegh Bahadur", "Guru Arjan Dev"],
+      "answer": "Guru Nanak"
+    },
+    {
+      "question": "The Jallianwala Bagh massacre occurred in which year?",
+      "options": ["1919", "1921", "1930", "1942"],
+      "answer": "1919"
+    },
+    {
+      "question": "Which Indian ruler established the 'Din-i-Ilahi' religion?",
+      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+      "answer": "Akbar"
+    },
+    {
+      "question": "The famous 'Doctrine of Lapse' was introduced by whom?",
+      "options": ["Lord Dalhousie", "Lord Curzon", "Lord Mountbatten", "Lord Wellesley"],
+      "answer": "Lord Dalhousie"
+    },
+    {
+      "question": "Who was the first Indian to travel to space?",
+      "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Ravish Malhotra"],
+      "answer": "Rakesh Sharma"
     }
   ]
 }

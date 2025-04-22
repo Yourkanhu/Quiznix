@@ -1,254 +1,284 @@
 {
-    "questions": [
-      {
-        "question": "Which planet is known as the Red Planet?",
-        "options": ["Mars", "Jupiter", "Saturn", "Venus"],
-        "answer": "Mars"
-      },
-      {
-        "question": "What is the capital city of Australia?",
-        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-        "answer": "Canberra"
-      },
-      {
-        "question": "Who wrote the play 'Romeo and Juliet'?",
-        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
-        "answer": "William Shakespeare"
-      },
-      {
-        "question": "Which gas do plants absorb from the atmosphere?",
-        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
-        "answer": "Carbon Dioxide"
-      },
-      {
-        "question": "What is the largest mammal in the world?",
-        "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
-        "answer": "Blue Whale"
-      },
-      {
-        "question": "How many continents are there on Earth?",
-        "options": ["Five", "Six", "Seven", "Eight"],
-        "answer": "Seven"
-      },
-      {
-        "question": "Which element has the chemical symbol 'O'?",
-        "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
-        "answer": "Oxygen"
-      },
-      {
-        "question": "In which year did India gain independence from British rule?",
-        "options": ["1947", "1950", "1935", "1942"],
-        "answer": "1947"
-      },
-      {
-        "question": "Which organ in the human body pumps blood?",
-        "options": ["Lungs", "Liver", "Heart", "Kidneys"],
-        "answer": "Heart"
-      },
-      {
-        "question": "Who painted the Mona Lisa?",
-        "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
-        "answer": "Leonardo da Vinci"
-      },
-      {
-        "question": "Which country is home to the kangaroo?",
-        "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
-        "answer": "Australia"
-      },
-      {
-        "question": "Which language has the most native speakers?",
-        "options": ["English", "Spanish", "Hindi", "Mandarin"],
-        "answer": "Mandarin"
-      },
-      {
-        "question": "What is the largest ocean on Earth?",
-        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
-        "answer": "Pacific"
-      },
-      {
-        "question": "What is the tallest mountain in the world?",
-        "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
-        "answer": "Mount Everest"
-      },
-      {
-        "question": "Which is the longest river in the world?",
-        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
-        "answer": "Nile"
-      },
-      {
-        "question": "What is the most widely spoken language in Africa?",
-        "options": ["English", "French", "Arabic", "Swahili"],
-        "answer": "Arabic"
-      },
-      {
-        "question": "Which country has the most time zones?",
-        "options": ["USA", "Russia", "China", "France"],
-        "answer": "France"
-      },
-      {
-        "question": "What is the currency of Japan?",
-        "options": ["Won", "Yen", "Ringgit", "Baht"],
-        "answer": "Yen"
-      },
-      {
-        "question": "Which city is known as the 'City of Love'?",
-        "options": ["Venice", "Rome", "Paris", "Vienna"],
-        "answer": "Paris"
-      },
-      {
-        "question": "What is the national animal of Canada?",
-        "options": ["Moose", "Beaver", "Polar Bear", "Bald Eagle"],
-        "answer": "Beaver"
-      },
-      {
-        "question": "Capital of Australia?",
-        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
-        "answer": "Canberra"
-      },
-      {
-        "question": "Largest ocean?",
-        "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
-        "answer": "Pacific"
-      },
-      {
-        "question": "Element symbol O?",
-        "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
-        "answer": "Oxygen"
-      },
-      {
-        "question": "Longest river?",
-        "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
-        "answer": "Nile"
-      },
-      {
-        "question": "Mona Lisa painter?",
-        "options": ["Da Vinci", "Picasso", "Van Gogh", "Michelangelo"],
-        "answer": "Da Vinci"
-      },
-      {
-        "question": "India independence year?",
-        "options": ["1947", "1950", "1935", "1942"],
-        "answer": "1947"
-      },
-      {
-        "question": "Largest mammal?",
-        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippo"],
-        "answer": "Blue Whale"
-      },
-      {
-        "question": "Romeo & Juliet author?",
-        "options": ["Shakespeare", "Dickens", "Austen", "Tolstoy"],
-        "answer": "Shakespeare"
-      },
-      {
-        "question": "Most spoken language?",
-        "options": ["English", "Spanish", "Hindi", "Mandarin"],
-        "answer": "Mandarin"
-      },
-      {
-        "question": "Statue of Liberty gifter?",
-        "options": ["England", "Spain", "France", "Italy"],
-        "answer": "France"
-      },
-      {
-        "question": "Tallest mountain?",
-        "options": ["K2", "Everest", "Kangchenjunga", "Lhotse"],
-        "answer": "Everest"
-      },
-      {
-        "question": "Red Planet?",
-        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
-        "answer": "Mars"
-      },
-      {
-        "question": "Currency of Japan?",
-        "options": ["Won", "Yen", "Ringgit", "Baht"],
-        "answer": "Yen"
-      },
-      {
-        "question": "Desert ship animal?",
-        "options": ["Horse", "Elephant", "Camel", "Donkey"],
-        "answer": "Camel"
-      },
-      {
-        "question": "Great Barrier Reef location?",
-        "options": ["Australia", "Belize", "New Caledonia", "Red Sea"],
-        "answer": "Australia"
-      },
-      {
-        "question": "Land of Rising Sun?",
-        "options": ["China", "Japan", "Korea", "Thailand"],
-        "answer": "Japan"
-      },
-      {
-        "question": "Largest desert?",
-        "options": ["Sahara", "Arabian", "Gobi", "Antarctica"],
-        "answer": "Antarctica"
-      },
-      {
-        "question": "Morning Star planet?",
-        "options": ["Mars", "Venus", "Jupiter", "Mercury"],
-        "answer": "Venus"
-      },
-      {
-        "question": "Brazil capital?",
-        "options": ["Rio", "São Paulo", "Brasília", "Salvador"],
-        "answer": "Brasília"
-      },
-      {
-        "question": "Most time zones country?",
-        "options": ["USA", "Russia", "China", "France"],
-        "answer": "France"
-      },
-      {
-        "question": "City of Love?",
-        "options": ["Venice", "Rome", "Paris", "Vienna"],
-        "answer": "Paris"
-      },
-      {
-        "question": "Canada national animal?",
-        "options": ["Moose", "Beaver", "Polar Bear", "Eagle"],
-        "answer": "Beaver"
-      },
-      {
-        "question": "Biggest island?",
-        "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
-        "answer": "Greenland"
-      },
-      {
-        "question": "Smallest country?",
-        "options": ["Monaco", "Nauru", "Vatican", "San Marino"],
-        "answer": "Vatican"
-      },
-      {
-        "question": "Most populated city?",
-        "options": ["Tokyo", "Delhi", "Shanghai", "São Paulo"],
-        "answer": "Tokyo"
-      },
-      {
-        "question": "Oldest civilization?",
-        "options": ["Egypt", "Mesopotamia", "Indus", "China"],
-        "answer": "Mesopotamia"
-      },
-      {
-        "question": "Invention year of telephone?",
-        "options": ["1876", "1854", "1892", "1901"],
-        "answer": "1876"
-      },
-      {
-        "question": "UN headquarters?",
-        "options": ["Geneva", "New York", "Vienna", "Nairobi"],
-        "answer": "New York"
-      },
-      {
-        "question": "First woman in space?",
-        "options": ["Tereshkova", "Ride", "Savitskaya", "Fisher"],
-        "answer": "Tereshkova"
-      },
-      {
-        "question": "Inventor of light bulb?",
-        "options": ["Edison", "Tesla", "Swan", "Latimer"],
-        "answer": "Edison"
-      }
-    ]
-  }
+  "questions": [
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Leo Tolstoy"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "options": ["Five", "Six", "Seven", "Eight"],
+      "answer": "Seven"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "options": ["Gold", "Oxygen", "Osmium", "Oxide"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "In which year did India gain independence from British rule?",
+      "options": ["1947", "1950", "1935", "1942"],
+      "answer": "1947"
+    },
+    {
+      "question": "Which organ in the human body pumps blood?",
+      "options": ["Lungs", "Liver", "Heart", "Kidneys"],
+      "answer": "Heart"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which country is home to the kangaroo?",
+      "options": ["New Zealand", "South Africa", "Australia", "Brazil"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Which language has the most native speakers?",
+      "options": ["English", "Spanish", "Hindi", "Mandarin"],
+      "answer": "Mandarin"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "answer": "Pacific"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+      "answer": "Nile"
+    },
+    {
+      "question": "What is the most widely spoken language in Africa?",
+      "options": ["English", "French", "Arabic", "Swahili"],
+      "answer": "Arabic"
+    },
+    {
+      "question": "Which country has the most time zones?",
+      "options": ["USA", "Russia", "China", "France"],
+      "answer": "France"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Won", "Yen", "Ringgit", "Baht"],
+      "answer": "Yen"
+    },
+    {
+      "question": "Which city is known as the 'City of Love'?",
+      "options": ["Venice", "Rome", "Paris", "Vienna"],
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the national animal of Canada?",
+      "options": ["Moose", "Beaver", "Polar Bear", "Bald Eagle"],
+      "answer": "Beaver"
+    },
+    {
+      "question": "What animal is known as the 'Ship of the Desert'?",
+      "options": ["Horse", "Elephant", "Camel", "Donkey"],
+      "answer": "Camel"
+    },
+    {
+      "question": "Where is the Great Barrier Reef located?",
+      "options": ["Australia", "Belize", "New Caledonia", "Red Sea"],
+      "answer": "Australia"
+    },
+    {
+      "question": "Which country is called the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Arabian", "Gobi", "Antarctica"],
+      "answer": "Antarctica"
+    },
+    {
+      "question": "Which planet is known as the 'Morning Star'?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "options": ["Rio", "São Paulo", "Brasília", "Salvador"],
+      "answer": "Brasília"
+    },
+    {
+      "question": "What is the world's biggest island?",
+      "options": ["Greenland", "New Guinea", "Borneo", "Madagascar"],
+      "answer": "Greenland"
+    },
+    {
+      "question": "Which is the smallest country in the world?",
+      "options": ["Monaco", "Nauru", "Vatican", "San Marino"],
+      "answer": "Vatican"
+    },
+    {
+      "question": "What is the most populated city in the world?",
+      "options": ["Tokyo", "Delhi", "Shanghai", "São Paulo"],
+      "answer": "Tokyo"
+    },
+    {
+      "question": "Which is considered the oldest civilization?",
+      "options": ["Egypt", "Mesopotamia", "Indus", "China"],
+      "answer": "Mesopotamia"
+    },
+    {
+      "question": "In which year was the telephone invented?",
+      "options": ["1876", "1854", "1892", "1901"],
+      "answer": "1876"
+    },
+    {
+      "question": "Where is the headquarters of the United Nations?",
+      "options": ["Geneva", "New York", "Vienna", "Nairobi"],
+      "answer": "New York"
+    },
+    {
+      "question": "Who was the first woman in space?",
+      "options": ["Valentina Tereshkova", "Sally Ride", "Svetlana Savitskaya", "Anna Fisher"],
+      "answer": "Valentina Tereshkova"
+    },
+    {
+      "question": "Who is credited with inventing the light bulb?",
+      "options": ["Thomas Edison", "Nikola Tesla", "Joseph Swan", "Lewis Latimer"],
+      "answer": "Thomas Edison"
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+      "answer": "Punjab"
+    },
+    {
+      "question": "Who was India's first female Prime Minister?",
+      "options": ["Sonia Gandhi", "Indira Gandhi", "Pratibha Patil", "Sarojini Naidu"],
+      "answer": "Indira Gandhi"
+    },
+    {
+      "question": "Which Indian city is known as the 'Pink City'?",
+      "options": ["Jaipur", "Jodhpur", "Udaipur", "Bikaner"],
+      "answer": "Jaipur"
+    },
+    {
+      "question": "What is the national currency of India?",
+      "options": ["Rupee", "Taka", "Rupiah", "Dinar"],
+      "answer": "Rupee"
+    },
+    {
+      "question": "Which Indian festival is known as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Dussehra", "Eid"],
+      "answer": "Diwali"
+    },
+    {
+      "question": "Who composed the Indian national anthem 'Jana Gana Mana'?",
+      "options": ["Bankim Chandra Chatterjee", "Rabindranath Tagore", "Ishwar Chandra Vidyasagar", "Subramania Bharati"],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "Which is the national animal of India?",
+      "options": ["Lion", "Elephant", "Tiger", "Peacock"],
+      "answer": "Tiger"
+    },
+    {
+      "question": "Which river is considered the most sacred in India?",
+      "options": ["Yamuna", "Ganga", "Godavari", "Brahmaputra"],
+      "answer": "Ganga"
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Jawaharlal Nehru", "Rajendra Prasad", "S. Radhakrishnan", "Zakir Hussain"],
+      "answer": "Rajendra Prasad"
+    },
+    {
+      "question": "Which Indian state has the longest coastline?",
+      "options": ["Kerala", "Tamil Nadu", "Gujarat", "Andhra Pradesh"],
+      "answer": "Gujarat"
+    },
+    {
+      "question": "What is the national flower of India?",
+      "options": ["Rose", "Lotus", "Marigold", "Jasmine"],
+      "answer": "Lotus"
+    },
+    {
+      "question": "Which Indian city is home to the Taj Mahal?",
+      "options": ["Delhi", "Jaipur", "Agra", "Lucknow"],
+      "answer": "Agra"
+    },
+    {
+      "question": "Who is known as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+      "answer": "B.R. Ambedkar"
+    },
+    {
+      "question": "Which is the highest civilian award in India?",
+      "options": ["Padma Bhushan", "Bharat Ratna", "Padma Vibhushan", "Param Vir Chakra"],
+      "answer": "Bharat Ratna"
+    },
+    {
+      "question": "Which Indian state is the largest producer of tea?",
+      "options": ["Kerala", "Tamil Nadu", "Assam", "West Bengal"],
+      "answer": "Assam"
+    },
+    {
+      "question": "What is the national bird of India?",
+      "options": ["Parrot", "Peacock", "Pigeon", "Sparrow"],
+      "answer": "Peacock"
+    },
+    {
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": ["Hyderabad", "Pune", "Chennai", "Bengaluru"],
+      "answer": "Bengaluru"
+    },
+    {
+      "question": "Who was the first Indian to win a Nobel Prize?",
+      "options": ["C.V. Raman", "Rabindranath Tagore", "Mother Teresa", "Amartya Sen"],
+      "answer": "Rabindranath Tagore"
+    },
+    {
+      "question": "Which is the national sport of India?",
+      "options": ["Cricket", "Hockey", "Football", "Kabaddi"],
+      "answer": "Hockey"
+    },
+    {
+      "question": "Which Indian state is known as the 'Spice Garden of India'?",
+      "options": ["Kerala", "Karnataka", "Tamil Nadu", "Andhra Pradesh"],
+      "answer": "Kerala"
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "options": ["Yamuna", "Godavari", "Ganga", "Brahmaputra"],
+      "answer": "Ganga"
+    },
+    {
+      "question": "Who is known as the 'Missile Man of India'?",
+      "options": ["Vikram Sarabhai", "Homi Bhabha", "A.P.J. Abdul Kalam", "Satish Dhawan"],
+      "answer": "A.P.J. Abdul Kalam"
+    }
+  ]
+}
