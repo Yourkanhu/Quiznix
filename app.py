@@ -3,6 +3,7 @@ import os
 import json
 import random
 import time
+from pathlib import Path
 from utils import send_otp, verify_entered_otp
 
 # -------------------- SETUP --------------------
@@ -12,6 +13,33 @@ st.set_page_config(
     layout="centered",
     initial_sidebar_state="collapsed"
 )
+
+# -------------------- PERSISTENT LOGIN SETUP --------------------
+USER_DATA_FILE = "user_session.json"
+
+def save_user_session(email, name):
+    """Save user session data to local file"""
+    session_data = {"email": email, "name": name, "timestamp": time.time()}
+    Path(USER_DATA_FILE).write_text(json.dumps(session_data))
+
+def load_user_session():
+    """Load user session data from local file"""
+    try:
+        if os.path.exists(USER_DATA_FILE):
+            data = json.loads(Path(USER_DATA_FILE).read_text())
+            # Check if session is older than 30 days
+            if time.time() - data.get("timestamp", 0) < 30 * 24 * 60 * 60:
+                return data
+            else:
+                os.remove(USER_DATA_FILE)
+    except:
+        pass
+    return None
+
+def clear_user_session():
+    """Clear user session data"""
+    if os.path.exists(USER_DATA_FILE):
+        os.remove(USER_DATA_FILE)
 
 # -------------------- THEME & STYLES --------------------
 st.markdown("""
@@ -119,6 +147,17 @@ for k, v in defaults.items():
     if k not in st.session_state:
         st.session_state[k] = v
 
+# Check for existing session on app start
+if not st.session_state.get("verified"):
+    existing_session = load_user_session()
+    if existing_session:
+        st.session_state.update({
+            "email": existing_session["email"],
+            "name": existing_session["name"],
+            "verified": True,
+            "stage": "category"
+        })
+
 # -------------------- HELPER FUNCTIONS --------------------
 def load_questions(category):
     """Load questions from JSON file for a category."""
@@ -152,6 +191,14 @@ def save_to_leaderboard():
 
 # -------------------- APP SCREENS --------------------
 st.markdown("<h1 style='text-align:center;'>Welcome to Quiznix</h1>", unsafe_allow_html=True)
+
+# Add logout button if logged in
+if st.session_state.get("verified"):
+    if st.sidebar.button("🚪 Logout"):
+        clear_user_session()
+        st.session_state.clear()
+        st.session_state.update(defaults)
+        st.rerun()
 
 # 1. EMAIL SCREEN
 if st.session_state.stage == "email":
@@ -192,6 +239,7 @@ elif st.session_state.stage == "name":
     if st.button("Continue"):
         if name.strip():
             st.session_state.name = name
+            save_user_session(st.session_state.email, name)  # Save session
             st.session_state.stage = "category"
             st.rerun()
         else:
