@@ -236,6 +236,9 @@ def top_navigation():
 
 def render_user_dashboard():
     """Render the user statistics dashboard with new layout"""
+    # Force reload stats to get latest data
+    st.session_state.stats = load_user_stats(st.session_state.email)
+    
     if not st.session_state.get("stats"):
         return
     
@@ -572,6 +575,11 @@ elif st.session_state.stage == "category":
 
 # 5. NUMBER OF QUESTIONS
 elif st.session_state.stage == "choose_num":
+    # Add back button at top
+    if st.button("← Back to Categories"):
+        st.session_state.stage = "category"
+        st.rerun()
+    
     st.subheader(f"Category: {st.session_state.category.capitalize()}")
     
     num = st.slider(get_text("questions"), 5, 20, 10, step=5)
