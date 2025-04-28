@@ -45,7 +45,6 @@ CONTENT = {
         "questions": "Questions",
         "time_spent": "Time Spent",
         "total_points": "Total Points",
-        "category_performance": "Category Performance",
         "achievements": "Your Achievements",
         "no_achievements": "No achievements yet. Keep playing!",
         "start_quiz": "Start Quiz",
@@ -65,7 +64,6 @@ CONTENT = {
         "questions": "Sawaal",
         "time_spent": "Kitna time diya",
         "total_points": "Total points",
-        "category_performance": "Category performance",
         "achievements": "Aapke achievements",
         "no_achievements": "Abhi koi achievements nahi. Khelte raho!",
         "start_quiz": "Quiz shuru karein",
@@ -279,31 +277,6 @@ def render_user_dashboard():
                 <p>{get_text('time_spent')}</p>
             </div>
         """, unsafe_allow_html=True)
-    
-    # Category performance
-    st.subheader(get_text("category_performance"))
-    if stats["categories"]:
-        categories = list(stats["categories"].keys())
-        avg_scores = [
-            stats["categories"][cat]["total_score"] / stats["categories"][cat]["attempts"] 
-            for cat in categories
-        ]
-        
-        fig = px.bar(
-            x=categories,
-            y=avg_scores,
-            labels={"x": "Category", "y": "Average Score"},
-            color=avg_scores,
-            color_continuous_scale=[PRIMARY_COLOR, ACCENT_COLOR]
-        )
-        fig.update_layout(
-            plot_bgcolor=DARK_COLOR,
-            paper_bgcolor=DARK_COLOR,
-            font_color=LIGHT_COLOR
-        )
-        st.plotly_chart(fig, use_container_width=True)
-    else:
-        st.info(get_text("no_achievements"))
     
     # Achievements
     st.subheader(get_text("achievements"))
@@ -525,7 +498,9 @@ def save_to_leaderboard():
 # -------------------- APP SCREENS --------------------
 top_navigation()  # This will only show on dashboard now
 
-st.markdown(f"<h1 style='text-align:center;'>{get_text('welcome')}</h1>", unsafe_allow_html=True)
+# Show welcome message only on category selection page
+if st.session_state.stage == "category":
+    st.markdown(f"<h1 style='text-align:center;'>{get_text('welcome')}</h1>", unsafe_allow_html=True)
 
 # 1. EMAIL SCREEN
 if st.session_state.stage == "email":
@@ -597,7 +572,7 @@ elif st.session_state.stage == "category":
 
 # 5. NUMBER OF QUESTIONS
 elif st.session_state.stage == "choose_num":
-    st.subheader(f"{get_text('choose_category')}: {st.session_state.category.capitalize()}")
+    st.subheader(f"Category: {st.session_state.category.capitalize()}")
     
     num = st.slider(get_text("questions"), 5, 20, 10, step=5)
     
