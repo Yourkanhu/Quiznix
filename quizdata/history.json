@@ -1,639 +1,1164 @@
 {
   "questions": [
     {
-      "question": "Who was the first President of the United States?",
-      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
-      "answer": "George Washington"
-    },
-    {
-      "question": "In which year did World War II end?",
-      "options": ["1945", "1939", "1918", "1950"],
-      "answer": "1945"
-    },
-    {
-      "question": "Which ancient civilization built the pyramids?",
-      "options": ["Egyptians", "Romans", "Greeks", "Mayans"],
-      "answer": "Egyptians"
-    },
-    {
-      "question": "Who discovered America in 1492?",
-      "options": ["Christopher Columbus", "Marco Polo", "Leif Erikson", "Amerigo Vespucci"],
-      "answer": "Christopher Columbus"
-    },
-    {
-      "question": "What was the name of the ship on which the Pilgrims traveled to America?",
-      "options": ["Mayflower", "Titanic", "Santa Maria", "Endeavour"],
-      "answer": "Mayflower"
-    },
-    {
-      "question": "Which empire was ruled by Julius Caesar?",
-      "options": ["Roman Empire", "Greek Empire", "Ottoman Empire", "British Empire"],
-      "answer": "Roman Empire"
-    },
-    {
-      "question": "Who was the famous queen of ancient Egypt known for her beauty?",
-      "options": ["Cleopatra", "Nefertiti", "Isis", "Hatshepsut"],
-      "answer": "Cleopatra"
-    },
-    {
-      "question": "What wall separated East and West Berlin during the Cold War?",
-      "options": ["Berlin Wall", "Iron Curtain", "Wall of Freedom", "Soviet Wall"],
-      "answer": "Berlin Wall"
-    },
-    {
-      "question": "Who was the leader of Nazi Germany during World War II?",
-      "options": ["Adolf Hitler", "Joseph Stalin", "Winston Churchill", "Benito Mussolini"],
-      "answer": "Adolf Hitler"
-    },
-    {
-      "question": "Which country gifted the Statue of Liberty to the United States?",
-      "options": ["France", "United Kingdom", "Germany", "Canada"],
-      "answer": "France"
-    },
-    {
-      "question": "Who was the first woman to fly solo across the Atlantic?",
-      "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
-      "answer": "Amelia Earhart"
-    },
-    {
-      "question": "In which year did the Titanic sink?",
-      "options": ["1905", "1912", "1918", "1923"],
-      "answer": "1912"
-    },
-    {
-      "question": "Who invented the telephone?",
-      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Guglielmo Marconi"],
-      "answer": "Alexander Graham Bell"
-    },
-    {
-      "question": "Which war was fought between the North and South regions of the United States?",
-      "options": ["Revolutionary War", "War of 1812", "Civil War", "Spanish-American War"],
-      "answer": "Civil War"
-    },
-    {
-      "question": "Who was the first person to step on the moon?",
-      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
-      "answer": "Neil Armstrong"
-    },
-    {
-      "question": "Which ancient wonder was located in Babylon?",
-      "options": ["Great Pyramid", "Hanging Gardens", "Colossus of Rhodes", "Lighthouse of Alexandria"],
-      "answer": "Hanging Gardens"
-    },
-    {
-      "question": "Who wrote the Declaration of Independence?",
-      "options": ["George Washington", "Benjamin Franklin", "Thomas Jefferson", "John Adams"],
-      "answer": "Thomas Jefferson"
-    },
-    {
-      "question": "Which civilization invented paper?",
-      "options": ["Egyptians", "Greeks", "Chinese", "Romans"],
-      "answer": "Chinese"
-    },
-    {
-      "question": "Who was the first female Prime Minister of Britain?",
-      "options": ["Queen Victoria", "Margaret Thatcher", "Theresa May", "Indira Gandhi"],
-      "answer": "Margaret Thatcher"
-    },
-    {
-      "question": "What was the name of the first artificial Earth satellite?",
-      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Telstar 1"],
-      "answer": "Sputnik 1"
-    },
-    {
-      "question": "In which year did the Berlin Wall fall?",
-      "options": ["1985", "1989", "1991", "1993"],
-      "answer": "1989"
-    },
-    {
-      "question": "Who was the first Roman emperor?",
-      "options": ["Julius Caesar", "Augustus", "Nero", "Constantine"],
-      "answer": "Augustus"
-    },
-    {
-      "question": "Which civilization invented gunpowder?",
-      "options": ["Greeks", "Romans", "Chinese", "Egyptians"],
-      "answer": "Chinese"
-    },
-    {
-      "question": "Who painted the Sistine Chapel ceiling?",
-      "options": ["Da Vinci", "Michelangelo", "Raphael", "Donatello"],
-      "answer": "Michelangelo"
-    },
-    {
-      "question": "In which year did the first moon landing occur?",
-      "options": ["1965", "1969", "1972", "1975"],
-      "answer": "1969"
-    },
-    {
-      "question": "In which year did the French Revolution begin?",
-      "options": ["1776", "1789", "1799", "1812"],
-      "answer": "1789"
-    },
-    {
-      "question": "Who was the first female astronaut?",
-      "options": ["Sally Ride", "Valentina Tereshkova", "Svetlana Savitskaya", "Anna Fisher"],
-      "answer": "Valentina Tereshkova"
-    },
-    {
-      "question": "Where did the Industrial Revolution begin?",
-      "options": ["France", "Germany", "USA", "Britain"],
-      "answer": "Britain"
-    },
-    {
-      "question": "Where were the ancient Olympic Games held?",
-      "options": ["Athens", "Sparta", "Olympia", "Rome"],
-      "answer": "Olympia"
-    },
-    {
-      "question": "In which year was the Magna Carta signed?",
-      "options": ["1066", "1215", "1453", "1492"],
-      "answer": "1215"
-    },
-    {
-      "question": "Who invented the printing press?",
-      "options": ["Da Vinci", "Gutenberg", "Edison", "Bell"],
-      "answer": "Gutenberg"
-    },
-    {
-      "question": "In which year did the Cold War end?",
-      "options": ["1985", "1989", "1991", "1993"],
-      "answer": "1991"
-    },
-    {
-      "question": "Which was the first civilization in the Americas?",
-      "options": ["Inca", "Maya", "Aztec", "Olmec"],
-      "answer": "Olmec"
-    },
-    {
-      "question": "Who was the first emperor of China?",
-      "options": ["Confucius", "Qin Shi Huang", "Han Wudi", "Genghis Khan"],
-      "answer": "Qin Shi Huang"
-    },
-    {
-      "question": "Which was the first US state?",
-      "options": ["Virginia", "Massachusetts", "Delaware", "Pennsylvania"],
-      "answer": "Delaware"
-    },
-    {
-      "question": "Who was the first woman to win a Nobel Prize?",
-      "options": ["Marie Curie", "Jane Addams", "Barbara McClintock", "Malala Yousafzai"],
-      "answer": "Marie Curie"
-    },
-    {
-      "question": "Who was the first human in space?",
-      "options": ["Neil Armstrong", "Yuri Gagarin", "John Glenn", "Alan Shepard"],
-      "answer": "Yuri Gagarin"
-    },
-    {
-      "question": "Who is considered the first computer programmer?",
-      "options": ["Alan Turing", "Ada Lovelace", "Charles Babbage", "Grace Hopper"],
-      "answer": "Ada Lovelace"
-    },
-    {
-      "question": "Which ancient Greek philosopher was the teacher of Alexander the Great?",
-      "options": ["Socrates", "Plato", "Aristotle", "Pythagoras"],
-      "answer": "Aristotle"
-    },
-    {
-      "question": "What was the main cause of the Black Death in the 14th century?",
-      "options": ["Virus", "Bacteria", "Fungus", "Parasite"],
-      "answer": "Bacteria"
-    },
-    {
-      "question": "Which empire was known for building the Taj Mahal?",
-      "options": ["Gupta Empire", "Maurya Empire", "Mughal Empire", "British Empire"],
-      "answer": "Mughal Empire"
-    },
-    {
-      "question": "Who led the Protestant Reformation?",
-      "options": ["John Calvin", "Martin Luther", "Henry VIII", "John Wesley"],
-      "answer": "Martin Luther"
-    },
-    {
-      "question": "Which ancient city was destroyed by a volcanic eruption in 79 AD?",
-      "options": ["Athens", "Sparta", "Pompeii", "Troy"],
-      "answer": "Pompeii"
-    },
-    {
-      "question": "What was the capital of the Byzantine Empire?",
-      "options": ["Rome", "Athens", "Constantinople", "Alexandria"],
-      "answer": "Constantinople"
-    },
-    {
-      "question": "Who was the last Tsar of Russia?",
-      "options": ["Peter the Great", "Ivan the Terrible", "Nicholas II", "Alexander I"],
-      "answer": "Nicholas II"
-    },
-    {
-      "question": "Which country was the first to give women the right to vote?",
-      "options": ["United States", "United Kingdom", "New Zealand", "France"],
-      "answer": "New Zealand"
-    },
-    {
-      "question": "What was the name of Darwin's ship during his famous voyage?",
-      "options": ["Endeavour", "Beagle", "Discovery", "Victory"],
-      "answer": "Beagle"
-    },
-    {
-      "question": "Who was the first Emperor of the Maurya Empire?",
-      "options": ["Ashoka", "Chandragupta Maurya", "Bindusara", "Samudragupta"],
-      "answer": "Chandragupta Maurya"
-    },
-    {
-      "question": "Which ancient Indian text is considered the world's first surgical manual?",
-      "options": ["Arthashastra", "Sushruta Samhita", "Charaka Samhita", "Rigveda"],
-      "answer": "Sushruta Samhita"
-    },
-    {
-      "question": "The Indus Valley Civilization flourished around which time period?",
-      "options": ["5000 BCE", "2500 BCE", "1000 BCE", "500 BCE"],
-      "answer": "2500 BCE"
-    },
-    {
-      "question": "Who built the famous Iron Pillar of Delhi?",
-      "options": ["Chandragupta II", "Samudragupta", "Harsha", "Raja Raja Chola"],
-      "answer": "Chandragupta II"
-    },
-    {
-      "question": "The Kalinga War was fought by which emperor?",
-      "options": ["Akbar", "Ashoka", "Harshavardhana", "Kanishka"],
-      "answer": "Ashoka"
-    },
-    {
-      "question": "Which Mughal emperor built the Taj Mahal?",
-      "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
-      "answer": "Shah Jahan"
-    },
-    {
-      "question": "The ancient university of Nalanda was located in which present-day Indian state?",
-      "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Gujarat"],
-      "answer": "Bihar"
-    },
-    {
-      "question": "Who was the first woman ruler of the Delhi Sultanate?",
-      "options": ["Razia Sultana", "Nur Jahan", "Mumtaz Mahal", "Chand Bibi"],
-      "answer": "Razia Sultana"
-    },
-    {
-      "question": "The Bhakti movement saint Kabir was a disciple of which guru?",
-      "options": ["Guru Nanak", "Ramananda", "Chaitanya Mahaprabhu", "Basavanna"],
-      "answer": "Ramananda"
-    },
-    {
-      "question": "Which Indian king established the Vikram Samvat calendar?",
-      "options": ["Vikramaditya", "Harsha", "Pulakeshin II", "Raja Bhoja"],
-      "answer": "Vikramaditya"
-    },
-    {
-      "question": "The Battle of Plassey (1757) was fought between whom?",
-      "options": ["British and French", "British and Marathas", "British and Nawab of Bengal", "British and Tipu Sultan"],
-      "answer": "British and Nawab of Bengal"
-    },
-    {
-      "question": "Who founded the city of Jaipur?",
-      "options": ["Raja Man Singh", "Sawai Jai Singh II", "Prithviraj Chauhan", "Rana Pratap"],
-      "answer": "Sawai Jai Singh II"
-    },
-    {
-      "question": "The Quit India Movement was launched in which year?",
-      "options": ["1930", "1942", "1947", "1920"],
-      "answer": "1942"
-    },
-    {
-      "question": "Who was the first Indian woman president of the Indian National Congress?",
-      "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Vijaya Lakshmi Pandit"],
-      "answer": "Annie Besant"
-    },
-    {
-      "question": "The ancient port city of Lothal was part of which civilization?",
-      "options": ["Indus Valley", "Mauryan", "Gupta", "Chola"],
-      "answer": "Indus Valley"
-    },
-    {
-      "question": "Who composed the national song 'Vande Mataram'?",
-      "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Subramania Bharati", "Ishwar Chandra Vidyasagar"],
-      "answer": "Bankim Chandra Chatterjee"
-    },
-    {
-      "question": "The famous Ajanta caves were built during which period?",
-      "options": ["Maurya", "Gupta", "Satavahana", "Rashtrakuta"],
-      "answer": "Gupta"
-    },
-    {
-      "question": "Who was known as the 'Frontier Gandhi'?",
-      "options": ["Maulana Azad", "Khan Abdul Ghaffar Khan", "Bal Gangadhar Tilak", "Lala Lajpat Rai"],
-      "answer": "Khan Abdul Ghaffar Khan"
-    },
-    {
-      "question": "The first war of Indian independence (1857) started from which city?",
-      "options": ["Delhi", "Kanpur", "Meerut", "Lucknow"],
-      "answer": "Meerut"
-    },
-    {
-      "question": "Who built the Konark Sun Temple?",
-      "options": ["Narasimhadeva I", "Rajendra Chola", "Krishnadevaraya", "Bhoja"],
-      "answer": "Narasimhadeva I"
-    },
-    {
-      "question": "The ancient trade route 'Uttarapatha' connected India with which region?",
-      "options": ["South East Asia", "Central Asia", "Middle East", "Africa"],
-      "answer": "Central Asia"
-    },
-    {
-      "question": "Who was the first Indian to win a Nobel Prize?",
-      "options": ["C.V. Raman", "Rabindranath Tagore", "Mother Teresa", "Hargobind Khorana"],
-      "answer": "Rabindranath Tagore"
-    },
-    {
-      "question": "The famous 'Dandi March' was associated with which movement?",
-      "options": ["Non-Cooperation", "Quit India", "Civil Disobedience", "Swadeshi"],
-      "answer": "Civil Disobedience"
-    },
-    {
-      "question": "Which Chola king built the Brihadeeswarar Temple in Thanjavur?",
-      "options": ["Rajendra Chola I", "Rajaraja Chola I", "Karikala Chola", "Vijayalaya Chola"],
-      "answer": "Rajaraja Chola I"
-    },
-    {
-      "question": "The ancient text 'Arthashastra' was written by whom?",
-      "options": ["Chanakya", "Banabhatta", "Kalhana", "Panini"],
-      "answer": "Chanakya"
-    },
-    {
-      "question": "Who founded the Sikh religion?",
-      "options": ["Guru Nanak", "Guru Gobind Singh", "Guru Tegh Bahadur", "Guru Arjan Dev"],
-      "answer": "Guru Nanak"
-    },
-    {
-      "question": "The Jallianwala Bagh massacre occurred in which year?",
-      "options": ["1919", "1921", "1930", "1942"],
-      "answer": "1919"
-    },
-    {
-      "question": "Which Indian ruler established the 'Din-i-Ilahi' religion?",
-      "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
-      "answer": "Akbar"
-    },
-    {
-      "question": "The famous 'Doctrine of Lapse' was introduced by whom?",
-      "options": ["Lord Dalhousie", "Lord Curzon", "Lord Mountbatten", "Lord Wellesley"],
-      "answer": "Lord Dalhousie"
-    },
-    {
-      "question": "Who was the first Indian to travel to space?",
-      "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Ravish Malhotra"],
-      "answer": "Rakesh Sharma"
-    },
-    {
-      "question": "Which ancient city was home to the Hanging Gardens, one of the Seven Wonders of the Ancient World?",
-      "options": ["Athens", "Babylon", "Rome", "Memphis"],
-      "answer": "Babylon"
-    },
-    {
-      "question": "Who was the first female pharaoh of Egypt?",
-      "options": ["Nefertiti", "Cleopatra", "Hatshepsut", "Sobekneferu"],
-      "answer": "Hatshepsut"
-    },
-    {
-      "question": "What was the name of the ship that Charles Darwin sailed on during his voyage of discovery?",
-      "options": ["HMS Beagle", "HMS Endeavour", "Santa Maria", "Mayflower"],
-      "answer": "HMS Beagle"
-    },
-    {
-      "question": "Which ancient civilization invented the concept of zero?",
-      "options": ["Egyptians", "Maya", "Greeks", "Romans"],
-      "answer": "Maya"
-    },
-    {
-      "question": "Who was the first European explorer to reach India by sea?",
-      "options": ["Christopher Columbus", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"],
-      "answer": "Vasco da Gama"
-    },
-    {
-      "question": "Which empire was ruled by Genghis Khan?",
-      "options": ["Ottoman Empire", "Mongol Empire", "Persian Empire", "Roman Empire"],
-      "answer": "Mongol Empire"
-    },
-    {
-      "question": "What was the main cause of the fall of the Roman Empire?",
-      "options": ["Plague", "Economic collapse", "Barbarian invasions", "All of the above"],
-      "answer": "All of the above"
-    },
-    {
-      "question": "Which war was fought between Athens and Sparta in ancient Greece?",
-      "options": ["Trojan War", "Peloponnesian War", "Punic War", "Persian War"],
-      "answer": "Peloponnesian War"
-    },
-    {
-      "question": "Who was the first woman to win a Nobel Prize, and in which field?",
-      "options": ["Marie Curie (Physics)", "Jane Addams (Peace)", "Mother Teresa (Peace)", "Dorothy Hodgkin (Chemistry)"],
-      "answer": "Marie Curie (Physics)"
-    },
-    {
-      "question": "Which ancient wonder was a giant statue that stood at the entrance of Rhodes harbor?",
-      "options": ["Colossus of Rhodes", "Statue of Zeus", "Great Pyramid", "Lighthouse of Alexandria"],
-      "answer": "Colossus of Rhodes"
-    },
-    {
-      "question": "Who was the first person to circumnavigate the globe?",
-      "options": ["Ferdinand Magellan", "Christopher Columbus", "James Cook", "Vasco da Gama"],
-      "answer": "Ferdinand Magellan"
-    },
-    {
-      "question": "Which ancient city was buried under volcanic ash in 79 AD?",
-      "options": ["Athens", "Pompeii", "Troy", "Carthage"],
-      "answer": "Pompeii"
-    },
-    {
-      "question": "Who was the last active ruler of the Ptolemaic Kingdom of Egypt?",
-      "options": ["Nefertiti", "Cleopatra VII", "Hatshepsut", "Ramses II"],
-      "answer": "Cleopatra VII"
-    },
-    {
-      "question": "Which civilization built Machu Picchu?",
-      "options": ["Aztec", "Maya", "Inca", "Olmec"],
-      "answer": "Inca"
-    },
-    {
-      "question": "Who was the first emperor of the Holy Roman Empire?",
-      "options": ["Charlemagne", "Julius Caesar", "Augustus", "Constantine"],
-      "answer": "Charlemagne"
-    },
-    {
-      "question": "Which war was sparked by the assassination of Archduke Franz Ferdinand?",
-      "options": ["World War I", "World War II", "Crimean War", "Franco-Prussian War"],
-      "answer": "World War I"
-    },
-    {
-      "question": "What was the name of the first written legal code in history?",
-      "options": ["Code of Hammurabi", "Twelve Tables", "Magna Carta", "Justinian Code"],
-      "answer": "Code of Hammurabi"
-    },
-    {
-      "question": "Who was the first female Prime Minister in the world?",
-      "options": ["Indira Gandhi", "Margaret Thatcher", "Sirimavo Bandaranaike", "Golda Meir"],
-      "answer": "Sirimavo Bandaranaike"
-    },
-    {
-      "question": "Which ancient civilization invented paper?",
-      "options": ["Egyptians", "Chinese", "Greeks", "Romans"],
-      "answer": "Chinese"
-    },
-    {
-      "question": "Who was the first ruler to unify most of modern-day France?",
-      "options": ["Charlemagne", "Clovis I", "Louis XIV", "Napoleon"],
-      "answer": "Clovis I"
-    },
-    {
-      "question": "Which ancient empire was known for its 'Royal Road' stretching over 2,500 km?",
-      "options": ["Roman Empire", "Persian Empire", "Mongol Empire", "Ottoman Empire"],
-      "answer": "Persian Empire"
-    },
-    {
-      "question": "Who was the first female ruler of the Byzantine Empire?",
-      "options": ["Theodora", "Empress Irene", "Cleopatra", "Zenobia"],
-      "answer": "Empress Irene"
-    },
-    {
-      "question": "Which ancient African kingdom was known for its wealth in gold and salt trade?",
-      "options": ["Mali Empire", "Songhai Empire", "Ghana Empire", "Zulu Kingdom"],
-      "answer": "Mali Empire"
-    },
-    {
-      "question": "What was the name of the first human-made object to reach space?",
-      "options": ["Explorer 1", "Sputnik 1", "Vanguard 1", "Apollo 11"],
-      "answer": "Sputnik 1"
-    },
-    {
-      "question": "Which ancient civilization built Stonehenge?",
-      "options": ["Celts", "Neolithic Britons", "Vikings", "Druids"],
-      "answer": "Neolithic Britons"
-    },
-    {
-      "question": "Which ancient Indian text is the oldest known medical treatise in the world?",
-      "options": ["Charaka Samhita", "Sushruta Samhita", "Atharvaveda", "Rigveda"],
-      "answer": "Sushruta Samhita"
-    },
-    {
-      "question": "Who was the first Indian woman to become Prime Minister?",
-      "options": ["Indira Gandhi", "Pratibha Patil", "Sarojini Naidu", "Sonia Gandhi"],
-      "answer": "Indira Gandhi"
-    },
-    {
-      "question": "Which ancient Indian ruler sent Buddhist missionaries to Sri Lanka and Southeast Asia?",
-      "options": ["Chandragupta Maurya", "Ashoka", "Harsha", "Samudragupta"],
-      "answer": "Ashoka"
-    },
-    {
-      "question": "What was the name of the first university in the world, established in ancient India?",
-      "options": ["Taxila", "Nalanda", "Vikramashila", "Odantapuri"],
-      "answer": "Nalanda"
-    },
-    {
-      "question": "Who was the first Indian to travel to space?",
-      "options": ["Kalpana Chawla", "Rakesh Sharma", "Sunita Williams", "Ravish Malhotra"],
-      "answer": "Rakesh Sharma"
-    },
-    {
-      "question": "Which Indian king defeated Alexander the Great's army?",
-      "options": ["Chandragupta Maurya", "Porus", "Ashoka", "Harsha"],
-      "answer": "Porus"
-    },
-    {
-      "question": "Who built the famous Iron Pillar of Delhi, which has not rusted for over 1,600 years?",
-      "options": ["Ashoka", "Chandragupta II", "Samudragupta", "Harsha"],
-      "answer": "Chandragupta II"
-    },
-    {
-      "question": "Which Indian queen led an armed rebellion against the British in 1857?",
-      "options": ["Rani Lakshmibai", "Rani Chennamma", "Razia Sultana", "Nur Jahan"],
-      "answer": "Rani Lakshmibai"
-    },
-    {
-      "question": "What was the name of the first Indian satellite launched into space?",
-      "options": ["Aryabhata", "Bhaskara", "Rohini", "INSAT"],
-      "answer": "Aryabhata"
-    },
-    {
-      "question": "Which ancient Indian mathematician invented the concept of zero?",
-      "options": ["Aryabhata", "Brahmagupta", "Bhaskara", "Varahamihira"],
-      "answer": "Aryabhata"
-    },
-    {
-      "question": "Who was the first Indian to win an individual Olympic gold medal?",
-      "options": ["Abhinav Bindra", "Neeraj Chopra", "PV Sindhu", "Sushil Kumar"],
-      "answer": "Abhinav Bindra"
-    },
-    {
-      "question": "Which Mughal emperor banned music and dance in his court?",
-      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
-      "answer": "Aurangzeb"
-    },
-    {
-      "question": "Who was the first Indian woman to climb Mount Everest?",
-      "options": ["Bachendri Pal", "Santosh Yadav", "Arunima Sinha", "Premlata Agarwal"],
-      "answer": "Bachendri Pal"
-    },
-    {
-      "question": "Which Indian king had the largest empire in Indian history?",
-      "options": ["Ashoka", "Chandragupta Maurya", "Samudragupta", "Harsha"],
-      "answer": "Ashoka"
-    },
-    {
-      "question": "What was the name of the first Indian nuclear test in 1974?",
-      "options": ["Smiling Buddha", "Operation Shakti", "Pokhran-I", "Bhim"],
-      "answer": "Smiling Buddha"
-    },
-    {
-      "question": "Who was the first Indian to win a Nobel Prize?",
-      "options": ["Rabindranath Tagore", "CV Raman", "Mother Teresa", "Hargobind Khorana"],
-      "answer": "Rabindranath Tagore"
-    },
-    {
-      "question": "Which ancient Indian port city was a major trade hub with Rome?",
-      "options": ["Lothal", "Muziris", "Puhar", "Sopara"],
-      "answer": "Muziris"
-    },
-    {
-      "question": "Who was the first Indian woman to become President of India?",
-      "options": ["Pratibha Patil", "Indira Gandhi", "Sarojini Naidu", "Sonia Gandhi"],
-      "answer": "Pratibha Patil"
-    },
-    {
-      "question": "Which Indian ruler built the Grand Trunk Road?",
-      "options": ["Ashoka", "Sher Shah Suri", "Akbar", "Chandragupta Maurya"],
-      "answer": "Sher Shah Suri"
-    },
-    {
-      "question": "Who was the first Indian to win an Oscar?",
-      "options": ["AR Rahman", "Satyajit Ray", "Bhanu Athaiya", "Gulzar"],
-      "answer": "Bhanu Athaiya"
-    },
-    {
-      "question": "Which ancient Indian text contains the earliest known reference to martial arts?",
-      "options": ["Mahabharata", "Ramayana", "Arthashastra", "Natya Shastra"],
-      "answer": "Mahabharata"
-    },
-    {
-      "question": "Who was the first Indian woman to win an Olympic medal?",
-      "options": ["Karnam Malleswari", "PV Sindhu", "Saina Nehwal", "Mary Kom"],
-      "answer": "Karnam Malleswari"
-    },
-    {
-      "question": "Which Indian king had the title 'Napoleon of India'?",
-      "options": ["Chandragupta Maurya", "Samudragupta", "Ashoka", "Harsha"],
-      "answer": "Samudragupta"
-    },
-    {
-      "question": "What was the name of the first Indian-made supercomputer?",
-      "options": ["PARAM 8000", "SAGA-220", "EKA", "ANURAG"],
-      "answer": "PARAM 8000"
-    },
-    {
-      "question": "Who was the first Indian to win the Booker Prize?",
-      "options": ["Arundhati Roy", "Salman Rushdie", "Kiran Desai", "Vikram Seth"],
-      "answer": "Arundhati Roy"
+      "english": {
+        "question": "Which Mughal emperor built the Jama Masjid in Delhi?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Shah Jahan",
+        "explanation": "Shah Jahan commissioned Jama Masjid in 1656, completing it in 1658."
+      },
+      "hinglish": {
+        "question": "Dilli ki Jama Masjid kis Mughal badshah ne banvayi thi?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Shah Jahan",
+        "explanation": "Shah Jahan ne 1656 mein Jama Masjid ka nirmaan shuru kiya tha."
+      }
+    },
+    {
+      "english": {
+        "question": "The Battle of Plassey was fought in which year?",
+        "options": ["1757", "1761", "1764", "1772"],
+        "answer": "1757",
+        "explanation": "Fought on June 23, 1757, marking the beginning of British rule in India."
+      },
+      "hinglish": {
+        "question": "Plassey ka Yudh kis saal ladha gaya tha?",
+        "options": ["1757", "1761", "1764", "1772"],
+        "answer": "1757",
+        "explanation": "23 June 1757 ko lada gaya, jisse Bharat mein British rule ki shuruvaat hui."
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the founder of the Maurya Empire?",
+        "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Samudragupta"],
+        "answer": "Chandragupta Maurya",
+        "explanation": "Founded in 322 BCE with Chanakya's guidance after defeating the Nanda dynasty."
+      },
+      "hinglish": {
+        "question": "Maurya Samrajya ka sansthapak kaun tha?",
+        "options": ["Ashoka", "Bindusara", "Chandragupta Maurya", "Samudragupta"],
+        "answer": "Chandragupta Maurya",
+        "explanation": "322 BCE mein Chanakya ki madad se Nanda vansh ko harakar sthaapit kiya."
+      }
+    },
+    {
+      "english": {
+        "question": "Where did Mahatma Gandhi launch the Civil Disobedience Movement?",
+        "options": ["Sabarmati Ashram", "Dandi", "Champaran", "Bardoli"],
+        "answer": "Dandi",
+        "explanation": "Started with the Dandi Salt March on March 12, 1930 to protest British salt laws."
+      },
+      "hinglish": {
+        "question": "Mahatma Gandhi ne Civil Disobedience Movement kahan se shuru kiya tha?",
+        "options": ["Sabarmati Ashram", "Dandi", "Champaran", "Bardoli"],
+        "answer": "Dandi",
+        "explanation": "12 March 1930 ko Dandi Namak Satyagraha ke roop mein shuru hua."
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient university of Nalanda was located in which present-day state?",
+        "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Odisha"],
+        "answer": "Bihar",
+        "explanation": "Established in 5th century CE, it was a major Buddhist learning center."
+      },
+      "hinglish": {
+        "question": "Praacheen Nalanda Vishwavidyalaya aaj ke kis rajya mein sthit hai?",
+        "options": ["Bihar", "Uttar Pradesh", "Madhya Pradesh", "Odisha"],
+        "answer": "Bihar",
+        "explanation": "5vi shatabdi CE mein sthaapit, ye ek pramukh Buddhist shiksha kendra tha."
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+        "options": ["Sarojini Naidu", "Annie Besant", "Vijaya Lakshmi Pandit", "Indira Gandhi"],
+        "answer": "Annie Besant",
+        "explanation": "She served as INC president in 1917 during the Home Rule Movement."
+      },
+      "hinglish": {
+        "question": "Indian National Congress ki pehli mahila adhyaksh kaun bani?",
+        "options": ["Sarojini Naidu", "Annie Besant", "Vijaya Lakshmi Pandit", "Indira Gandhi"],
+        "answer": "Annie Besant",
+        "explanation": "1917 mein Home Rule Movement ke dauran adhyaksh bani."
+      }
+    },
+    {
+      "english": {
+        "question": "The Indus Valley Civilization site of Lothal is located in which state?",
+        "options": ["Punjab", "Gujarat", "Rajasthan", "Haryana"],
+        "answer": "Gujarat",
+        "explanation": "Lothal was an important port city of the Harappan civilization."
+      },
+      "hinglish": {
+        "question": "Indus Valley Civilization ka Lothal sthal kis rajya mein hai?",
+        "options": ["Punjab", "Gujarat", "Rajasthan", "Haryana"],
+        "answer": "Gujarat",
+        "explanation": "Lothal Harappan sabhyata ka ek pramukh bandargah shahar tha."
+      }
+    },
+    {
+      "english": {
+        "question": "Who composed the national song 'Vande Mataram'?",
+        "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Ishwar Chandra Vidyasagar", "Swami Vivekananda"],
+        "answer": "Bankim Chandra Chatterjee",
+        "explanation": "Originally written in Bengali in 1882, later included in his novel 'Anandamath'."
+      },
+      "hinglish": {
+        "question": "Rashtriya geet 'Vande Mataram' ke rachayita kaun the?",
+        "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Ishwar Chandra Vidyasagar", "Swami Vivekananda"],
+        "answer": "Bankim Chandra Chatterjee",
+        "explanation": "1882 mein Bengali mein likha gaya, baad mein 'Anandamath' upanyas mein shamil kiya gaya."
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient text 'Arthashastra' was written by whom?",
+        "options": ["Varahamihira", "Chanakya", "Banabhatta", "Kalidas"],
+        "answer": "Chanakya",
+        "explanation": "Written in 3rd century BCE, it's a treatise on statecraft and military strategy."
+      },
+      "hinglish": {
+        "question": "Praacheen granth 'Arthashastra' kisne likha?",
+        "options": ["Varahamihira", "Chanakya", "Banabhatta", "Kalidas"],
+        "answer": "Chanakya",
+        "explanation": "3rd century BCE mein likha gaya, ye raajneeti aur sena taktiki par granth hai."
+      }
+    },
+    {
+      "english": {
+        "question": "Which dynasty built the Khajuraho temples?",
+        "options": ["Gupta", "Chola", "Chandela", "Pala"],
+        "answer": "Chandela",
+        "explanation": "Built between 950-1050 CE, known for their Nagara-style architecture and erotic sculptures."
+      },
+      "hinglish": {
+        "question": "Khajuraho mandir kis vansh ne banvaye?",
+        "options": ["Gupta", "Chola", "Chandela", "Pala"],
+        "answer": "Chandela",
+        "explanation": "950-1050 CE ke beech bane, Nagara shaili aur shringarik murtiyon ke liye prasiddh."
+      }
+    },
+    {
+      "english": {
+        "question": "Which ruler established the city of Agra?",
+        "options": ["Akbar", "Sikandar Lodi", "Sher Shah Suri", "Alauddin Khalji"],
+        "answer": "Sikandar Lodi"
+      },
+      "hinglish": {
+        "question": "Agra shahar ki sthapna kis shasak ne ki?",
+        "options": ["Akbar", "Sikandar Lodi", "Sher Shah Suri", "Alauddin Khalji"],
+        "answer": "Sikandar Lodi"
+      }
+    },
+    {
+      "english": {
+        "question": "The Battle of Haldighati was fought between?",
+        "options": ["Akbar vs Rana Sanga", "Akbar vs Rana Pratap", "Babur vs Rana Sanga", "Humayun vs Sher Shah"],
+        "answer": "Akbar vs Rana Pratap"
+      },
+      "hinglish": {
+        "question": "Haldighati ka yudh kiske beech hua?",
+        "options": ["Akbar vs Rana Sanga", "Akbar vs Rana Pratap", "Babur vs Rana Sanga", "Humayun vs Sher Shah"],
+        "answer": "Akbar vs Rana Pratap"
+      }
+    },
+    {
+      "english": {
+        "question": "Who wrote 'Kitab-ul-Hind'?",
+        "options": ["Al-Biruni", "Ibn Battuta", "Abdul Fazl", "Barani"],
+        "answer": "Al-Biruni"
+      },
+      "hinglish": {
+        "question": "'Kitab-ul-Hind' kisne likhi?",
+        "options": ["Al-Biruni", "Ibn Battuta", "Abdul Fazl", "Barani"],
+        "answer": "Al-Biruni"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Muslim woman to rule Delhi was?",
+        "options": ["Razia Sultan", "Nur Jahan", "Mumtaz Mahal", "Chand Bibi"],
+        "answer": "Razia Sultan"
+      },
+      "hinglish": {
+        "question": "Dilli par raj karne wali pehli Muslim mahila kaun thi?",
+        "options": ["Razia Sultan", "Nur Jahan", "Mumtaz Mahal", "Chand Bibi"],
+        "answer": "Razia Sultan"
+      }
+    },
+    {
+      "english": {
+        "question": "The capital of the Vijayanagara Empire was?",
+        "options": ["Hampi", "Madurai", "Thanjavur", "Kanchi"],
+        "answer": "Hampi"
+      },
+      "hinglish": {
+        "question": "Vijayanagara Samrajya ki rajdhani kya thi?",
+        "options": ["Hampi", "Madurai", "Thanjavur", "Kanchi"],
+        "answer": "Hampi"
+      }
+    },
+    {
+      "english": {
+        "question": "Who founded the Sikh Khalsa Panth?",
+        "options": ["Guru Nanak", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Arjan Dev"],
+        "answer": "Guru Gobind Singh"
+      },
+      "hinglish": {
+        "question": "Sikh Khalsa Panth ki sthapna kisne ki?",
+        "options": ["Guru Nanak", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Arjan Dev"],
+        "answer": "Guru Gobind Singh"
+      }
+    },
+    {
+      "english": {
+        "question": "The Portuguese first landed in India at?",
+        "options": ["Goa", "Cochin", "Calicut", "Diu"],
+        "answer": "Calicut"
+      },
+      "hinglish": {
+        "question": "Portuguese Bharat mein sabse pehle kahan utre?",
+        "options": ["Goa", "Cochin", "Calicut", "Diu"],
+        "answer": "Calicut"
+      }
+    },
+    {
+      "english": {
+        "question": "Who built the Gol Gumbaz?",
+        "options": ["Adil Shahi dynasty", "Qutb Shahi dynasty", "Bahmani Sultanate", "Nizam Shahi dynasty"],
+        "answer": "Adil Shahi dynasty"
+      },
+      "hinglish": {
+        "question": "Gol Gumbaz kisne banvaya?",
+        "options": ["Adil Shahi vansh", "Qutb Shahi vansh", "Bahmani Sultanate", "Nizam Shahi vansh"],
+        "answer": "Adil Shahi vansh"
+      }
+    },
+    {
+      "english": {
+        "question": "The Treaty of Bassein was signed with?",
+        "options": ["French", "Portuguese", "British", "Dutch"],
+        "answer": "British"
+      },
+      "hinglish": {
+        "question": "Bassein ki sandhi kiske saath hui?",
+        "options": ["French", "Portuguese", "British", "Dutch"],
+        "answer": "British"
+      }
+    },
+    {
+      "english": {
+        "question": "Who started the Ryotwari System?",
+        "options": ["Lord Cornwallis", "Thomas Munro", "Warren Hastings", "Lord Dalhousie"],
+        "answer": "Thomas Munro"
+      },
+      "hinglish": {
+        "question": "Ryotwari Pranali kisne shuru ki?",
+        "options": ["Lord Cornwallis", "Thomas Munro", "Warren Hastings", "Lord Dalhousie"],
+        "answer": "Thomas Munro"
+      }
+    },
+    {
+      "english": {
+        "question": "The first session of INC was presided by?",
+        "options": ["Dadabhai Naoroji", "Womesh Chunder Bonnerjee", "Badruddin Tyabji", "Pherozeshah Mehta"],
+        "answer": "Womesh Chunder Bonnerjee"
+      },
+      "hinglish": {
+        "question": "INC ka pehla adhiveshan kisne preside kiya?",
+        "options": ["Dadabhai Naoroji", "Womesh Chunder Bonnerjee", "Badruddin Tyabji", "Pherozeshah Mehta"],
+        "answer": "Womesh Chunder Bonnerjee"
+      }
+    },
+    {
+      "english": {
+        "question": "Who founded the Servants of India Society?",
+        "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Mahatma Gandhi", "Lala Lajpat Rai"],
+        "answer": "Gopal Krishna Gokhale"
+      },
+      "hinglish": {
+        "question": "Servants of India Society ki sthapna kisne ki?",
+        "options": ["Bal Gangadhar Tilak", "Gopal Krishna Gokhale", "Mahatma Gandhi", "Lala Lajpat Rai"],
+        "answer": "Gopal Krishna Gokhale"
+      }
+    },
+    {
+      "english": {
+        "question": "The Kakori Conspiracy took place in?",
+        "options": ["1919", "1925", "1930", "1942"],
+        "answer": "1925"
+      },
+      "hinglish": {
+        "question": "Kakori Shaadyantra kis saal hua?",
+        "options": ["1919", "1925", "1930", "1942"],
+        "answer": "1925"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian to join the ICS was?",
+        "options": ["Satyendranath Tagore", "Romesh Chunder Dutt", "Surendranath Banerjee", "Dadabhai Naoroji"],
+        "answer": "Satyendranath Tagore"
+      },
+      "hinglish": {
+        "question": "ICS mein shamil hone wale pehle Indian kaun the?",
+        "options": ["Satyendranath Tagore", "Romesh Chunder Dutt", "Surendranath Banerjee", "Dadabhai Naoroji"],
+        "answer": "Satyendranath Tagore"
+      }
+    },
+    {
+      "english": {
+        "question": "Who founded the Forward Bloc?",
+        "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh", "Chandra Shekhar Azad"],
+        "answer": "Subhas Chandra Bose"
+      },
+      "hinglish": {
+        "question": "Forward Bloc ki sthapna kisne ki?",
+        "options": ["Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh", "Chandra Shekhar Azad"],
+        "answer": "Subhas Chandra Bose"
+      }
+    },
+    {
+      "english": {
+        "question": "The Cabinet Mission came to India in?",
+        "options": ["1942", "1945", "1946", "1947"],
+        "answer": "1946"
+      },
+      "hinglish": {
+        "question": "Cabinet Mission Bharat kab aayi?",
+        "options": ["1942", "1945", "1946", "1947"],
+        "answer": "1946"
+      }
+    },
+    {
+      "english": {
+        "question": "India's first atomic test was codenamed?",
+        "options": ["Operation Shakti", "Operation Smiling Buddha", "Operation Vijay", "Operation Blue Star"],
+        "answer": "Operation Smiling Buddha"
+      },
+      "hinglish": {
+        "question": "Bharat ka pehla parmantu parikshan ka code naam kya tha?",
+        "options": ["Operation Shakti", "Operation Smiling Buddha", "Operation Vijay", "Operation Blue Star"],
+        "answer": "Operation Smiling Buddha"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian satellite Aryabhata was launched in?",
+        "options": ["1972", "1975", "1978", "1980"],
+        "answer": "1975"
+      },
+      "hinglish": {
+        "question": "Pehla Bharatiya satellite Aryabhata kab launch hua?",
+        "options": ["1972", "1975", "1978", "1980"],
+        "answer": "1975"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian to win an individual Olympic gold medal was?",
+        "options": ["Dhyan Chand", "Abhinav Bindra", "Neeraj Chopra", "Karnam Malleswari"],
+        "answer": "Abhinav Bindra"
+      },
+      "hinglish": {
+        "question": "Vyaktigat Olympic gold jeetne wale pehle Indian kaun the?",
+        "options": ["Dhyan Chand", "Abhinav Bindra", "Neeraj Chopra", "Karnam Malleswari"],
+        "answer": "Abhinav Bindra"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian woman to climb Mount Everest was?",
+        "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+        "answer": "Bachendri Pal"
+      },
+      "hinglish": {
+        "question": "Mount Everest par chadhne wali pehli Bharatiya mahila kaun thi?",
+        "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+        "answer": "Bachendri Pal"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient university of Vikramshila was established by which ruler?",
+        "options": ["Harsha", "Dharmapala", "Devapala", "Gopala"],
+        "answer": "Dharmapala"
+      },
+      "hinglish": {
+        "question": "Vikramshila pracheen vishwavidyalaya kis shasak ne sthaapit ki?",
+        "options": ["Harsha", "Dharmapala", "Devapala", "Gopala"],
+        "answer": "Dharmapala"
+      }
+    },
+    {
+      "english": {
+        "question": "Who built the famous Chand Baori stepwell?",
+        "options": ["Raja Chanda", "Raja Man Singh", "Raja Bhoj", "Raja Mihir Bhoja"],
+        "answer": "Raja Chanda"
+      },
+      "hinglish": {
+        "question": "Prashidh Chand Baori stepwell kisne banvayi?",
+        "options": ["Raja Chanda", "Raja Man Singh", "Raja Bhoj", "Raja Mihir Bhoja"],
+        "answer": "Raja Chanda"
+      }
+    },
+    {
+      "english": {
+        "question": "The Battle of Talikota (1565) resulted in the downfall of which empire?",
+        "options": ["Vijayanagara", "Bahmani", "Chola", "Pallava"],
+        "answer": "Vijayanagara"
+      },
+      "hinglish": {
+        "question": "Talikota ka Yudh (1565) kis samrajya ke patan ka karan bana?",
+        "options": ["Vijayanagara", "Bahmani", "Chola", "Pallava"],
+        "answer": "Vijayanagara"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Sikh guru compiled the Adi Granth?",
+        "options": ["Guru Nanak", "Guru Arjan Dev", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+        "answer": "Guru Arjan Dev"
+      },
+      "hinglish": {
+        "question": "Kis Sikh guru ne Adi Granth ka sanchalan kiya?",
+        "options": ["Guru Nanak", "Guru Arjan Dev", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+        "answer": "Guru Arjan Dev"
+      }
+    },
+    {
+      "english": {
+        "question": "The Portuguese captured Goa from which ruler?",
+        "options": ["Bijapur Sultanate", "Vijayanagara Empire", "Bahmani Sultanate", "Gujarat Sultanate"],
+        "answer": "Bijapur Sultanate"
+      },
+      "hinglish": {
+        "question": "Portuguese ne Goa kis shasak se jita?",
+        "options": ["Bijapur Sultanate", "Vijayanagara Empire", "Bahmani Sultanate", "Gujarat Sultanate"],
+        "answer": "Bijapur Sultanate"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian to become President of the Indian National Congress?",
+        "options": ["Dadabhai Naoroji", "Womesh Chunder Bonnerjee", "Badruddin Tyabji", "Pherozeshah Mehta"],
+        "answer": "Womesh Chunder Bonnerjee"
+      },
+      "hinglish": {
+        "question": "INC ke adhyaksh banne wale pehle Indian kaun the?",
+        "options": ["Dadabhai Naoroji", "Womesh Chunder Bonnerjee", "Badruddin Tyabji", "Pherozeshah Mehta"],
+        "answer": "Womesh Chunder Bonnerjee"
+      }
+    },
+    {
+      "english": {
+        "question": "The Jallianwala Bagh massacre occurred during which festival?",
+        "options": ["Diwali", "Holi", "Baisakhi", "Dussehra"],
+        "answer": "Baisakhi"
+      },
+      "hinglish": {
+        "question": "Jallianwala Bagh hinsa kis tyohar ke dauran hui?",
+        "options": ["Diwali", "Holi", "Baisakhi", "Dussehra"],
+        "answer": "Baisakhi"
+      }
+    },
+    {
+      "english": {
+        "question": "Who founded the Ghadar Party in 1913?",
+        "options": ["Lala Hardayal", "Bhagat Singh", "Sohan Singh Bhakna", "Rash Behari Bose"],
+        "answer": "Lala Hardayal"
+      },
+      "hinglish": {
+        "question": "1913 mein Ghadar Party ki sthapna kisne ki?",
+        "options": ["Lala Hardayal", "Bhagat Singh", "Sohan Singh Bhakna", "Rash Behari Bose"],
+        "answer": "Lala Hardayal"
+      }
+    },
+    {
+      "english": {
+        "question": "The Quit India Movement started in which year?",
+        "options": ["1940", "1941", "1942", "1943"],
+        "answer": "1942"
+      },
+      "hinglish": {
+        "question": "Quit India Movement kis saar shuru hua?",
+        "options": ["1940", "1941", "1942", "1943"],
+        "answer": "1942"
+      }
+    },
+    {
+      "english": {
+        "question": "India's first nuclear test was conducted in which state?",
+        "options": ["Rajasthan", "Gujarat", "Maharashtra", "Punjab"],
+        "answer": "Rajasthan"
+      },
+      "hinglish": {
+        "question": "Bharat ka pehla nuclear test kis rajya mein hua?",
+        "options": ["Rajasthan", "Gujarat", "Maharashtra", "Punjab"],
+        "answer": "Rajasthan"
+      }
+    },
+    {
+      "english": {
+        "question": "Who designed the Indian Parliament building?",
+        "options": ["Edwin Lutyens", "Herbert Baker", "Le Corbusier", "Charles Correa"],
+        "answer": "Edwin Lutyens"
+      },
+      "hinglish": {
+        "question": "Bharatiya Sansad Bhavan ka design kisne banaya?",
+        "options": ["Edwin Lutyens", "Herbert Baker", "Le Corbusier", "Charles Correa"],
+        "answer": "Edwin Lutyens"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian state formed on linguistic basis was?",
+        "options": ["Andhra Pradesh", "Tamil Nadu", "Karnataka", "Kerala"],
+        "answer": "Andhra Pradesh"
+      },
+      "hinglish": {
+        "question": "Bhasha ke aadhar par bana pehla rajya kaun sa tha?",
+        "options": ["Andhra Pradesh", "Tamil Nadu", "Karnataka", "Kerala"],
+        "answer": "Andhra Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Chief Minister of independent India's first state (Punjab)?",
+        "options": ["Gopi Chand Bhargava", "Partap Singh Kairon", "Bhagat Singh", "Master Tara Singh"],
+        "answer": "Gopi Chand Bhargava"
+      },
+      "hinglish": {
+        "question": "Aazadi ke baad Punjab ke pehle Chief Minister kaun the?",
+        "options": ["Gopi Chand Bhargava", "Partap Singh Kairon", "Bhagat Singh", "Master Tara Singh"],
+        "answer": "Gopi Chand Bhargava"
+      }
+    },
+    {
+      "english": {
+        "question": "India's first satellite Aryabhata was launched from which country?",
+        "options": ["USA", "Russia", "France", "India"],
+        "answer": "Russia"
+      },
+      "hinglish": {
+        "question": "Bharat ka pehla satellite Aryabhata kis desh se launch hua?",
+        "options": ["USA", "Russia", "France", "India"],
+        "answer": "Russia"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian to win the Booker Prize was?",
+        "options": ["Arundhati Roy", "Salman Rushdie", "V.S. Naipaul", "Kiran Desai"],
+        "answer": "Salman Rushdie"
+      },
+      "hinglish": {
+        "question": "Booker Prize jeetne wale pehle Indian kaun the?",
+        "options": ["Arundhati Roy", "Salman Rushdie", "V.S. Naipaul", "Kiran Desai"],
+        "answer": "Salman Rushdie"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "options": ["P.T. Usha", "Karnam Malleswari", "Saina Nehwal", "P.V. Sindhu"],
+        "answer": "Karnam Malleswari"
+      },
+      "hinglish": {
+        "question": "Olympic medal jeetne wali pehli Bharatiya mahila kaun thi?",
+        "options": ["P.T. Usha", "Karnam Malleswari", "Saina Nehwal", "P.V. Sindhu"],
+        "answer": "Karnam Malleswari"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian to climb Mount Everest without oxygen was?",
+        "options": ["Bachendri Pal", "Phu Dorjee", "Sherpa Ang Dorjee", "Sonam Gyatso"],
+        "answer": "Phu Dorjee"
+      },
+      "hinglish": {
+        "question": "Bina oxygen ke Mount Everest par chadhne wale pehle Indian kaun the?",
+        "options": ["Bachendri Pal", "Phu Dorjee", "Sherpa Ang Dorjee", "Sonam Gyatso"],
+        "answer": "Phu Dorjee"
+      }
+    },
+    {
+      "english": {
+        "question": "India's first indigenous aircraft carrier is named after?",
+        "options": ["INS Vikrant", "INS Virat", "INS Viraat", "INS Vikramaditya"],
+        "answer": "INS Vikrant"
+      },
+      "hinglish": {
+        "question": "Bharat ka pehla swadeshi aircraft carrier kiske naam par hai?",
+        "options": ["INS Vikrant", "INS Virat", "INS Viraat", "INS Vikramaditya"],
+        "answer": "INS Vikrant"
+      }
+    },
+    {
+      "english": {
+        "question": "The first Indian state to implement Panchayati Raj was?",
+        "options": ["Rajasthan", "Gujarat", "Maharashtra", "Andhra Pradesh"],
+        "answer": "Rajasthan"
+      },
+      "hinglish": {
+        "question": "Panchayati Raj lagu karne wala pehla rajya kaun sa tha?",
+        "options": ["Rajasthan", "Gujarat", "Maharashtra", "Andhra Pradesh"],
+        "answer": "Rajasthan"
+      }
+    },
+    {
+      "english": {
+        "question": "India's first metro rail started in which city?",
+        "options": ["Delhi", "Kolkata", "Mumbai", "Chennai"],
+        "answer": "Kolkata"
+      },
+      "hinglish": {
+        "question": "Bharat ki pehli metro kis shahar mein shuru hui?",
+        "options": ["Delhi", "Kolkata", "Mumbai", "Chennai"],
+        "answer": "Kolkata"
+      }
+    },
+    {
+      "english": {
+        "question": "Which ancient Indian text is considered the world's first surgery manual?",
+        "options": ["Charaka Samhita", "Sushruta Samhita", "Ashtanga Hridaya", "Arthashastra"],
+        "answer": "Sushruta Samhita"
+      },
+      "hinglish": {
+        "question": "Kaun sa prachin Bharatiya granth duniya ka pehla surgery manual mana jata hai?",
+        "options": ["Charaka Samhita", "Sushruta Samhita", "Ashtanga Hridaya", "Arthashastra"],
+        "answer": "Sushruta Samhita"
+      }
+    },
+    {
+      "english": {
+        "question": "The famous 'Iron Pillar' in Delhi was built during which dynasty?",
+        "options": ["Maurya", "Gupta", "Chola", "Kushan"],
+        "answer": "Gupta"
+      },
+      "hinglish": {
+        "question": "Dilli mein sthit prasidh 'Lauh Stambh' kis vansh ke dauran bana tha?",
+        "options": ["Maurya", "Gupta", "Chola", "Kushan"],
+        "answer": "Gupta"
+      }
+    },
+    {
+      "english": {
+        "question": "Who established the 'Din-i-Ilahi' religion?",
+        "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+        "answer": "Akbar"
+      },
+      "hinglish": {
+        "question": "'Din-i-Ilahi' dharm ki sthapna kisne ki?",
+        "options": ["Akbar", "Aurangzeb", "Shah Jahan", "Jahangir"],
+        "answer": "Akbar"
+      }
+    },
+    {
+      "english": {
+        "question": "The 'Doctrine of Lapse' policy was introduced by which British Governor-General?",
+        "options": ["Lord Dalhousie", "Lord Canning", "Lord Curzon", "Lord Wellesley"],
+        "answer": "Lord Dalhousie"
+      },
+      "hinglish": {
+        "question": "'Doctrine of Lapse' niti kis British Governor-General ne shuru ki?",
+        "options": ["Lord Dalhousie", "Lord Canning", "Lord Curzon", "Lord Wellesley"],
+        "answer": "Lord Dalhousie"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was known as the 'Grand Old Man of India'?",
+        "options": ["Mahatma Gandhi", "Dadabhai Naoroji", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak"],
+        "answer": "Dadabhai Naoroji"
+      },
+      "hinglish": {
+        "question": "'Bharat ke Grand Old Man' kis mukhya neta ko kaha jata tha?",
+        "options": ["Mahatma Gandhi", "Dadabhai Naoroji", "Gopal Krishna Gokhale", "Bal Gangadhar Tilak"],
+        "answer": "Dadabhai Naoroji"
+      }
+    },
+    {
+      "english": {
+        "question": "Which civilization built the Machu Picchu citadel?",
+        "options": ["Aztec", "Maya", "Inca", "Olmec"],
+        "answer": "Inca"
+      },
+      "hinglish": {
+        "question": "Machu Picchu giridurg ka nirmaan kis sabhyata ne kiya?",
+        "options": ["Aztec", "Maya", "Inca", "Olmec"],
+        "answer": "Inca"
+      }
+    },
+    {
+      "english": {
+        "question": "The Magna Carta was signed in which year?",
+        "options": ["1066", "1215", "1492", "1776"],
+        "answer": "1215"
+      },
+      "hinglish": {
+        "question": "Magna Carta par kis varsh mein hastakshar kiye gaye?",
+        "options": ["1066", "1215", "1492", "1776"],
+        "answer": "1215"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first female Prime Minister in the world?",
+        "options": ["Indira Gandhi", "Golda Meir", "Sirimavo Bandaranaike", "Margaret Thatcher"],
+        "answer": "Sirimavo Bandaranaike (Sri Lanka, 1960)"
+      },
+      "hinglish": {
+        "question": "Duniya ki pehli mahila Pradhan Mantri kaun thi?",
+        "options": ["Indira Gandhi", "Golda Meir", "Sirimavo Bandaranaike", "Margaret Thatcher"],
+        "answer": "Sirimavo Bandaranaike (Sri Lanka, 1960)"
+      }
+    },
+    {
+      "english": {
+        "question": "The Berlin Wall fell in which year?",
+        "options": ["1985", "1989", "1991", "1995"],
+        "answer": "1989"
+      },
+      "hinglish": {
+        "question": "Berlin ki deewar kis saal giri thi?",
+        "options": ["1985", "1989", "1991", "1995"],
+        "answer": "1989"
+      }
+    },
+    {
+      "english": {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Marie Curie"],
+        "answer": "Alexander Fleming"
+      },
+      "hinglish": {
+        "question": "Penicillin ki khoj kisne ki?",
+        "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Marie Curie"],
+        "answer": "Alexander Fleming"
+      }
+    },
+    {
+      "english": {
+        "question": "Which ancient Indian university had a 30-foot-high wall to protect its library?",
+        "options": ["Nalanda", "Vikramshila", "Taxila", "Valabhi"],
+        "answer": "Nalanda"
+      },
+      "hinglish": {
+        "question": "Kis prachin Bharatiya vishwavidyalaya mein pustakalay ki suraksha ke liye 30-foot unch diwar thi?",
+        "options": ["Nalanda", "Vikramshila", "Taxila", "Valabhi"],
+        "answer": "Nalanda"
+      }
+    },
+    {
+      "english": {
+        "question": "The Koh-i-Noor diamond was once embedded in which Indian ruler's throne?",
+        "options": ["Krishnadevaraya", "Shivaji", "Maharaja Ranjit Singh", "Tipu Sultan"],
+        "answer": "Maharaja Ranjit Singh"
+      },
+      "hinglish": {
+        "question": "Koh-i-Noor hira kis Bharat ke shasak ke singhasan mein jada tha?",
+        "options": ["Krishnadevaraya", "Shivaji", "Maharaja Ranjit Singh", "Tipu Sultan"],
+        "answer": "Maharaja Ranjit Singh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which civilization invented the concept of zero independently of India?",
+        "options": ["Egyptians", "Mayans", "Greeks", "Chinese"],
+        "answer": "Mayans"
+      },
+      "hinglish": {
+        "question": "Kaun si sabhyata ne India se alag, shunya ka concept khoja tha?",
+        "options": ["Egyptians", "Mayans", "Greeks", "Chinese"],
+        "answer": "Mayans"
+      }
+    },
+    {
+      "english": {
+        "question": "The Great Wall of China was built primarily to defend against which group?",
+        "options": ["Mongols", "Huns", "Manchus", "Xiongnu"],
+        "answer": "Xiongnu"
+      },
+      "hinglish": {
+        "question": "China ki Mahaan Deewar ka nirmaan mukhya roop se kis samuday se bachne ke liye kiya gaya tha?",
+        "options": ["Mongols", "Huns", "Manchus", "Xiongnu"],
+        "answer": "Xiongnu"
+      }
+    },
+    {
+      "english": {
+        "question": "Which ancient Indian university had a 30-foot-high wall to protect its library?",
+        "options": ["Nalanda", "Vikramshila", "Taxila", "Valabhi"],
+        "answer": "Nalanda"
+      },
+      "hinglish": {
+        "question": "Kis prachin Bharatiya vishwavidyalaya mein pustakalay ki suraksha ke liye 30-foot unch diwar thi?",
+        "options": ["Nalanda", "Vikramshila", "Taxila", "Valabhi"],
+        "answer": "Nalanda"
+      }
+    },
+    {
+      "english": {
+        "question": "The Koh-i-Noor diamond was once embedded in which Indian ruler's throne?",
+        "options": ["Krishnadevaraya", "Shivaji", "Maharaja Ranjit Singh", "Tipu Sultan"],
+        "answer": "Maharaja Ranjit Singh"
+      },
+      "hinglish": {
+        "question": "Koh-i-Noor hira kis Bharat ke shasak ke singhasan mein jada tha?",
+        "options": ["Krishnadevaraya", "Shivaji", "Maharaja Ranjit Singh", "Tipu Sultan"],
+        "answer": "Maharaja Ranjit Singh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which civilization invented the concept of zero independently of India?",
+        "options": ["Egyptians", "Mayans", "Greeks", "Chinese"],
+        "answer": "Mayans"
+      },
+      "hinglish": {
+        "question": "Kaun si sabhyata ne India se alag, shunya ka concept khoja tha?",
+        "options": ["Egyptians", "Mayans", "Greeks", "Chinese"],
+        "answer": "Mayans"
+      }
+    },
+    {
+      "english": {
+        "question": "The Great Wall of China was built primarily to defend against which group?",
+        "options": ["Mongols", "Huns", "Manchus", "Xiongnu"],
+        "answer": "Xiongnu"
+      },
+      "hinglish": {
+        "question": "China ki Mahaan Deewar ka nirmaan mukhya roop se kis samuday se bachne ke liye kiya gaya tha?",
+        "options": ["Mongols", "Huns", "Manchus", "Xiongnu"],
+        "answer": "Xiongnu"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Chola king built the Brihadeeswarar Temple in Thanjavur?",
+        "options": ["Rajaraja Chola I", "Rajendra Chola I", "Kulottunga Chola I", "Vikrama Chola"],
+        "answer": "Rajaraja Chola I"
+      },
+      "hinglish": {
+        "question": "Thanjavur ka Brihadeeswarar Mandir kis Chola raja ne banvaya?",
+        "options": ["Rajaraja Chola I", "Rajendra Chola I", "Kulottunga Chola I", "Vikrama Chola"],
+        "answer": "Rajaraja Chola I"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient city of Pompeii was destroyed by which volcanic eruption?",
+        "options": ["Mount Vesuvius", "Mount Etna", "Mount Krakatoa", "Mount Tambora"],
+        "answer": "Mount Vesuvius"
+      },
+      "hinglish": {
+        "question": "Pompeii ka pracheen shahar kis janjrahal ke phatne se nashta hua?",
+        "options": ["Mount Vesuvius", "Mount Etna", "Mount Krakatoa", "Mount Tambora"],
+        "answer": "Mount Vesuvius"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first woman to rule the Delhi Sultanate?",
+        "options": ["Razia Sultan", "Nur Jahan", "Chand Bibi", "Mumtaz Mahal"],
+        "answer": "Razia Sultan"
+      },
+      "hinglish": {
+        "question": "Delhi Sultanat par raj karne wali pehli mahila kaun thi?",
+        "options": ["Razia Sultan", "Nur Jahan", "Chand Bibi", "Mumtaz Mahal"],
+        "answer": "Razia Sultan"
+      }
+    },
+    {
+      "english": {
+        "question": "The Rosetta Stone helped decipher which ancient language?",
+        "options": ["Sanskrit", "Hieroglyphics", "Cuneiform", "Linear B"],
+        "answer": "Hieroglyphics"
+      },
+      "hinglish": {
+        "question": "Rosetta Stone ne kis prachin bhasha ko samajhne mein madad ki?",
+        "options": ["Sanskrit", "Hieroglyphics", "Cuneiform", "Linear B"],
+        "answer": "Hieroglyphics"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Mughal emperor banned music and dancing in his court?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Aurangzeb"
+      },
+      "hinglish": {
+        "question": "Kis Mughal badshah ne apne darbaar mein sangeet aur nritya par pratibandh lagaya?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "answer": "Aurangzeb"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient Olympic Games were held in honor of which Greek god?",
+        "options": ["Apollo", "Zeus", "Poseidon", "Hermes"],
+        "answer": "Zeus"
+      },
+      "hinglish": {
+        "question": "Prachin Olympic Games kis Greek devta ke samman mein aayojit kiye jaate the?",
+        "options": ["Apollo", "Zeus", "Poseidon", "Hermes"],
+        "answer": "Zeus"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian ruler established the 'Din-i-Ilahi' religion?",
+        "options": ["Akbar", "Sher Shah Suri", "Alauddin Khalji", "Iltutmish"],
+        "answer": "Akbar"
+      },
+      "hinglish": {
+        "question": "'Din-i-Ilahi' dharm ki sthapna kis shasak ne ki?",
+        "options": ["Akbar", "Sher Shah Suri", "Alauddin Khalji", "Iltutmish"],
+        "answer": "Akbar"
+      }
+    },
+    {
+      "english": {
+        "question": "The Titanic was carrying which famous Indian artifact when it sank?",
+        "options": ["Koh-i-Noor", "Tipu Sultan's sword", "Shivaji's armor", "Rubaiyat of Omar Khayyam"],
+        "answer": "Rubaiyat of Omar Khayyam"
+      },
+      "hinglish": {
+        "question": "Titanic ke doobte samay kis prasidh Bharatiya vastu ko le ja raha tha?",
+        "options": ["Koh-i-Noor", "Tipu Sultan ki talwar", "Shivaji ka kavach", "Rubaiyat of Omar Khayyam"],
+        "answer": "Rubaiyat of Omar Khayyam"
+      }
+    },
+    {
+      "english": {
+        "question": "Which ancient Indian text contains the earliest known surgical techniques?",
+        "options": ["Arthashastra", "Sushruta Samhita", "Charaka Samhita", "Manusmriti"],
+        "answer": "Sushruta Samhita"
+      },
+      "hinglish": {
+        "question": "Kis prachin Bharatiya granth mein sabse pracheen jariraki takneeken hain?",
+        "options": ["Arthashastra", "Sushruta Samhita", "Charaka Samhita", "Manusmriti"],
+        "answer": "Sushruta Samhita"
+      }
+    },
+    {
+      "english": {
+        "question": "The French Revolution began with the storming of which prison?",
+        "options": ["Bastille", "Alcatraz", "Tower of London", "Château d'If"],
+        "answer": "Bastille"
+      },
+      "hinglish": {
+        "question": "French Revolution kis jail par hamle se shuru hui?",
+        "options": ["Bastille", "Alcatraz", "Tower of London", "Château d'If"],
+        "answer": "Bastille"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian queen led an armed rebellion against the British in 1857?",
+        "options": ["Rani Lakshmibai", "Rani Chennamma", "Rani Durgavati", "Rani Abbakka"],
+        "answer": "Rani Lakshmibai"
+      },
+      "hinglish": {
+        "question": "1857 mein British ke khilaf hathiyar uthane wali bharatiya rani kaun thi?",
+        "options": ["Rani Lakshmibai", "Rani Chennamma", "Rani Durgavati", "Rani Abbakka"],
+        "answer": "Rani Lakshmibai"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient city of Troy was located in which modern country?",
+        "options": ["Greece", "Italy", "Turkey", "Egypt"],
+        "answer": "Turkey"
+      },
+      "hinglish": {
+        "question": "Prachin Troy shahar aaj ke kis desh mein sthit hai?",
+        "options": ["Greece", "Italy", "Turkey", "Egypt"],
+        "answer": "Turkey"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian emperor's reign is called the 'Golden Age of India'?",
+        "options": ["Ashoka", "Chandragupta II", "Harsha", "Kanishka"],
+        "answer": "Chandragupta II"
+      },
+      "hinglish": {
+        "question": "Kis bharatiya samrat ka shasan kaal 'Bharat ka Swarn Yug' kahlata hai?",
+        "options": ["Ashoka", "Chandragupta II", "Harsha", "Kanishka"],
+        "answer": "Chandragupta II"
+      }
+    },
+    {
+      "english": {
+        "question": "The first printed book in history was created in which country?",
+        "options": ["China", "Germany", "Korea", "Italy"],
+        "answer": "China"
+      },
+      "hinglish": {
+        "question": "Itihas ki pehli chhapi hui kitab kis desh mein bani?",
+        "options": ["China", "Germany", "Korea", "Italy"],
+        "answer": "China"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian ruler built the famous 'Kirti Stambh' (Tower of Victory) in Chittor?",
+        "options": ["Rana Kumbha", "Rana Sanga", "Rana Pratap", "Rana Udai Singh"],
+        "answer": "Rana Kumbha"
+      },
+      "hinglish": {
+        "question": "Chittor ka prasidh 'Kirti Stambh' kis shasak ne banvaya?",
+        "options": ["Rana Kumbha", "Rana Sanga", "Rana Pratap", "Rana Udai Singh"],
+        "answer": "Rana Kumbha"
+      }
+    },
+    {
+      "english": {
+        "question": "The 'Terracotta Army' was created to protect which Chinese emperor in afterlife?",
+        "options": ["Qin Shi Huang", "Han Wudi", "Tang Taizong", "Kangxi"],
+        "answer": "Qin Shi Huang"
+      },
+      "hinglish": {
+        "question": "'Terracotta Army' kis Chinese samrat ki mrtyu ke baad ki suraksha ke liye banayi gayi?",
+        "options": ["Qin Shi Huang", "Han Wudi", "Tang Taizong", "Kangxi"],
+        "answer": "Qin Shi Huang"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian king had the title 'Kaviraja' (King of Poets)?",
+        "options": ["Harsha", "Samudragupta", "Bhoja", "Krishnadevaraya"],
+        "answer": "Samudragupta"
+      },
+      "hinglish": {
+        "question": "Kis bharatiya raja ko 'Kaviraja' (kaviyon ka raja) ki upadhi di gayi?",
+        "options": ["Harsha", "Samudragupta", "Bhoja", "Krishnadevaraya"],
+        "answer": "Samudragupta"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient 'Silk Road' connected China with which other region?",
+        "options": ["Middle East", "Africa", "South America", "Australia"],
+        "answer": "Middle East"
+      },
+      "hinglish": {
+        "question": "Prachin 'Silk Road' China ko kis anya kshetra se jodti thi?",
+        "options": ["Middle East", "Africa", "South America", "Australia"],
+        "answer": "Middle East"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian queen defeated the Portuguese in a naval battle?",
+        "options": ["Rani Abbakka", "Rani Durgavati", "Rani Rudrama", "Rani Padmini"],
+        "answer": "Rani Abbakka"
+      },
+      "hinglish": {
+        "question": "Kis bharatiya rani ne Portuguese ko naval yuddh mein haraaya?",
+        "options": ["Rani Abbakka", "Rani Durgavati", "Rani Rudrama", "Rani Padmini"],
+        "answer": "Rani Abbakka"
+      }
+    },
+    {
+      "english": {
+        "question": "The 'Declaration of Independence' was signed in which American city?",
+        "options": ["New York", "Boston", "Philadelphia", "Washington"],
+        "answer": "Philadelphia"
+      },
+      "hinglish": {
+        "question": "'Declaration of Independence' par kis American shahar mein hastakshar kiye gaye?",
+        "options": ["New York", "Boston", "Philadelphia", "Washington"],
+        "answer": "Philadelphia"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian ruler built the famous 'Jantar Mantar' observatories?",
+        "options": ["Akbar", "Jai Singh II", "Shivaji", "Krishnadevaraya"],
+        "answer": "Jai Singh II"
+      },
+      "hinglish": {
+        "question": "Prasidh 'Jantar Mantar' observatories kis shasak ne banvaye?",
+        "options": ["Akbar", "Jai Singh II", "Shivaji", "Krishnadevaraya"],
+        "answer": "Jai Singh II"
+      }
+    },
+    {
+      "english": {
+        "question": "The ancient 'Library of Alexandria' was located in which modern country?",
+        "options": ["Greece", "Egypt", "Turkey", "Italy"],
+        "answer": "Egypt"
+      },
+      "hinglish": {
+        "question": "Prachin 'Library of Alexandria' aaj ke kis desh mein sthit thi?",
+        "options": ["Greece", "Egypt", "Turkey", "Italy"],
+        "answer": "Egypt"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian emperor sent Buddhist missionaries to Sri Lanka?",
+        "options": ["Ashoka", "Kanishka", "Harsha", "Samudragupta"],
+        "answer": "Ashoka"
+      },
+      "hinglish": {
+        "question": "Kis bharatiya samrat ne Sri Lanka mein Buddhist missionaries bheje?",
+        "options": ["Ashoka", "Kanishka", "Harsha", "Samudragupta"],
+        "answer": "Ashoka"
+      }
+    },
+    {
+      "english": {
+        "question": "The 'Industrial Revolution' began first in which country?",
+        "options": ["France", "Germany", "England", "USA"],
+        "answer": "England"
+      },
+      "hinglish": {
+        "question": "'Industrial Revolution' sabse pehle kis desh mein shuru hui?",
+        "options": ["France", "Germany", "England", "USA"],
+        "answer": "England"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian ruler built the famous 'Charminar' in Hyderabad?",
+        "options": ["Quli Qutb Shah", "Aurangzeb", "Tipu Sultan", "Sher Shah Suri"],
+        "answer": "Quli Qutb Shah"
+      },
+      "hinglish": {
+        "question": "Hyderabad ka prasidh 'Charminar' kis shasak ne banvaya?",
+        "options": ["Quli Qutb Shah", "Aurangzeb", "Tipu Sultan", "Sher Shah Suri"],
+        "answer": "Quli Qutb Shah"
+      }
+    },
+    {
+      "english": {
+        "question": "The 'Hanging Gardens' were one of the Seven Wonders of which ancient city?",
+        "options": ["Athens", "Babylon", "Rome", "Alexandria"],
+        "answer": "Babylon"
+      },
+      "hinglish": {
+        "question": "'Hanging Gardens' kis pracheen shahar ke 'Seven Wonders' mein se ek the?",
+        "options": ["Athens", "Babylon", "Rome", "Alexandria"],
+        "answer": "Babylon"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian queen defeated Alexander's general Seleucus Nicator?",
+        "options": ["Porus's wife", "Nur Jahan", "Chandragupta's wife", "None of these"],
+        "answer": "None of these"
+      },
+      "hinglish": {
+        "question": "Kis bharatiya rani ne Alexander ke general Seleucus Nicator ko haraaya?",
+        "options": ["Porus ki patni", "Nur Jahan", "Chandragupta ki patni", "Inme se koi nahi"],
+        "answer": "Inme se koi nahi"
+      }
     }
   ]
 }

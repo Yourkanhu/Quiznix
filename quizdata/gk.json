@@ -1,0 +1,1085 @@
+{
+  "questions": [
+    {
+      "english": {
+        "question": "Who is known as the 'Missile Man of India'?",
+        "options": ["APJ Abdul Kalam", "Vikram Sarabhai", "Homi Bhabha", "Raja Ramanna"],
+        "answer": "APJ Abdul Kalam"
+      },
+      "hinglish": {
+        "question": "Bharat ka 'Missile Man' kise kaha jata hai?",
+        "options": ["APJ Abdul Kalam", "Vikram Sarabhai", "Homi Bhabha", "Raja Ramanna"],
+        "answer": "APJ Abdul Kalam"
+      }
+    },
+    {
+      "english": {
+        "question": "Which state is called the 'Land of Five Rivers'?",
+        "options": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Punjab"
+      },
+      "hinglish": {
+        "question": "Kaun sa rajya 'Panch Nadiyon ki Dharti' kehlata hai?",
+        "options": ["Punjab", "Haryana", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Punjab"
+      }
+    },
+    {
+      "english": {
+        "question": "Who designed the Indian National Flag?",
+        "options": ["Pingali Venkayya", "Mahatma Gandhi", "Rabindranath Tagore", "Jawaharlal Nehru"],
+        "answer": "Pingali Venkayya"
+      },
+      "hinglish": {
+        "question": "Bharat ka rashtriya dhwaj kisne design kiya?",
+        "options": ["Pingali Venkayya", "Mahatma Gandhi", "Rabindranath Tagore", "Jawaharlal Nehru"],
+        "answer": "Pingali Venkayya"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is India's highest military award?",
+        "options": ["Param Vir Chakra", "Ashok Chakra", "Maha Vir Chakra", "Kirti Chakra"],
+        "answer": "Param Vir Chakra"
+      },
+      "hinglish": {
+        "question": "Bharat ka sabse bada military samman kaun sa hai?",
+        "options": ["Param Vir Chakra", "Ashok Chakra", "Maha Vir Chakra", "Kirti Chakra"],
+        "answer": "Param Vir Chakra"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is the headquarters of ISRO located?",
+        "options": ["Bengaluru", "Chennai", "Ahmedabad", "Hyderabad"],
+        "answer": "Bengaluru"
+      },
+      "hinglish": {
+        "question": "ISRO ka headquarters kahan hai?",
+        "options": ["Bengaluru", "Chennai", "Ahmedabad", "Hyderabad"],
+        "answer": "Bengaluru"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the longest coastline?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Gujarat"
+      },
+      "hinglish": {
+        "question": "Kis rajya ka samundri kinara sabse lamba hai?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Gujarat"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was India's first female Prime Minister?",
+        "options": ["Indira Gandhi", "Pratibha Patil", "Sonia Gandhi", "Sarojini Naidu"],
+        "answer": "Indira Gandhi"
+      },
+      "hinglish": {
+        "question": "Bharat ki pehli mahila Pradhan Mantri kaun thi?",
+        "options": ["Indira Gandhi", "Pratibha Patil", "Sonia Gandhi", "Sarojini Naidu"],
+        "answer": "Indira Gandhi"
+      }
+    },
+    {
+      "english": {
+        "question": "Which city is known as the 'Pink City' of India?",
+        "options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+        "answer": "Jaipur"
+      },
+      "hinglish": {
+        "question": "Bharat ka 'Gulabi Shehar' kaun sa hai?",
+        "options": ["Jaipur", "Udaipur", "Jodhpur", "Bikaner"],
+        "answer": "Jaipur"
+      }
+    },
+    {
+      "english": {
+        "question": "Which festival is known as the 'Festival of Lights'?",
+        "options": ["Diwali", "Holi", "Dussehra", "Pongal"],
+        "answer": "Diwali"
+      },
+      "hinglish": {
+        "question": "'Prakashon ka Tyohar' kaun sa hai?",
+        "options": ["Diwali", "Holi", "Dussehra", "Pongal"],
+        "answer": "Diwali"
+      }
+    },
+    {
+      "english": {
+        "question": "Who invented the Zero (0)?",
+        "options": ["Aryabhata", "Brahmagupta", "Bhaskaracharya", "Varahamihira"],
+        "answer": "Brahmagupta"
+      },
+      "hinglish": {
+        "question": "Shunya (0) ka avishkar kisne kiya?",
+        "options": ["Aryabhata", "Brahmagupta", "Bhaskaracharya", "Varahamihira"],
+        "answer": "Brahmagupta"
+      }
+    },
+    {
+      "english": {
+        "question": "Who is known as the 'Father of the Indian Constitution'?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+        "answer": "B.R. Ambedkar"
+      },
+      "hinglish": {
+        "question": "Bharatiya Samvidhan ka 'Pita' kise kaha jata hai?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel"],
+        "answer": "B.R. Ambedkar"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the national animal of India?",
+        "options": ["Lion", "Elephant", "Tiger", "Leopard"],
+        "answer": "Tiger"
+      },
+      "hinglish": {
+        "question": "Bharat ka rashtriya pashu kaun sa hai?",
+        "options": ["Sher", "Hathi", "Baagh", "Tendua"],
+        "answer": "Baagh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which city is called the 'Financial Capital of India'?",
+        "options": ["Delhi", "Mumbai", "Bangalore", "Hyderabad"],
+        "answer": "Mumbai"
+      },
+      "hinglish": {
+        "question": "Bharat ki 'Arthik Rajdhani' kaun sa shahar hai?",
+        "options": ["Delhi", "Mumbai", "Bangalore", "Hyderabad"],
+        "answer": "Mumbai"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian to win a Nobel Prize?",
+        "options": ["Rabindranath Tagore", "C.V. Raman", "Mother Teresa", "Hargobind Khorana"],
+        "answer": "Rabindranath Tagore"
+      },
+      "hinglish": {
+        "question": "Nobel Prize jeetne wale pehle Indian kaun the?",
+        "options": ["Rabindranath Tagore", "C.V. Raman", "Mother Teresa", "Hargobind Khorana"],
+        "answer": "Rabindranath Tagore"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the largest state in India by area?",
+        "options": ["Maharashtra", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+        "answer": "Rajasthan"
+      },
+      "hinglish": {
+        "question": "Kshetrfal ke hisab se Bharat ka sabse bada rajya kaun sa hai?",
+        "options": ["Maharashtra", "Madhya Pradesh", "Rajasthan", "Uttar Pradesh"],
+        "answer": "Rajasthan"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river is called the 'Ganga of the South'?",
+        "options": ["Krishna", "Godavari", "Kaveri", "Tungabhadra"],
+        "answer": "Godavari"
+      },
+      "hinglish": {
+        "question": "Konsi nadi 'Dakshin ki Ganga' kehlati hai?",
+        "options": ["Krishna", "Godavari", "Kaveri", "Tungabhadra"],
+        "answer": "Godavari"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian woman in space?",
+        "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Ravish Malhotra"],
+        "answer": "Kalpana Chawla"
+      },
+      "hinglish": {
+        "question": "Antariksh mein jaane wali pehli Bharatiya mahila kaun thi?",
+        "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Ravish Malhotra"],
+        "answer": "Kalpana Chawla"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the national fruit of India?",
+        "options": ["Apple", "Banana", "Mango", "Guava"],
+        "answer": "Mango"
+      },
+      "hinglish": {
+        "question": "Bharat ka rashtriya fal kaun sa hai?",
+        "options": ["Seb", "Kela", "Aam", "Amrood"],
+        "answer": "Aam"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is the Char Minar located?",
+        "options": ["Delhi", "Jaipur", "Hyderabad", "Lucknow"],
+        "answer": "Hyderabad"
+      },
+      "hinglish": {
+        "question": "Char Minar kahan sthit hai?",
+        "options": ["Delhi", "Jaipur", "Hyderabad", "Lucknow"],
+        "answer": "Hyderabad"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the national bird of India?",
+        "options": ["Peacock", "Parrot", "Sparrow", "Eagle"],
+        "answer": "Peacock"
+      },
+      "hinglish": {
+        "question": "Bharat ka rashtriya pakshi kaun sa hai?",
+        "options": ["Mor", "Tota", "Chidiya", "Cheel"],
+        "answer": "Mor"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state produces the most bamboo?",
+        "options": ["Assam", "Madhya Pradesh", "Kerala", "Maharashtra"],
+        "answer": "Madhya Pradesh"
+      },
+      "hinglish": {
+        "question": "Sabse zyada bamboo kis rajya mein paida hota hai?",
+        "options": ["Assam", "Madhya Pradesh", "Kerala", "Maharashtra"],
+        "answer": "Madhya Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Who founded the Banaras Hindu University?",
+        "options": ["Rabindranath Tagore", "Madan Mohan Malviya", "Swami Vivekananda", "Jawaharlal Nehru"],
+        "answer": "Madan Mohan Malviya"
+      },
+      "hinglish": {
+        "question": "Banaras Hindu University kisne sthaapit ki?",
+        "options": ["Rabindranath Tagore", "Madan Mohan Malviya", "Swami Vivekananda", "Jawaharlal Nehru"],
+        "answer": "Madan Mohan Malviya"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as 'Diamond City'?",
+        "options": ["Jaipur", "Surat", "Hyderabad", "Panna"],
+        "answer": "Surat"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Heere ka Shehar' ke naam se jana jata hai?",
+        "options": ["Jaipur", "Surat", "Hyderabad", "Panna"],
+        "answer": "Surat"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river forms the Dhuandhar Falls?",
+        "options": ["Yamuna", "Narmada", "Tapti", "Chambal"],
+        "answer": "Narmada"
+      },
+      "hinglish": {
+        "question": "Dhuandhar Falls kis nadi par bane hain?",
+        "options": ["Yamuna", "Narmada", "Tapti", "Chambal"],
+        "answer": "Narmada"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only natural lake with floating islands?",
+        "options": ["Loktak Lake", "Dal Lake", "Chilika Lake", "Wular Lake"],
+        "answer": "Loktak Lake"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra natural lake jisme floating islands hain?",
+        "options": ["Loktak Lake", "Dal Lake", "Chilika Lake", "Wular Lake"],
+        "answer": "Loktak Lake"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest literacy rate?",
+        "options": ["Tamil Nadu", "Kerala", "Maharashtra", "Karnataka"],
+        "answer": "Kerala"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada saksharta dar hai?",
+        "options": ["Tamil Nadu", "Kerala", "Maharashtra", "Karnataka"],
+        "answer": "Kerala"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian woman to climb Mount Everest?",
+        "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+        "answer": "Bachendri Pal"
+      },
+      "hinglish": {
+        "question": "Mount Everest par chadhne wali pehli Bharatiya mahila?",
+        "options": ["Santosh Yadav", "Bachendri Pal", "Arunima Sinha", "Premlata Agarwal"],
+        "answer": "Bachendri Pal"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state grows the most tea?",
+        "options": ["Kerala", "Tamil Nadu", "Assam", "Himachal Pradesh"],
+        "answer": "Assam"
+      },
+      "hinglish": {
+        "question": "Sabse zyada chai kis rajya mein ugayi jati hai?",
+        "options": ["Kerala", "Tamil Nadu", "Assam", "Himachal Pradesh"],
+        "answer": "Assam"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's largest church located?",
+        "options": ["Goa", "Kerala", "Tamil Nadu", "Punjab"],
+        "answer": "Goa"
+      },
+      "hinglish": {
+        "question": "Bharat ka sabse bada church kahan hai?",
+        "options": ["Goa", "Kerala", "Tamil Nadu", "Punjab"],
+        "answer": "Goa"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as 'Manchester of India'?",
+        "options": ["Mumbai", "Ahmedabad", "Surat", "Kanpur"],
+        "answer": "Ahmedabad"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Bharat ka Manchester' kehlata hai?",
+        "options": ["Mumbai", "Ahmedabad", "Surat", "Kanpur"],
+        "answer": "Ahmedabad"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the most national parks?",
+        "options": ["Uttarakhand", "Madhya Pradesh", "Karnataka", "Assam"],
+        "answer": "Madhya Pradesh"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada rashtriya udyan hain?",
+        "options": ["Uttarakhand", "Madhya Pradesh", "Karnataka", "Assam"],
+        "answer": "Madhya Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is the world's highest cricket ground located in India?",
+        "options": ["Shimla", "Gulmarg", "Leh", "Dharamshala"],
+        "answer": "Chail"
+      },
+      "hinglish": {
+        "question": "Duniya ka sabse uncha cricket ground Bharat mein kahan hai?",
+        "options": ["Shimla", "Gulmarg", "Leh", "Dharamshala"],
+        "answer": "Chail"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the largest producer of bananas?",
+        "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Andhra Pradesh"],
+        "answer": "Tamil Nadu"
+      },
+      "hinglish": {
+        "question": "Kela ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Kerala", "Tamil Nadu", "Maharashtra", "Andhra Pradesh"],
+        "answer": "Tamil Nadu"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city has the largest population?",
+        "options": ["Delhi", "Mumbai", "Bangalore", "Kolkata"],
+        "answer": "Delhi"
+      },
+      "hinglish": {
+        "question": "Bharat ka sabse zyada aabadi wala shahar kaun sa hai?",
+        "options": ["Delhi", "Mumbai", "Bangalore", "Kolkata"],
+        "answer": "Delhi"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only active volcano located?",
+        "options": ["Andaman Islands", "Lakshadweep", "Nicobar Islands", "Mumbai"],
+        "answer": "Andaman Islands"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra jaagrit janjrahal kahan hai?",
+        "options": ["Andaman Islands", "Lakshadweep", "Nicobar Islands", "Mumbai"],
+        "answer": "Andaman Islands"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of wildlife sanctuaries?",
+        "options": ["Karnataka", "Madhya Pradesh", "Andhra Pradesh", "Uttarakhand"],
+        "answer": "Andhra Pradesh"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada wildlife sanctuaries hain?",
+        "options": ["Karnataka", "Madhya Pradesh", "Andhra Pradesh", "Uttarakhand"],
+        "answer": "Andhra Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'Blue City'?",
+        "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+        "answer": "Jodhpur"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Neela Nagar' ke naam se jana jata hai?",
+        "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+        "answer": "Jodhpur"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only active volcano located?",
+        "options": ["Barren Island", "Narcondam Island", "Andaman Island", "Lakshadweep"],
+        "answer": "Barren Island"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra jaagrit janjrahal kahan hai?",
+        "options": ["Barren Island", "Narcondam Island", "Andaman Island", "Lakshadweep"],
+        "answer": "Barren Island"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the largest producer of coffee?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Karnataka"
+      },
+      "hinglish": {
+        "question": "Koffee ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Karnataka"
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Indian woman to win an Olympic medal?",
+        "options": ["PT Usha", "Karnam Malleswari", "Saina Nehwal", "PV Sindhu"],
+        "answer": "Karnam Malleswari"
+      },
+      "hinglish": {
+        "question": "Olympic medal jeetne wali pehli Bharatiya mahila kaun thi?",
+        "options": ["PT Usha", "Karnam Malleswari", "Saina Nehwal", "PV Sindhu"],
+        "answer": "Karnam Malleswari"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river is known as the 'Lifeline of Kerala'?",
+        "options": ["Periyar", "Pamba", "Bharathapuzha", "Chaliyar"],
+        "answer": "Periyar"
+      },
+      "hinglish": {
+        "question": "Kis nadi ko 'Kerala ki Jeevandayini' kehte hain?",
+        "options": ["Periyar", "Pamba", "Bharathapuzha", "Chaliyar"],
+        "answer": "Periyar"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of airports?",
+        "options": ["Maharashtra", "Gujarat", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Gujarat"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada airports hain?",
+        "options": ["Maharashtra", "Gujarat", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Gujarat"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only natural hot water spring located?",
+        "options": ["Manikaran", "Gangtok", "Taptapani", "Yumthang"],
+        "answer": "Manikaran"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra natural garam pani ka chashma kahan hai?",
+        "options": ["Manikaran", "Gangtok", "Taptapani", "Yumthang"],
+        "answer": "Manikaran"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'City of Weavers'?",
+        "options": ["Varanasi", "Kanpur", "Panipat", "Surat"],
+        "answer": "Panipat"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Bunkaron ka Shehar' ke naam se jana jata hai?",
+        "options": ["Varanasi", "Kanpur", "Panipat", "Surat"],
+        "answer": "Panipat"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of tigers?",
+        "options": ["Karnataka", "Madhya Pradesh", "Uttarakhand", "Assam"],
+        "answer": "Madhya Pradesh"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada sher hain?",
+        "options": ["Karnataka", "Madhya Pradesh", "Uttarakhand", "Assam"],
+        "answer": "Madhya Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only floating post office located?",
+        "options": ["Dal Lake", "Chilika Lake", "Loktak Lake", "Wular Lake"],
+        "answer": "Dal Lake"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra floating post office kahan hai?",
+        "options": ["Dal Lake", "Chilika Lake", "Loktak Lake", "Wular Lake"],
+        "answer": "Dal Lake"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the largest producer of rubber?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Kerala"
+      },
+      "hinglish": {
+        "question": "Rubber ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Kerala"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'City of Lakes'?",
+        "options": ["Udaipur", "Bhopal", "Nainital", "Hyderabad"],
+        "answer": "Udaipur"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Jheelon ka Shehar' ke naam se jana jata hai?",
+        "options": ["Udaipur", "Bhopal", "Nainital", "Hyderabad"],
+        "answer": "Udaipur"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of UNESCO World Heritage Sites?",
+        "options": ["Tamil Nadu", "Maharashtra", "Karnataka", "Uttar Pradesh"],
+        "answer": "Maharashtra"
+      },
+      "hinglish": {
+        "question": "Kis rajya mein sabse zyada UNESCO World Heritage Sites hain?",
+        "options": ["Tamil Nadu", "Maharashtra", "Karnataka", "Uttar Pradesh"],
+        "answer": "Maharashtra"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only saltwater lake located?",
+        "options": ["Sambhar Lake", "Chilika Lake", "Pulicat Lake", "Wular Lake"],
+        "answer": "Chilika Lake"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra saltwater lake kahan hai?",
+        "options": ["Sambhar Lake", "Chilika Lake", "Pulicat Lake", "Wular Lake"],
+        "answer": "Chilika Lake"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": ["China", "Japan", "South Korea", "Thailand"],
+        "answer": "Japan"
+      },
+      "hinglish": {
+        "question": "Kaun sa desh 'Ugte Surya ki Dharti' ke naam se jana jata hai?",
+        "options": ["China", "Japan", "South Korea", "Thailand"],
+        "answer": "Japan"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the largest producer of saffron?",
+        "options": ["Himachal Pradesh", "Jammu and Kashmir", "Uttarakhand", "Sikkim"],
+        "answer": "Jammu and Kashmir"
+      },
+      "hinglish": {
+        "question": "Kesar ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Himachal Pradesh", "Jammu and Kashmir", "Uttarakhand", "Sikkim"],
+        "answer": "Jammu and Kashmir"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the smallest ocean in the world?",
+        "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "answer": "Arctic Ocean"
+      },
+      "hinglish": {
+        "question": "Duniya ka sabse chhota samundar kaun sa hai?",
+        "options": ["Indian Ocean", "Arctic Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "answer": "Arctic Ocean"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is the world's highest post office located?",
+        "options": ["Nepal", "India", "China", "Bhutan"],
+        "answer": "India"
+      },
+      "hinglish": {
+        "question": "Duniya ka sabse uncha post office kahan hai?",
+        "options": ["Nepal", "India", "China", "Bhutan"],
+        "answer": "India"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country has the most time zones?",
+        "options": ["Russia", "USA", "France", "UK"],
+        "answer": "France"
+      },
+      "hinglish": {
+        "question": "Sabse zyada time zones kis desh ke hain?",
+        "options": ["Russia", "USA", "France", "UK"],
+        "answer": "France"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city has the highest elevation?",
+        "options": ["Leh", "Shimla", "Gangtok", "Darjeeling"],
+        "answer": "Leh"
+      },
+      "hinglish": {
+        "question": "Sabse zyada unchai par bharat ka kaun sa shahar hai?",
+        "options": ["Leh", "Shimla", "Gangtok", "Darjeeling"],
+        "answer": "Leh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the only continent without deserts?",
+        "options": ["Australia", "Africa", "Europe", "South America"],
+        "answer": "Europe"
+      },
+      "hinglish": {
+        "question": "Kaun sa mahadeep jahan registan nahi hai?",
+        "options": ["Australia", "Africa", "Europe", "South America"],
+        "answer": "Europe"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the longest coastline?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Gujarat"
+      },
+      "hinglish": {
+        "question": "Bharat ke kis rajya ka samundri kinara sabse lamba hai?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Gujarat"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["New Zealand", "South Africa", "Australia", "Argentina"],
+        "answer": "Australia"
+      },
+      "hinglish": {
+        "question": "Kangaroo ka janm sthal kaun sa desh hai?",
+        "options": ["New Zealand", "South Africa", "Australia", "Argentina"],
+        "answer": "Australia"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state produces the most silk?",
+        "options": ["Karnataka", "Tamil Nadu", "West Bengal", "Assam"],
+        "answer": "Karnataka"
+      },
+      "hinglish": {
+        "question": "Resham ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Karnataka", "Tamil Nadu", "West Bengal", "Assam"],
+        "answer": "Karnataka"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river flows through Paris?",
+        "options": ["Danube", "Thames", "Seine", "Rhine"],
+        "answer": "Seine"
+      },
+      "hinglish": {
+        "question": "Paris mein kaun si nadi behati hai?",
+        "options": ["Danube", "Thames", "Seine", "Rhine"],
+        "answer": "Seine"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'Manchester of South India'?",
+        "options": ["Coimbatore", "Chennai", "Bangalore", "Hyderabad"],
+        "answer": "Coimbatore"
+      },
+      "hinglish": {
+        "question": "Dakshin Bharat ka 'Manchester' kaun sa shahar hai?",
+        "options": ["Coimbatore", "Chennai", "Bangalore", "Hyderabad"],
+        "answer": "Coimbatore"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country has the most pyramids?",
+        "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+        "answer": "Sudan"
+      },
+      "hinglish": {
+        "question": "Sabse zyada pyramids kis desh mein hain?",
+        "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+        "answer": "Sudan"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the most dams?",
+        "options": ["Maharashtra", "Gujarat", "Madhya Pradesh", "Tamil Nadu"],
+        "answer": "Maharashtra"
+      },
+      "hinglish": {
+        "question": "Sabse zyada bandh kis rajya mein hain?",
+        "options": ["Maharashtra", "Gujarat", "Madhya Pradesh", "Tamil Nadu"],
+        "answer": "Maharashtra"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the world's largest coral reef system?",
+        "options": ["Great Barrier Reef", "Belize Barrier Reef", "New Caledonia Barrier Reef", "Red Sea Coral Reef"],
+        "answer": "Great Barrier Reef"
+      },
+      "hinglish": {
+        "question": "Duniya ka sabse bada coral reef system kaun sa hai?",
+        "options": ["Great Barrier Reef", "Belize Barrier Reef", "New Caledonia Barrier Reef", "Red Sea Coral Reef"],
+        "answer": "Great Barrier Reef"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the only producer of diamonds in India?",
+        "options": ["Madhya Pradesh", "Andhra Pradesh", "Chhattisgarh", "Odisha"],
+        "answer": "Madhya Pradesh"
+      },
+      "hinglish": {
+        "question": "Bharat mein kaun sa rajya heere ka ekmatra utpadak hai?",
+        "options": ["Madhya Pradesh", "Andhra Pradesh", "Chhattisgarh", "Odisha"],
+        "answer": "Madhya Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'Silk City of India'?",
+        "options": ["Varanasi", "Kanchipuram", "Surat", "Bhagalpur"],
+        "answer": "Bhagalpur"
+      },
+      "hinglish": {
+        "question": "Bharat ka 'Resham Nagar' kaun sa shahar hai?",
+        "options": ["Varanasi", "Kanchipuram", "Surat", "Bhagalpur"],
+        "answer": "Bhagalpur"
+      }
+    },
+    {
+      "english": {
+        "question": "Where is India's only active volcano located?",
+        "options": ["Barren Island (Andaman)", "Narcondam Island", "Lakshadweep", "Great Nicobar"],
+        "answer": "Barren Island"
+      },
+      "hinglish": {
+        "question": "Bharat ka ekmatra jaagrit janjrahal kahan hai?",
+        "options": ["Barren Island (Andaman)", "Narcondam Island", "Lakshadweep", "Great Nicobar"],
+        "answer": "Barren Island"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of wildlife sanctuaries?",
+        "options": ["Karnataka", "Madhya Pradesh", "Andhra Pradesh", "Maharashtra"],
+        "answer": "Andhra Pradesh"
+      },
+      "hinglish": {
+        "question": "Sabse zyada wildlife sanctuaries kis rajya mein hain?",
+        "options": ["Karnataka", "Madhya Pradesh", "Andhra Pradesh", "Maharashtra"],
+        "answer": "Andhra Pradesh"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city is known as the 'Blue City'?",
+        "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+        "answer": "Jodhpur"
+      },
+      "hinglish": {
+        "question": "Kaun sa shahar 'Neela Nagar' ke naam se jana jata hai?",
+        "options": ["Jodhpur", "Jaipur", "Udaipur", "Bikaner"],
+        "answer": "Jodhpur"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state is the largest producer of coffee?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Karnataka"
+      },
+      "hinglish": {
+        "question": "Coffee ka sabse bada utpadak rajya kaun sa hai?",
+        "options": ["Kerala", "Tamil Nadu", "Karnataka", "Assam"],
+        "answer": "Karnataka"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river is known as the 'Lifeline of Kerala'?",
+        "options": ["Periyar", "Pamba", "Bharathapuzha", "Chaliyar"],
+        "answer": "Periyar"
+      },
+      "hinglish": {
+        "question": "Kis nadi ko 'Kerala ki Jeevandayini' kehte hain?",
+        "options": ["Periyar", "Pamba", "Bharathapuzha", "Chaliyar"],
+        "answer": "Periyar"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the highest number of airports?",
+        "options": ["Maharashtra", "Gujarat", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Gujarat"
+      },
+      "hinglish": {
+        "question": "Sabse zyada airports kis rajya mein hain?",
+        "options": ["Maharashtra", "Gujarat", "Uttar Pradesh", "Rajasthan"],
+        "answer": "Gujarat"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "options": ["Sweden", "Norway", "Finland", "Iceland"],
+        "answer": "Norway"
+      },
+      "hinglish": {
+        "question": "Kaun sa desh 'Adhi Raat ke Suraj ki Dharti' ke naam se jana jata hai?",
+        "options": ["Sweden", "Norway", "Finland", "Iceland"],
+        "answer": "Norway"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the only continent without any deserts?",
+        "options": ["Australia", "Africa", "Europe", "South America"],
+        "answer": "Europe"
+      },
+      "hinglish": {
+        "question": "Kaun sa mahadeep jahan ek bhi registan nahi hai?",
+        "options": ["Australia", "Africa", "Europe", "South America"],
+        "answer": "Europe"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country has the most number of time zones?",
+        "options": ["Russia", "USA", "France", "UK"],
+        "answer": "France"
+      },
+      "hinglish": {
+        "question": "Sabse zyada time zones kis desh ke hain?",
+        "options": ["Russia", "USA", "France", "UK"],
+        "answer": "France"
+      }
+    },
+    {
+      "english": {
+        "question": "Which river flows through Paris?",
+        "options": ["Danube", "Thames", "Seine", "Rhine"],
+        "answer": "Seine"
+      },
+      "hinglish": {
+        "question": "Paris mein kaun si nadi behati hai?",
+        "options": ["Danube", "Thames", "Seine", "Rhine"],
+        "answer": "Seine"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country has the most pyramids?",
+        "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+        "answer": "Sudan"
+      },
+      "hinglish": {
+        "question": "Sabse zyada pyramids kis desh mein hain?",
+        "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+        "answer": "Sudan"
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the world's largest coral reef system?",
+        "options": ["Great Barrier Reef", "Belize Barrier Reef", "New Caledonia Barrier Reef", "Red Sea Coral Reef"],
+        "answer": "Great Barrier Reef"
+      },
+      "hinglish": {
+        "question": "Duniya ka sabse bada coral reef system kaun sa hai?",
+        "options": ["Great Barrier Reef", "Belize Barrier Reef", "New Caledonia Barrier Reef", "Red Sea Coral Reef"],
+        "answer": "Great Barrier Reef"
+      }
+    },
+    {
+      "english": {
+        "question": "Which country is home to the kangaroo?",
+        "options": ["New Zealand", "South Africa", "Australia", "Argentina"],
+        "answer": "Australia"
+      },
+      "hinglish": {
+        "question": "Kangaroo ka janm sthal kaun sa desh hai?",
+        "options": ["New Zealand", "South Africa", "Australia", "Argentina"],
+        "answer": "Australia"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian scientist discovered the Raman Effect?",
+        "options": ["Homi Bhabha", "C.V. Raman", "Jagadish Chandra Bose", "Vikram Sarabhai"],
+        "answer": "C.V. Raman",
+        "difficulty": "Medium"
+      },
+      "hinglish": {
+        "question": "Raman Effect ka avishkar kis Indian scientist ne kiya?",
+        "options": ["Homi Bhabha", "C.V. Raman", "Jagadish Chandra Bose", "Vikram Sarabhai"],
+        "answer": "C.V. Raman"
+      }
+    },
+    {
+      "english": {
+        "question": "Which element has the highest melting point?",
+        "options": ["Tungsten", "Carbon", "Osmium", "Rhenium"],
+        "answer": "Tungsten (3422°C)",
+        "difficulty": "Hard"
+      },
+      "hinglish": {
+        "question": "Kis tatv ka sabse zyada melting point hota hai?",
+        "options": ["Tungsten", "Carbon", "Osmium", "Rhenium"],
+        "answer": "Tungsten (3422°C)"
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian city hosts the Indian Institute of Astrophysics?",
+        "options": ["Pune", "Bangalore", "Chennai", "Hyderabad"],
+        "answer": "Bangalore",
+        "difficulty": "Medium"
+      },
+      "hinglish": {
+        "question": "Indian Institute of Astrophysics kis shahar mein hai?",
+        "options": ["Pune", "Bangalore", "Chennai", "Hyderabad"],
+        "answer": "Bangalore"
+      }
+    },
+    {
+      "english": {
+        "question": "Who built the Konark Sun Temple?",
+        "options": ["Raja Raja Chola", "Narasimhadeva I", "Krishnadevaraya", "Harshavardhana"],
+        "answer": "Narasimhadeva I (Eastern Ganga Dynasty)",
+        "difficulty": "Hard"
+      },
+      "hinglish": {
+        "question": "Konark Sun Temple kisne banvaya?",
+        "options": ["Raja Raja Chola", "Narasimhadeva I", "Krishnadevaraya", "Harshavardhana"],
+        "answer": "Narasimhadeva I (Eastern Ganga Dynasty)"
+      }
+    },
+    {
+      "english": {
+        "question": "Which battle marked the beginning of British rule in India?",
+        "options": ["Battle of Plassey (1757)", "Battle of Buxar (1764)", "Battle of Panipat (1761)", "Battle of Wandiwash (1760)"],
+        "answer": "Battle of Plassey (1757)",
+        "difficulty": "Medium"
+      },
+      "hinglish": {
+        "question": "Bharat mein British rule ka aarambh kis ladai se hua?",
+        "options": ["Battle of Plassey (1757)", "Battle of Buxar (1764)", "Battle of Panipat (1761)", "Battle of Wandiwash (1760)"],
+        "answer": "Battle of Plassey (1757)"
+      }
+    },
+    {
+      "english": {
+        "question": "Which article of the Indian Constitution abolishes untouchability?",
+        "options": ["Article 15", "Article 17", "Article 21", "Article 25"],
+        "answer": "Article 17",
+        "explanation": "Article 17 explicitly abolishes untouchability and forbids its practice in any form."
+      },
+      "hinglish": {
+        "question": "Bharatiya Samvidhan ka kaun sa anuchhed achhoot pratha ko samapt karta hai?",
+        "options": ["Anuchhed 15", "Anuchhed 17", "Anuchhed 21", "Anuchhed 25"],
+        "answer": "Anuchhed 17",
+        "explanation": "Anuchhed 17 achhoot pratha ko poorn roop se samapt karta hai."
+      }
+    },
+    {
+      "english": {
+        "question": "Who was the first Chief Election Commissioner of India?",
+        "options": ["Sukumar Sen", "T.N. Seshan", "M.S. Gill", "James Lyngdoh"],
+        "answer": "Sukumar Sen",
+        "explanation": "Sukumar Sen served from 1950-1958 and conducted India's first general elections in 1951-52."
+      },
+      "hinglish": {
+        "question": "Bharat ka pehla Chief Election Commissioner kaun the?",
+        "options": ["Sukumar Sen", "T.N. Seshan", "M.S. Gill", "James Lyngdoh"],
+        "answer": "Sukumar Sen",
+        "explanation": "Sukumar Sen ne 1951-52 mein pehle general elections karaye the."
+      }
+    },
+    {
+      "english": {
+        "question": "Which Indian state has the longest coastline including islands?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Andhra Pradesh",
+        "explanation": "Andhra Pradesh has 974 km coastline (mainland) + 357 km (islands), totaling 1,331 km."
+      },
+      "hinglish": {
+        "question": "Kis rajya ka samundri tat (islands sahit) sabse lamba hai?",
+        "options": ["Gujarat", "Andhra Pradesh", "Tamil Nadu", "Maharashtra"],
+        "answer": "Andhra Pradesh",
+        "explanation": "Andhra Pradesh ka kul samundri tat 1,331 km hai (974 km mainland + 357 km islands)."
+      }
+    },
+    {
+      "english": {
+        "question": "Which is the only Indian river that flows through a desert?",
+        "options": ["Yamuna", "Luni", "Ghaggar", "Chambal"],
+        "answer": "Luni",
+        "explanation": "Luni River originates in Rajasthan and flows through the Thar Desert before ending in Rann of Kutch."
+      },
+      "hinglish": {
+        "question": "Bharat ki kaun si nadi ek registan se guzarti hai?",
+        "options": ["Yamuna", "Luni", "Ghaggar", "Chambal"],
+        "answer": "Luni",
+        "explanation": "Luni Nadi Rajasthan se nikalkar Thar Registan se guzarti hai."
+      }
+    }
+  ]
+}

@@ -1,509 +1,1456 @@
 {
   "questions": [
     {
-      "question": "What planet is known as the Red Planet?",
-      "options": ["Earth", "Mars", "Jupiter", "Venus"],
-      "answer": "Mars"
-    },
-    {
-      "question": "What gas do plants absorb from the atmosphere?",
-      "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
-      "answer": "Carbon Dioxide"
-    },
-    {
-      "question": "What part of the cell contains DNA?",
-      "options": ["Nucleus", "Cytoplasm", "Mitochondria", "Cell Wall"],
-      "answer": "Nucleus"
-    },
-    {
-      "question": "Which organ pumps blood throughout the body?",
-      "options": ["Brain", "Lungs", "Heart", "Liver"],
-      "answer": "Heart"
-    },
-    {
-      "question": "Which planet is the largest in the solar system?",
-      "options": ["Saturn", "Jupiter", "Neptune", "Earth"],
-      "answer": "Jupiter"
-    },
-    {
-      "question": "What is the boiling point of water at sea level?",
-      "options": ["90°C", "100°C", "80°C", "70°C"],
-      "answer": "100°C"
-    },
-    {
-      "question": "What force keeps us on the ground?",
-      "options": ["Magnetism", "Friction", "Gravity", "Electricity"],
-      "answer": "Gravity"
-    },
-    {
-      "question": "Which gas is essential for human respiration?",
-      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Helium"],
-      "answer": "Oxygen"
-    },
-    {
-      "question": "Which part of the plant conducts photosynthesis?",
-      "options": ["Stem", "Roots", "Leaves", "Flowers"],
-      "answer": "Leaves"
-    },
-    {
-      "question": "What is the main source of energy for Earth?",
-      "options": ["The Moon", "Electricity", "The Sun", "Wind"],
-      "answer": "The Sun"
-    },
-    {
-      "question": "What is the chemical symbol for gold?",
-      "options": ["Go", "Gd", "Au", "Ag"],
-      "answer": "Au"
-    },
-    {
-      "question": "What is H₂O more commonly known as?",
-      "options": ["Hydrogen", "Oxygen", "Water", "Peroxide"],
-      "answer": "Water"
-    },
-    {
-      "question": "Which planet has the most moons?",
-      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
-      "answer": "Saturn"
-    },
-    {
-      "question": "What is the hardest natural substance on Earth?",
-      "options": ["Gold", "Iron", "Diamond", "Quartz"],
-      "answer": "Diamond"
-    },
-    {
-      "question": "Which metal is liquid at room temperature?",
-      "options": ["Mercury", "Lead", "Aluminum", "Copper"],
-      "answer": "Mercury"
-    },
-    {
-      "question": "What is the pH value of pure water?",
-      "options": ["5", "7", "9", "12"],
-      "answer": "7"
-    },
-    {
-      "question": "Which gas makes up about 78% of Earth's atmosphere?",
-      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
-      "answer": "Nitrogen"
-    },
-    {
-      "question": "What is the fastest land animal?",
-      "options": ["Lion", "Cheetah", "Pronghorn Antelope", "Greyhound"],
-      "answer": "Cheetah"
-    },
-    {
-      "question": "Which blood type is the universal donor?",
-      "options": ["A", "B", "AB", "O"],
-      "answer": "O"
-    },
-    {
-      "question": "What is the study of fossils called?",
-      "options": ["Geology", "Paleontology", "Archaeology", "Meteorology"],
-      "answer": "Paleontology"
-    },
-    {
-      "question": "What is the chemical symbol for silver?",
-      "options": ["Si", "Sv", "Ag", "Au"],
-      "answer": "Ag"
-    },
-    {
-      "question": "Which planet is known for its prominent rings?",
-      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
-      "answer": "Saturn"
-    },
-    {
-      "question": "What is the Sun's main component?",
-      "options": ["Lava", "Hydrogen", "Oxygen", "Helium"],
-      "answer": "Hydrogen"
-    },
-    {
-      "question": "Which part of the plant absorbs water?",
-      "options": ["Leaves", "Stem", "Roots", "Flowers"],
-      "answer": "Roots"
-    },
-    {
-      "question": "What is the study of fungi called?",
-      "options": ["Botany", "Mycology", "Zoology", "Entomology"],
-      "answer": "Mycology"
-    },
-    {
-      "question": "Which metal is the best conductor of electricity?",
-      "options": ["Iron", "Copper", "Aluminum", "Silver"],
-      "answer": "Silver"
-    },
-    {
-      "question": "How many bones are in the adult human body?",
-      "options": ["206", "300", "150", "500"],
-      "answer": "206"
-    },
-    {
-      "question": "What is the nearest star to Earth?",
-      "options": ["Proxima Centauri", "Sun", "Alpha Centauri", "Sirius"],
-      "answer": "Sun"
-    },
-    {
-      "question": "What is the largest organ in the human body?",
-      "options": ["Liver", "Brain", "Skin", "Lungs"],
-      "answer": "Skin"
-    },
-    {
-      "question": "Which gas do plants use during photosynthesis?",
-      "options": ["Oxygen", "CO₂", "Nitrogen", "Hydrogen"],
-      "answer": "CO₂"
-    },
-    {
-      "question": "What is the atomic number of carbon?",
-      "options": ["6", "12", "14", "16"],
-      "answer": "6"
-    },
-    {
-      "question": "What is the primary function of mitochondria?",
-      "options": ["Protein synthesis", "Energy production", "Waste removal", "Cell protection"],
-      "answer": "Energy production"
-    },
-    {
-      "question": "What is the speed of light in meters per second?",
-      "options": ["300,000", "150,000", "1 million", "30,000"],
-      "answer": "300,000"
-    },
-    {
-      "question": "What is Earth's core primarily composed of?",
-      "options": ["Iron", "Nickel", "Magnesium", "Silicon"],
-      "answer": "Iron"
-    },
-    {
-      "question": "What is the shape of DNA?",
-      "options": ["Spiral", "Helix", "Double helix", "Ladder"],
-      "answer": "Double helix"
-    },
-    {
-      "question": "What does Newton's First Law of Motion describe?",
-      "options": ["Inertia", "F=ma", "Action-reaction", "Gravity"],
-      "answer": "Inertia"
-    },
-    {
-      "question": "What does the ozone layer protect us from?",
-      "options": ["UV radiation", "Infrared radiation", "X-rays", "Microwaves"],
-      "answer": "UV radiation"
-    },
-    {
-      "question": "How many chromosome pairs do humans have?",
-      "options": ["23", "46", "64", "128"],
-      "answer": "23"
-    },
-    {
-      "question": "What is the most abundant gas in the universe?",
-      "options": ["Oxygen", "Hydrogen", "Helium", "Nitrogen"],
-      "answer": "Hydrogen"
-    },
-    {
-      "question": "What is plant cell wall primarily made of?",
-      "options": ["Chitin", "Cellulose", "Protein", "Silica"],
-      "answer": "Cellulose"
-    },
-    {
-      "question": "What is the process by which plants lose water vapor called?",
-      "options": ["Photosynthesis", "Transpiration", "Respiration", "Osmosis"],
-      "answer": "Transpiration"
-    },
-    {
-      "question": "Which subatomic particle has a negative charge?",
-      "options": ["Proton", "Neutron", "Electron", "Positron"],
-      "answer": "Electron"
-    },
-    {
-      "question": "What is the main component of natural gas?",
-      "options": ["Propane", "Butane", "Methane", "Ethane"],
-      "answer": "Methane"
-    },
-    {
-      "question": "Which scientist proposed the theory of relativity?",
-      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
-      "answer": "Albert Einstein"
-    },
-    {
-      "question": "What is the chemical formula for table salt?",
-      "options": ["NaCl", "H₂O", "CO₂", "HCl"],
-      "answer": "NaCl"
-    },
-    {
-      "question": "Which part of the brain controls balance and coordination?",
-      "options": ["Cerebrum", "Cerebellum", "Brain stem", "Hypothalamus"],
-      "answer": "Cerebellum"
-    },
-    {
-      "question": "What is the SI unit of electric current?",
-      "options": ["Volt", "Watt", "Ampere", "Ohm"],
-      "answer": "Ampere"
-    },
-    {
-      "question": "Which vitamin is produced when human skin is exposed to sunlight?",
-      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
-      "answer": "Vitamin D"
-    },
-    {
-      "question": "What is the process by which cells divide to form two identical daughter cells?",
-      "options": ["Meiosis", "Mitosis", "Osmosis", "Photosynthesis"],
-      "answer": "Mitosis"
-    },
-    {
-      "question": "Which element has the highest melting point?",
-      "options": ["Gold", "Iron", "Tungsten", "Platinum"],
-      "answer": "Tungsten"
-    },
-    {
-      "question": "What is the name of the galaxy that contains our solar system?",
-      "options": ["Andromeda", "Milky Way", "Sombrero", "Whirlpool"],
-      "answer": "Milky Way"
-    },
-    {
-      "question": "Which blood cells are responsible for fighting infections?",
-      "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
-      "answer": "White blood cells"
-    },
-    {
-      "question": "What is the term for the bending of light as it passes through different media?",
-      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
-      "answer": "Refraction"
-    },
-    {
-      "question": "Which layer of Earth's atmosphere contains the ozone layer?",
-      "options": ["Troposphere", "Stratosphere", "Mesosphere", "Thermosphere"],
-      "answer": "Stratosphere"
-    },
-    {
-      "question": "What is the name of the process by which plants make their own food?",
-      "options": ["Respiration", "Transpiration", "Photosynthesis", "Fermentation"],
-      "answer": "Photosynthesis"
-    },
-    {
-      "question": "Which scientist is known for the laws of planetary motion?",
-      "options": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Nicolaus Copernicus"],
-      "answer": "Johannes Kepler"
-    },
-    {
-      "question": "What is the chemical symbol for potassium?",
-      "options": ["P", "Pt", "K", "Ko"],
-      "answer": "K"
-    },
-    {
-      "question": "Which organ produces insulin in the human body?",
-      "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
-      "answer": "Pancreas"
-    },
-    {
-      "question": "How fast does Earth move through space?",
-      "options": ["1,600 km/h", "107,000 km/h", "500,000 km/h", "It's stationary"],
-      "answer": "107,000 km/h"
-    },
-    {
-      "question": "What percentage of your body is stardust?",
-      "options": ["27%", "50%", "93%", "99%"],
-      "answer": "93%"
-    },
-    {
-      "question": "How many atoms are in a grain of salt?",
-      "options": ["1 trillion", "1 quadrillion", "1 quintillion", "1 sextillion"],
-      "answer": "1 quintillion"
-    },
-    {
-      "question": "How many bacteria live on your body right now?",
-      "options": ["1 million", "1 billion", "1 trillion", "More than stars in Milky Way"],
-      "answer": "More than stars in Milky Way"
-    },
-    {
-      "question": "How far does blood travel daily in your body?",
-      "options": ["100 km", "500 km", "1,000 km", "19,000 km"],
-      "answer": "19,000 km"
-    },
-    {
-      "question": "How old is the sunlight reaching Earth?",
-      "options": ["8 seconds", "8 minutes", "1 hour", "100 years"],
-      "answer": "8 minutes"
-    },
-    {
-      "question": "How many Earths can fit inside the Sun?",
-      "options": ["100", "100,000", "1 million", "1.3 million"],
-      "answer": "1.3 million"
-    },
-    {
-      "question": "What happens if you pour liquid oxygen on burning coal?",
-      "options": [
-        "Fire extinguishes",
-        "Coal melts",
-        "Burns 10x hotter",
-        "Creates explosion"
-      ],
-      "answer": "Burns 10x hotter"
-    },
-    {
-      "question": "How many DNA strands would stretch from Earth to Sun?",
-      "options": [
-        "1",
-        "100",
-        "10,000",
-        "600"
-      ],
-      "answer": "600"
-    },
-    {
-      "question": "What would happen if you dropped a marble into a neutron star?",
-      "options": [
-        "It would float",
-        "Impact like nuclear bomb",
-        "Turn to plasma instantly",
-        "Create black hole"
-      ],
-      "answer": "Impact like nuclear bomb"
-    },
-    {
-      "question": "How many Earths can fit inside the Sun?",
-      "options": ["100", "100,000", "1 million", "1.3 million"],
-      "answer": "1.3 million"
-    },
-    {
-      "question": "How old is the sunlight reaching Earth?",
-      "options": ["8 seconds", "8 minutes", "1 hour", "100 years"],
-      "answer": "8 minutes"
-    },
-    {
-      "question": "What percentage of your body is stardust?",
-      "options": ["27%", "50%", "93%", "99%"],
-      "answer": "93%"
-    },
-    {
-      "question": "How many atoms are in a grain of salt?",
-      "options": ["1 trillion", "1 quadrillion", "1 quintillion", "1 sextillion"],
-      "answer": "1 quintillion"
-    },
-    {
-      "question": "How fast does Earth move through space?",
-      "options": ["1,600 km/h", "107,000 km/h", "500,000 km/h", "It's stationary"],
-      "answer": "107,000 km/h"
-    },
-    {
-      "question": "How many bacteria live on your body right now?",
-      "options": ["1 million", "1 billion", "1 trillion", "More than stars in Milky Way"],
-      "answer": "More than stars in Milky Way"
-    },
-    {
-      "question": "How far does blood travel daily in your body?",
-      "options": ["100 km", "500 km", "1,000 km", "19,000 km"],
-      "answer": "19,000 km"
-    },
-    {
-      "question": "What happens if you pour liquid oxygen on burning coal?",
-      "options": ["Fire extinguishes", "Coal melts", "Burns 10x hotter", "Creates explosion"],
-      "answer": "Burns 10x hotter"
-    },
-    {
-      "question": "How many DNA strands would stretch from Earth to Sun?",
-      "options": ["1", "100", "10,000", "600"],
-      "answer": "600"
-    },
-    {
-      "question": "What would happen if you dropped a marble into a neutron star?",
-      "options": ["It would float", "Impact like nuclear bomb", "Turn to plasma instantly", "Create black hole"],
-      "answer": "Impact like nuclear bomb"
-    },
-    {
-      "question": "How long is one second defined at atomic level?",
-      "options": ["9,192,631,770 vibrations of cesium atom", "1/86,400 of Earth's rotation", "1/60 of a minute", "Duration of 10^9 microwave oscillations"],
-      "answer": "9,192,631,770 vibrations of cesium atom"
-    },
-    {
-      "question": "How many cells die in your body every second?",
-      "options": ["100", "1,000", "50,000", "1 million"],
-      "answer": "50,000"
-    },
-    {
-      "question": "What percentage of the universe is visible matter?",
-      "options": ["1%", "5%", "15%", "30%"],
-      "answer": "5%"
-    },
-    {
-      "question": "How fast does a sneeze travel?",
-      "options": ["50 kmph", "100 kmph", "150 kmph", "200 kmph"],
-      "answer": "150 kmph"
-    },
-    {
-      "question": "How many neurons fire in your brain every second?",
-      "options": ["1,000", "100,000", "1 million", "10 million"],
-      "answer": "100,000"
-    },
-    {
-      "question": "What temperature is absolute zero?",
-      "options": ["-100°C", "-273.15°C", "-459.67°C", "-500°C"],
-      "answer": "-273.15°C"
-    },
-    {
-      "question": "How many chemical reactions occur per second in a cell?",
-      "options": ["1", "10", "100", "1,000"],
-      "answer": "1,000"
-    },
-    {
-      "question": "What percentage of DNA do humans share with bananas?",
-      "options": ["10%", "30%", "50%", "60%"],
-      "answer": "60%"
-    },
-    {
-      "question": "How many times can you fold a paper before it reaches the Moon?",
-      "options": ["20", "30", "42", "50"],
-      "answer": "42"
-    },
-    {
-      "question": "How much pressure is at the deepest ocean point?",
-      "options": ["500 kg/cm²", "1,000 kg/cm²", "1,100 kg/cm²", "2,000 kg/cm²"],
-      "answer": "1,100 kg/cm²"
-    },
-    {
-      "question": "How many stars are born in our galaxy daily?",
-      "options": ["1", "10", "100", "1,000"],
-      "answer": "10"
-    },
-    {
-      "question": "How many planets could orbit a single star?",
-      "options": ["10", "20", "42", "Theoretically unlimited"],
-      "answer": "Theoretically unlimited"
-    },
-    {
-      "question": "How fast does information travel in nerves?",
-      "options": ["1 m/s", "10 m/s", "100 m/s", "1 km/s"],
-      "answer": "100 m/s"
-    },
-    {
-      "question": "How many times does your heart beat in a lifetime?",
-      "options": ["100 million", "1 billion", "2.5 billion", "5 billion"],
-      "answer": "2.5 billion"
-    },
-    {
-      "question": "How many atoms are in a human body?",
-      "options": ["10^26", "10^27", "10^28", "10^29"],
-      "answer": "10^27"
-    },
-    {
-      "question": "How much bacteria is in 1 ml of seawater?",
-      "options": ["100", "1,000", "1 million", "1 billion"],
-      "answer": "1 million"
-    },
-    {
-      "question": "How long would DNA from one person stretch?",
-      "options": ["Earth to Moon", "Around Earth 3 times", "Earth to Sun and back", "Across Milky Way"],
-      "answer": "Earth to Sun and back"
-    },
-    {
-      "question": "How many galaxies are visible from Earth with telescopes?",
-      "options": ["1 million", "100 million", "1 billion", "2 trillion"],
-      "answer": "2 trillion"
-    },
-    {
-      "question": "How fast does the Milky Way rotate?",
-      "options": ["100 km/s", "500 km/s", "800 km/s", "1,000 km/s"],
-      "answer": "800 km/s"
-    },
-    {
-      "question": "How many lightning strikes occur worldwide every second?",
-      "options": ["10", "50", "100", "1,000"],
-      "answer": "100"
-    }
-  ]
-}
+        "english": {
+          "question": "What is the chemical symbol for gold?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "answer": "Au"
+        },
+        "hinglish": {
+          "question": "Gold ka chemical symbol kya hai?",
+          "options": ["Go", "Gd", "Au", "Ag"],
+          "answer": "Au"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet is known as the Red Planet?",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "answer": "Mars"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah laal grah ke naam se jana jata hai?",
+          "options": ["Shukra", "Mangal", "Brihaspati", "Shani"],
+          "answer": "Mangal"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the hardest natural substance on Earth?",
+          "options": ["Gold", "Iron", "Diamond", "Platinum"],
+          "answer": "Diamond"
+        },
+        "hinglish": {
+          "question": "Prithvi par sabse sakth prakritik padarth kaun sa hai?",
+          "options": ["Sona", "Loha", "Heera", "Platinum"],
+          "answer": "Heera"
+        }
+      },
+      {
+        "english": {
+          "question": "Which gas do plants absorb during photosynthesis?",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "answer": "Carbon dioxide"
+        },
+        "hinglish": {
+          "question": "Photosynthesis ke dauran paudhe kaun si gas absorb karte hain?",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "answer": "Carbon dioxide"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the pH value of pure water?",
+          "options": ["5", "7", "9", "11"],
+          "answer": "7"
+        },
+        "hinglish": {
+          "question": "Shudh jal ka pH value kitna hota hai?",
+          "options": ["5", "7", "9", "11"],
+          "answer": "7"
+        }
+      },
+      {
+        "english": {
+          "question": "Which organ pumps blood throughout the body?",
+          "options": ["Liver", "Brain", "Heart", "Lungs"],
+          "answer": "Heart"
+        },
+        "hinglish": {
+          "question": "Kaun sa organ sharir mein blood pump karta hai?",
+          "options": ["Liver", "Brain", "Dil", "Lungs"],
+          "answer": "Dil"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the study of fossils called?",
+          "options": ["Biology", "Geology", "Paleontology", "Archaeology"],
+          "answer": "Paleontology"
+        },
+        "hinglish": {
+          "question": "Fossils ka adhyan kya kehlata hai?",
+          "options": ["Biology", "Geology", "Paleontology", "Archaeology"],
+          "answer": "Paleontology"
+        }
+      },
+      {
+        "english": {
+          "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        },
+        "hinglish": {
+          "question": "Suraj ki roshni mein skin kaun sa vitamin produce karti hai?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the main component of the Sun?",
+          "options": ["Liquid lava", "Hydrogen gas", "Oxygen gas", "Carbon dioxide"],
+          "answer": "Hydrogen gas"
+        },
+        "hinglish": {
+          "question": "Surya ka mukhya component kya hai?",
+          "options": ["Liquid lava", "Hydrogen gas", "Oxygen gas", "Carbon dioxide"],
+          "answer": "Hydrogen gas"
+        }
+      },
+      {
+        "english": {
+          "question": "Which metal is liquid at room temperature?",
+          "options": ["Iron", "Mercury", "Gold", "Silver"],
+          "answer": "Mercury"
+        },
+        "hinglish": {
+          "question": "Kaun sa dhatu room temperature mein liquid hota hai?",
+          "options": ["Loha", "Mercury", "Sona", "Chandi"],
+          "answer": "Mercury"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the unit of electric current?",
+          "options": ["Volt", "Watt", "Ampere", "Ohm"],
+          "answer": "Ampere"
+        },
+        "hinglish": {
+          "question": "Electric current ki unit kya hai?",
+          "options": ["Volt", "Watt", "Ampere", "Ohm"],
+          "answer": "Ampere"
+        }
+      },
+      {
+        "english": {
+          "question": "Which gas is most abundant in Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+          "answer": "Nitrogen"
+        },
+        "hinglish": {
+          "question": "Prithvi ke atmosphere mein sabse adhik kaun si gas hoti hai?",
+          "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"],
+          "answer": "Nitrogen"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical formula of water?",
+          "options": ["HO", "H2O", "H2O2", "H3O"],
+          "answer": "H2O"
+        },
+        "hinglish": {
+          "question": "Paani ka chemical formula kya hai?",
+          "options": ["HO", "H2O", "H2O2", "H3O"],
+          "answer": "H2O"
+        }
+      },
+      {
+        "english": {
+          "question": "Which scientist proposed the theory of relativity?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+          "answer": "Albert Einstein"
+        },
+        "hinglish": {
+          "question": "Relativity ka siddhant kis scientist ne diya tha?",
+          "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Stephen Hawking"],
+          "answer": "Albert Einstein"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the speed of light in vacuum?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "answer": "300,000 km/s"
+        },
+        "hinglish": {
+          "question": "Vacuum mein light ki speed kitni hoti hai?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "answer": "300,000 km/s"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the plant conducts photosynthesis?",
+          "options": ["Root", "Stem", "Leaf", "Flower"],
+          "answer": "Leaf"
+        },
+        "hinglish": {
+          "question": "Paudhe ka kaun sa hissa photosynthesis karta hai?",
+          "options": ["Jad", "Tana", "Patta", "Phool"],
+          "answer": "Patta"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the largest organ in the human body?",
+          "options": ["Liver", "Brain", "Skin", "Heart"],
+          "answer": "Skin"
+        },
+        "hinglish": {
+          "question": "Manav sharir ka sabse bada organ kaun sa hai?",
+          "options": ["Liver", "Brain", "Skin", "Heart"],
+          "answer": "Skin"
+        }
+      },
+      {
+        "english": {
+          "question": "Which element has the atomic number 1?",
+          "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+          "answer": "Hydrogen"
+        },
+        "hinglish": {
+          "question": "Kaun sa element atomic number 1 rakhta hai?",
+          "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+          "answer": "Hydrogen"
+        }
+      },
+      {
+        "english": {
+          "question": "What causes the Moon's phases?",
+          "options": ["Earth's shadow", "Sun's position", "Moon's rotation", "All of these"],
+          "answer": "Sun's position"
+        },
+        "hinglish": {
+          "question": "Chandrama ke phases ka kya karan hai?",
+          "options": ["Prithvi ki chhaya", "Surya ki sthiti", "Chand ka rotation", "Ye sab"],
+          "answer": "Surya ki sthiti"
+        }
+      },
+      {
+        "english": {
+          "question": "Which gas makes up about 21% of Earth's atmosphere?",
+          "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+          "answer": "Oxygen"
+        },
+        "hinglish": {
+          "question": "Kaun si gas Prithvi ke atmosphere ka 21% banati hai?",
+          "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Argon"],
+          "answer": "Oxygen"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the main function of white blood cells?",
+          "options": ["Carry oxygen", "Fight infection", "Digest food", "Store energy"],
+          "answer": "Fight infection"
+        },
+        "hinglish": {
+          "question": "White blood cells ka mukhya karya kya hai?",
+          "options": ["Oxygen le jana", "Infection se ladna", "Khana hazam karna", "Energy store karna"],
+          "answer": "Infection se ladna"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the most moons?",
+          "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+          "answer": "Saturn"
+        },
+        "hinglish": {
+          "question": "Kaun se grah ke sabse adhik chandrama hain?",
+          "options": ["Prithvi", "Brihaspati", "Shani", "Mangal"],
+          "answer": "Shani"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for sodium?",
+          "options": ["So", "Sd", "Na", "No"],
+          "answer": "Na"
+        },
+        "hinglish": {
+          "question": "Sodium ka chemical symbol kya hai?",
+          "options": ["So", "Sd", "Na", "No"],
+          "answer": "Na"
+        }
+      },
+      {
+        "english": {
+          "question": "Which scientist discovered penicillin?",
+          "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+          "answer": "Alexander Fleming"
+        },
+        "hinglish": {
+          "question": "Penicillin ki khoj kis scientist ne ki thi?",
+          "options": ["Marie Curie", "Alexander Fleming", "Louis Pasteur", "Robert Koch"],
+          "answer": "Alexander Fleming"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the boiling point of water in Celsius?",
+          "options": ["90°C", "100°C", "110°C", "120°C"],
+          "answer": "100°C"
+        },
+        "hinglish": {
+          "question": "Paani ka boiling point Celsius mein kitna hota hai?",
+          "options": ["90°C", "100°C", "110°C", "120°C"],
+          "answer": "100°C"
+        }
+      },
+      {
+        "english": {
+          "question": "Which blood type is the universal donor?",
+          "options": ["A", "B", "AB", "O"],
+          "answer": "O"
+        },
+        "hinglish": {
+          "question": "Kaun sa blood type universal donor hota hai?",
+          "options": ["A", "B", "AB", "O"],
+          "answer": "O"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+          "answer": "Jupiter"
+        },
+        "hinglish": {
+          "question": "Hamare solar system ka sabse bada grah kaun sa hai?",
+          "options": ["Prithvi", "Shani", "Brihaspati", "Neptune"],
+          "answer": "Brihaspati"
+        }
+      },
+      {
+        "english": {
+          "question": "Which element is essential for making computer chips?",
+          "options": ["Iron", "Silicon", "Copper", "Gold"],
+          "answer": "Silicon"
+        },
+        "hinglish": {
+          "question": "Computer chips banane ke liye kaun sa element zaroori hai?",
+          "options": ["Loha", "Silicon", "Copper", "Sona"],
+          "answer": "Silicon"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the study of earthquakes called?",
+          "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+          "answer": "Seismology"
+        },
+        "hinglish": {
+          "question": "Bhukamp ka adhyan kya kehlata hai?",
+          "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+          "answer": "Seismology"
+        }
+      },
+      {
+        "english": {
+          "question": "Which vitamin is essential for blood clotting?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+          "answer": "Vitamin K"
+        },
+        "hinglish": {
+          "question": "Blood clotting ke liye kaun sa vitamin zaroori hai?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+          "answer": "Vitamin K"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal has the strongest bite force in the world?",
+          "options": ["Lion", "Saltwater Crocodile", "Great White Shark", "Hippopotamus"],
+          "answer": "Saltwater Crocodile"
+        },
+        "hinglish": {
+          "question": "Duniya ka sabse strong kaatne wala janwar kaun sa hai?",
+          "options": ["Sher", "Saltwater Crocodile", "Great White Shark", "Hippopotamus"],
+          "answer": "Saltwater Crocodile"
+        }
+      },
+      {
+        "english": {
+          "question": "What percentage of the human brain is water?",
+          "options": ["25%", "50%", "73%", "90%"],
+          "answer": "73%"
+        },
+        "hinglish": {
+          "question": "Insaan ke dimaag ka kitna percent pani hota hai?",
+          "options": ["25%", "50%", "73%", "90%"],
+          "answer": "73%"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet rains diamonds in its atmosphere?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Venus"],
+          "answer": "Neptune"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah apne atmosphere mein heere barasta hai?",
+          "options": ["Brihaspati", "Shani", "Neptune", "Shukra"],
+          "answer": "Neptune"
+        }
+      },
+      {
+        "english": {
+          "question": "How many taste buds does the average human tongue have?",
+          "options": ["500", "2,000", "10,000", "50,000"],
+          "answer": "10,000"
+        },
+        "hinglish": {
+          "question": "Ek average insaan ki jeebh mein kitne taste buds hote hain?",
+          "options": ["500", "2,000", "10,000", "50,000"],
+          "answer": "10,000"
+        }
+      },
+      {
+        "english": {
+          "question": "Which metal can prevent radiation poisoning?",
+          "options": ["Gold", "Lead", "Mercury", "Platinum"],
+          "answer": "Lead"
+        },
+        "hinglish": {
+          "question": "Kaun sa dhatu radiation poisoning se bacha sakta hai?",
+          "options": ["Sona", "Lead", "Mercury", "Platinum"],
+          "answer": "Lead"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only mammal capable of true flight?",
+          "options": ["Flying Squirrel", "Bat", "Colugo", "Sugar Glider"],
+          "answer": "Bat"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi mammal hai jo sacchi udaan bhar sakta hai?",
+          "options": ["Flying Squirrel", "Chamgadar", "Colugo", "Sugar Glider"],
+          "answer": "Chamgadar"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has a day longer than its year?",
+          "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+          "answer": "Venus"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah jiska din uska saal se bada hota hai?",
+          "options": ["Budh", "Shukra", "Mangal", "Brihaspati"],
+          "answer": "Shukra"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the fastest animal on land?",
+          "options": ["Lion", "Cheetah", "Pronghorn Antelope", "Quarter Horse"],
+          "answer": "Cheetah"
+        },
+        "hinglish": {
+          "question": "Jameen par sabse tez janwar kaun sa hai?",
+          "options": ["Sher", "Cheetah", "Pronghorn Antelope", "Quarter Horse"],
+          "answer": "Cheetah"
+        }
+      },
+      {
+        "english": {
+          "question": "Which element is liquid at room temperature but solidifies when slightly warmed?",
+          "options": ["Mercury", "Gallium", "Bromine", "Francium"],
+          "answer": "Gallium"
+        },
+        "hinglish": {
+          "question": "Kaun sa element room temperature par liquid hota hai lekin thoda garam karne par solid ho jata hai?",
+          "options": ["Mercury", "Gallium", "Bromine", "Francium"],
+          "answer": "Gallium"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only continent without bees?",
+          "options": ["Australia", "Antarctica", "South America", "Africa"],
+          "answer": "Antarctica"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi continent hai jahan madhumakkhiyan nahi hoti?",
+          "options": ["Australia", "Antarctica", "South America", "Africa"],
+          "answer": "Antarctica"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal can sleep for three years at a time?",
+          "options": ["Koala", "Snail", "Bear", "Hedgehog"],
+          "answer": "Snail"
+        },
+        "hinglish": {
+          "question": "Kaun sa janwar ek baar mein teen saal tak sota reh sakta hai?",
+          "options": ["Koala", "Ghunghuna", "Bhalu", "Hedgehog"],
+          "answer": "Ghunghuna"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only rock that floats on water?",
+          "options": ["Pumice", "Basalt", "Granite", "Sandstone"],
+          "answer": "Pumice"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi patthar hai jo pani par tairta hai?",
+          "options": ["Pumice", "Basalt", "Granite", "Sandstone"],
+          "answer": "Pumice"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the shortest day in our solar system?",
+          "options": ["Mercury", "Venus", "Jupiter", "Mars"],
+          "answer": "Jupiter"
+        },
+        "hinglish": {
+          "question": "Hamare solar system mein kaun se grah ka din sabse chhota hota hai?",
+          "options": ["Budh", "Shukra", "Brihaspati", "Mangal"],
+          "answer": "Brihaspati"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only bird that can fly backwards?",
+          "options": ["Eagle", "Hummingbird", "Parrot", "Owl"],
+          "answer": "Hummingbird"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi panchi hai jo peeche ki taraf ud sakta hai?",
+          "options": ["Cheel", "Hummingbird", "Tota", "Ullu"],
+          "answer": "Hummingbird"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal has the longest pregnancy period?",
+          "options": ["Elephant", "Blue Whale", "Giraffe", "Rhinoceros"],
+          "answer": "Elephant"
+        },
+        "hinglish": {
+          "question": "Kaun se janwar ka pregnancy period sabse lamba hota hai?",
+          "options": ["Hathi", "Blue Whale", "Giraffe", "Rhinoceros"],
+          "answer": "Hathi"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only metal that's not silver in color?",
+          "options": ["Gold", "Copper", "Iron", "Aluminum"],
+          "answer": "Copper"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi dhatu hai jo silver color ka nahi hota?",
+          "options": ["Sona", "Copper", "Loha", "Aluminum"],
+          "answer": "Copper"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the most extreme seasons in our solar system?",
+          "options": ["Earth", "Mars", "Uranus", "Neptune"],
+          "answer": "Uranus"
+        },
+        "hinglish": {
+          "question": "Hamare solar system mein kaun se grah ke seasons sabse extreme hote hain?",
+          "options": ["Prithvi", "Mangal", "Uranus", "Neptune"],
+          "answer": "Uranus"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only mammal that can't jump?",
+          "options": ["Elephant", "Sloth", "Hippopotamus", "Rhinoceros"],
+          "answer": "Elephant"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi mammal hai jo kood nahi sakta?",
+          "options": ["Hathi", "Sloth", "Hippopotamus", "Rhinoceros"],
+          "answer": "Hathi"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal has fingerprints most similar to humans?",
+          "options": ["Monkey", "Koala", "Chimpanzee", "Gorilla"],
+          "answer": "Koala"
+        },
+        "hinglish": {
+          "question": "Kaun se janwar ke fingerprints insaan se sabse milte-julte hote hain?",
+          "options": ["Bandar", "Koala", "Chimpanzee", "Gorilla"],
+          "answer": "Koala"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only known fish that can blink with both eyes?",
+          "options": ["Goldfish", "Shark", "Pufferfish", "Seahorse"],
+          "answer": "Shark"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi machli hai jo dono aankhon se blink kar sakti hai?",
+          "options": ["Goldfish", "Shark", "Pufferfish", "Seahorse"],
+          "answer": "Shark"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has winds that can reach 1,100 mph?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+          "answer": "Neptune"
+        },
+        "hinglish": {
+          "question": "Kaun se grah par hawaein 1,100 mph tak pahunch sakti hain?",
+          "options": ["Brihaspati", "Shani", "Neptune", "Mangal"],
+          "answer": "Neptune"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only bone in the human body not connected to another bone?",
+          "options": ["Femur", "Hyoid", "Patella", "Scapula"],
+          "answer": "Hyoid"
+        },
+        "hinglish": {
+          "question": "Insaan ke sharir ka kaun sa ek hi haddi hai jo kisi aur haddi se connected nahi hota?",
+          "options": ["Femur", "Hyoid", "Patella", "Scapula"],
+          "answer": "Hyoid"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal has the highest blood pressure?",
+          "options": ["Elephant", "Giraffe", "Blue Whale", "Hippopotamus"],
+          "answer": "Giraffe"
+        },
+        "hinglish": {
+          "question": "Kaun se janwar ka blood pressure sabse zyada hota hai?",
+          "options": ["Hathi", "Giraffe", "Blue Whale", "Hippopotamus"],
+          "answer": "Giraffe"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only planet in our solar system that rotates clockwise?",
+          "options": ["Mercury", "Venus", "Earth", "Mars"],
+          "answer": "Venus"
+        },
+        "hinglish": {
+          "question": "Hamare solar system ka kaun sa ek hi grah hai jo clockwise rotate karta hai?",
+          "options": ["Budh", "Shukra", "Prithvi", "Mangal"],
+          "answer": "Shukra"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal's heart beats only 5 times per minute when hibernating?",
+          "options": ["Bear", "Hedgehog", "Bat", "Groundhog"],
+          "answer": "Bear"
+        },
+        "hinglish": {
+          "question": "Kaun se janwar ka dil hibernation ke dauran sirf 5 baar/minute dhadakta hai?",
+          "options": ["Bhalu", "Hedgehog", "Chamgadar", "Groundhog"],
+          "answer": "Bhalu"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only continent where you can't find mosquitoes?",
+          "options": ["Australia", "Antarctica", "Europe", "North America"],
+          "answer": "Antarctica"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi continent hai jahan machhar nahi milte?",
+          "options": ["Australia", "Antarctica", "Europe", "North America"],
+          "answer": "Antarctica"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has a hexagonal-shaped storm at its north pole?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "answer": "Saturn"
+        },
+        "hinglish": {
+          "question": "Kaun se grah ke north pole par hexagonal-shaped storm hai?",
+          "options": ["Brihaspati", "Shani", "Uranus", "Neptune"],
+          "answer": "Shani"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only bird with nostrils at the tip of its beak?",
+          "options": ["Eagle", "Kiwi", "Penguin", "Ostrich"],
+          "answer": "Kiwi"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi panchi hai jiske naak ke ched uski chonch ke tip par hote hain?",
+          "options": ["Cheel", "Kiwi", "Penguin", "Ostrich"],
+          "answer": "Kiwi"
+        }
+      },
+      {
+        "english": {
+          "question": "Which animal can produce the loudest sound of any living creature?",
+          "options": ["Lion", "Blue Whale", "Howler Monkey", "Elephant"],
+          "answer": "Blue Whale"
+        },
+        "hinglish": {
+          "question": "Kaun sa janwar sabse zor ki awaz nikal sakta hai?",
+          "options": ["Sher", "Blue Whale", "Howler Monkey", "Hathi"],
+          "answer": "Blue Whale"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the only planet named after a female deity?",
+          "options": ["Venus", "Earth", "Mars", "Jupiter"],
+          "answer": "Venus"
+        },
+        "hinglish": {
+          "question": "Kaun sa ek hi grah hai jiska naam ek female deity ke naam par rakha gaya hai?",
+          "options": ["Shukra", "Prithvi", "Mangal", "Brihaspati"],
+          "answer": "Shukra"
+        }
+      },
+      {
+        "english": {
+          "question": "Which chemical element makes up about 78% of Earth's atmosphere?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "answer": "Nitrogen"
+        },
+        "hinglish": {
+          "question": "Prithvi ke atmosphere ka 78% hissa kaun sa chemical element banata hai?",
+          "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+          "answer": "Nitrogen"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the process by which plants convert sunlight into energy called?",
+          "options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+          "answer": "Photosynthesis"
+        },
+        "hinglish": {
+          "question": "Paudhe sunlight ko energy mein kaise convert karte hain?",
+          "options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"],
+          "answer": "Photosynthesis"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+          "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+          "answer": "Venus"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah 'Morning Star' ya 'Evening Star' ke naam se jana jata hai?",
+          "options": ["Mangal", "Shukra", "Brihaspati", "Budh"],
+          "answer": "Shukra"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the unit of measurement for electric current?",
+          "options": ["Volt", "Watt", "Ampere", "Ohm"],
+          "answer": "Ampere"
+        },
+        "hinglish": {
+          "question": "Electric current ko measure karne ki unit kya hai?",
+          "options": ["Volt", "Watt", "Ampere", "Ohm"],
+          "answer": "Ampere"
+        }
+      },
+      {
+        "english": {
+          "question": "Which gas is produced during photosynthesis?",
+          "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+          "answer": "Oxygen"
+        },
+        "hinglish": {
+          "question": "Photosynthesis ke dauran kaun si gas produce hoti hai?",
+          "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+          "answer": "Oxygen"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for silver?",
+          "options": ["Si", "Sv", "Ag", "Au"],
+          "answer": "Ag"
+        },
+        "hinglish": {
+          "question": "Silver ka chemical symbol kya hai?",
+          "options": ["Si", "Sv", "Ag", "Au"],
+          "answer": "Ag"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the human brain controls balance and coordination?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+          "answer": "Cerebellum"
+        },
+        "hinglish": {
+          "question": "Insaan ke dimaag ka kaun sa hissa balance aur coordination control karta hai?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"],
+          "answer": "Cerebellum"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the closest star to Earth after the Sun?",
+          "options": ["Alpha Centauri", "Betelgeuse", "Sirius", "Proxima Centauri"],
+          "answer": "Proxima Centauri"
+        },
+        "hinglish": {
+          "question": "Surya ke baad Earth ka sabse nazdeeki taara kaun sa hai?",
+          "options": ["Alpha Centauri", "Betelgeuse", "Sirius", "Proxima Centauri"],
+          "answer": "Proxima Centauri"
+        }
+      },
+      {
+        "english": {
+          "question": "Which force holds planets in orbit around the Sun?",
+          "options": ["Electromagnetic Force", "Gravitational Force", "Nuclear Force", "Centrifugal Force"],
+          "answer": "Gravitational Force"
+        },
+        "hinglish": {
+          "question": "Kaun sa force planets ko Sun ke around orbit mein rakhta hai?",
+          "options": ["Electromagnetic Force", "Gravitational Force", "Nuclear Force", "Centrifugal Force"],
+          "answer": "Gravitational Force"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the pH value of pure water?",
+          "options": ["5", "7", "9", "11"],
+          "answer": "7"
+        },
+        "hinglish": {
+          "question": "Shudh paani ka pH value kitna hota hai?",
+          "options": ["5", "7", "9", "11"],
+          "answer": "7"
+        }
+      },
+      {
+        "english": {
+          "question": "Which blood cells are responsible for fighting infections?",
+          "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+          "answer": "White Blood Cells"
+        },
+        "hinglish": {
+          "question": "Kaun se blood cells infections se ladne ke liye zimmedar hote hain?",
+          "options": ["Red Blood Cells", "White Blood Cells", "Platelets", "Plasma"],
+          "answer": "White Blood Cells"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical formula for table salt?",
+          "options": ["NaCl", "H2O", "CO2", "HCl"],
+          "answer": "NaCl"
+        },
+        "hinglish": {
+          "question": "Table salt ka chemical formula kya hai?",
+          "options": ["NaCl", "H2O", "CO2", "HCl"],
+          "answer": "NaCl"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the most moons in our solar system?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "answer": "Saturn"
+        },
+        "hinglish": {
+          "question": "Hamare solar system mein kis grah ke sabse zyada chandrama hain?",
+          "options": ["Brihaspati", "Shani", "Uranus", "Neptune"],
+          "answer": "Shani"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the speed of light in vacuum?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "answer": "300,000 km/s"
+        },
+        "hinglish": {
+          "question": "Vacuum mein light ki speed kitni hoti hai?",
+          "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+          "answer": "300,000 km/s"
+        }
+      },
+      {
+        "english": {
+          "question": "Which organ produces insulin in the human body?",
+          "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+          "answer": "Pancreas"
+        },
+        "hinglish": {
+          "question": "Insaan ke sharir mein insulin kaun sa organ produce karta hai?",
+          "options": ["Liver", "Pancreas", "Kidney", "Stomach"],
+          "answer": "Pancreas"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the atomic number of carbon?",
+          "options": ["6", "12", "14", "16"],
+          "answer": "6"
+        },
+        "hinglish": {
+          "question": "Carbon ka atomic number kya hai?",
+          "options": ["6", "12", "14", "16"],
+          "answer": "6"
+        }
+      },
+      {
+        "english": {
+          "question": "Which galaxy is our Milky Way galaxy expected to collide with in about 4 billion years?",
+          "options": ["Andromeda", "Triangulum", "Whirlpool", "Sombrero"],
+          "answer": "Andromeda"
+        },
+        "hinglish": {
+          "question": "Hamari Milky Way galaxy ka kiska saath 4 billion saal mein collision hone ki expectation hai?",
+          "options": ["Andromeda", "Triangulum", "Whirlpool", "Sombrero"],
+          "answer": "Andromeda"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the process of liquid turning into gas called?",
+          "options": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+          "answer": "Evaporation"
+        },
+        "hinglish": {
+          "question": "Liquid se gas banne ke process ko kya kehte hain?",
+          "options": ["Condensation", "Evaporation", "Sublimation", "Freezing"],
+          "answer": "Evaporation"
+        }
+      },
+      {
+        "english": {
+          "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        },
+        "hinglish": {
+          "question": "Suraj ki roshni mein insaan ka sharir kaun sa vitamin produce karta hai?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for potassium?",
+          "options": ["P", "Pt", "K", "Ko"],
+          "answer": "K"
+        },
+        "hinglish": {
+          "question": "Potassium ka chemical symbol kya hai?",
+          "options": ["P", "Pt", "K", "Ko"],
+          "answer": "K"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the eye controls the amount of light entering?",
+          "options": ["Cornea", "Retina", "Pupil", "Lens"],
+          "answer": "Pupil"
+        },
+        "hinglish": {
+          "question": "Aankh ka kaun sa hissa andar jaane wali light ki matra ko control karta hai?",
+          "options": ["Cornea", "Retina", "Pupil", "Lens"],
+          "answer": "Pupil"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the largest planet in our solar system?",
+          "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+          "answer": "Jupiter"
+        },
+        "hinglish": {
+          "question": "Hamare solar system ka sabse bada grah kaun sa hai?",
+          "options": ["Prithvi", "Shani", "Brihaspati", "Neptune"],
+          "answer": "Brihaspati"
+        }
+      },
+      {
+        "english": {
+          "question": "Which law states that 'for every action there is an equal and opposite reaction'?",
+          "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Ohm's Law"],
+          "answer": "Newton's Third Law"
+        },
+        "hinglish": {
+          "question": "Kaun sa law kehta hai ki 'har action ka equal aur opposite reaction hota hai'?",
+          "options": ["Newton ka Pehla Law", "Newton ka Dusra Law", "Newton ka Teesra Law", "Ohm ka Law"],
+          "answer": "Newton ka Teesra Law"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the main component of natural gas?",
+          "options": ["Propane", "Butane", "Methane", "Ethane"],
+          "answer": "Methane"
+        },
+        "hinglish": {
+          "question": "Natural gas ka main component kya hai?",
+          "options": ["Propane", "Butane", "Methane", "Ethane"],
+          "answer": "Methane"
+        }
+      },
+      {
+        "english": {
+          "question": "Which system in the human body is responsible for transporting oxygen?",
+          "options": ["Nervous System", "Digestive System", "Circulatory System", "Respiratory System"],
+          "answer": "Circulatory System"
+        },
+        "hinglish": {
+          "question": "Insaan ke sharir mein oxygen ko transport karne ki zimmedari kaun si system ki hai?",
+          "options": ["Nervous System", "Digestive System", "Circulatory System", "Respiratory System"],
+          "answer": "Circulatory System"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the study of stars and galaxies called?",
+          "options": ["Geology", "Astronomy", "Meteorology", "Oceanography"],
+          "answer": "Astronomy"
+        },
+        "hinglish": {
+          "question": "Taron aur galaxies ka adhyan kya kehlata hai?",
+          "options": ["Geology", "Astronomy", "Meteorology", "Oceanography"],
+          "answer": "Astronomy"
+        }
+      },
+      {
+        "english": {
+          "question": "Which metal is the best conductor of electricity?",
+          "options": ["Iron", "Copper", "Aluminum", "Silver"],
+          "answer": "Silver"
+        },
+        "hinglish": {
+          "question": "Kaun sa dhatu electricity ka sabse achha conductor hai?",
+          "options": ["Loha", "Copper", "Aluminum", "Silver"],
+          "answer": "Silver"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the powerhouse of the cell called?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+          "answer": "Mitochondria"
+        },
+        "hinglish": {
+          "question": "Cell ka powerhouse kya kehlata hai?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi Apparatus"],
+          "answer": "Mitochondria"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet is known for its prominent ring system?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+          "answer": "Saturn"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah apne ring system ke liye famous hai?",
+          "options": ["Brihaspati", "Shani", "Uranus", "Neptune"],
+          "answer": "Shani"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for iron?",
+          "options": ["Ir", "Fe", "In", "Io"],
+          "answer": "Fe"
+        },
+        "hinglish": {
+          "question": "Iron ka chemical symbol kya hai?",
+          "options": ["Ir", "Fe", "In", "Io"],
+          "answer": "Fe"
+        }
+      },
+      {
+        "english": {
+          "question": "Which phenomenon causes the blue color of the sky?",
+          "options": ["Reflection", "Refraction", "Rayleigh scattering", "Diffraction"],
+          "answer": "Rayleigh scattering"
+        },
+        "hinglish": {
+          "question": "Aasmaan ka neela rang kis phenomenon ki wajah se hota hai?",
+          "options": ["Reflection", "Refraction", "Rayleigh scattering", "Diffraction"],
+          "answer": "Rayleigh scattering"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical name of 'laughing gas'?",
+          "options": ["Nitrous oxide", "Carbon monoxide", "Sulfur dioxide", "Nitrogen dioxide"],
+          "answer": "Nitrous oxide"
+        },
+        "hinglish": {
+          "question": "'Laughing gas' ka chemical naam kya hai?",
+          "options": ["Nitrous oxide", "Carbon monoxide", "Sulfur dioxide", "Nitrogen dioxide"],
+          "answer": "Nitrous oxide"
+        }
+      },
+      {
+        "english": {
+          "question": "Which organ produces bile in the human body?",
+          "options": ["Pancreas", "Stomach", "Liver", "Gallbladder"],
+          "answer": "Liver"
+        },
+        "hinglish": {
+          "question": "Insaan ke sharir mein bile kaun sa organ produce karta hai?",
+          "options": ["Pancreas", "Stomach", "Liver", "Gallbladder"],
+          "answer": "Liver"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the term for rocks from space that reach Earth's surface?",
+          "options": ["Asteroids", "Meteoroids", "Meteorites", "Comets"],
+          "answer": "Meteorites"
+        },
+        "hinglish": {
+          "question": "Space se aakar Prithvi ki surface tak pahunchne wale pattharon ko kya kehte hain?",
+          "options": ["Asteroids", "Meteoroids", "Meteorites", "Comets"],
+          "answer": "Meteorites"
+        }
+      },
+      {
+        "english": {
+          "question": "Which law states that the volume of a gas is inversely proportional to its pressure at constant temperature?",
+          "options": ["Charles's Law", "Boyle's Law", "Gay-Lussac's Law", "Avogadro's Law"],
+          "answer": "Boyle's Law"
+        },
+        "hinglish": {
+          "question": "Kaun sa law kehta hai ki constant temperature par gas ka volume uska pressure ke inversely proportional hota hai?",
+          "options": ["Charles ka Law", "Boyle ka Law", "Gay-Lussac ka Law", "Avogadro ka Law"],
+          "answer": "Boyle ka Law"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the largest type of blood cell?",
+          "options": ["Red blood cell", "White blood cell", "Platelet", "Plasma cell"],
+          "answer": "White blood cell"
+        },
+        "hinglish": {
+          "question": "Sabse bada type ka blood cell kaun sa hota hai?",
+          "options": ["Red blood cell", "White blood cell", "Platelet", "Plasma cell"],
+          "answer": "White blood cell"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the shortest day in our solar system?",
+          "options": ["Mercury", "Venus", "Jupiter", "Saturn"],
+          "answer": "Jupiter"
+        },
+        "hinglish": {
+          "question": "Hamare solar system mein kis grah ka din sabse chhota hota hai?",
+          "options": ["Budh", "Shukra", "Brihaspati", "Shani"],
+          "answer": "Brihaspati"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical formula for hydrogen peroxide?",
+          "options": ["H2O", "HO2", "H2O2", "H3O"],
+          "answer": "H2O2"
+        },
+        "hinglish": {
+          "question": "Hydrogen peroxide ka chemical formula kya hai?",
+          "options": ["H2O", "HO2", "H2O2", "H3O"],
+          "answer": "H2O2"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the plant absorbs the most water?",
+          "options": ["Leaves", "Stem", "Root hairs", "Flowers"],
+          "answer": "Root hairs"
+        },
+        "hinglish": {
+          "question": "Paudhe ka kaun sa hissa sabse zyada pani absorb karta hai?",
+          "options": ["Patte", "Tana", "Root hairs", "Phool"],
+          "answer": "Root hairs"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the study of earthquakes called?",
+          "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+          "answer": "Seismology"
+        },
+        "hinglish": {
+          "question": "Bhukamp ka adhyan kya kehlata hai?",
+          "options": ["Meteorology", "Seismology", "Volcanology", "Geology"],
+          "answer": "Seismology"
+        }
+      },
+      {
+        "english": {
+          "question": "Which metal is liquid at room temperature?",
+          "options": ["Iron", "Mercury", "Gold", "Silver"],
+          "answer": "Mercury"
+        },
+        "hinglish": {
+          "question": "Kaun sa dhatu room temperature par liquid hota hai?",
+          "options": ["Loha", "Mercury", "Sona", "Chandi"],
+          "answer": "Mercury"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the main function of red blood cells?",
+          "options": ["Fight infection", "Carry oxygen", "Clot blood", "Produce antibodies"],
+          "answer": "Carry oxygen"
+        },
+        "hinglish": {
+          "question": "Red blood cells ka mukhya kaam kya hai?",
+          "options": ["Infection se ladna", "Oxygen le jana", "Blood clot karna", "Antibodies banana"],
+          "answer": "Oxygen le jana"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet is known as the 'Ice Giant'?",
+          "options": ["Jupiter", "Saturn", "Uranus", "Mars"],
+          "answer": "Uranus"
+        },
+        "hinglish": {
+          "question": "Kaun sa grah 'Ice Giant' ke naam se jana jata hai?",
+          "options": ["Brihaspati", "Shani", "Uranus", "Mangal"],
+          "answer": "Uranus"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for lead?",
+          "options": ["Le", "Ld", "Pb", "Pl"],
+          "answer": "Pb"
+        },
+        "hinglish": {
+          "question": "Lead ka chemical symbol kya hai?",
+          "options": ["Le", "Ld", "Pb", "Pl"],
+          "answer": "Pb"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the eye contains light-sensitive cells?",
+          "options": ["Cornea", "Lens", "Retina", "Iris"],
+          "answer": "Retina"
+        },
+        "hinglish": {
+          "question": "Aankh ka kaun sa hissa light-sensitive cells rakhta hai?",
+          "options": ["Cornea", "Lens", "Retina", "Iris"],
+          "answer": "Retina"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the term for the bending of light as it passes through different media?",
+          "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+          "answer": "Refraction"
+        },
+        "hinglish": {
+          "question": "Light ka alag-alag media se gujarne par bend hone ko kya kehte hain?",
+          "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+          "answer": "Refraction"
+        }
+      },
+      {
+        "english": {
+          "question": "Which vitamin is essential for blood clotting?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+          "answer": "Vitamin K"
+        },
+        "hinglish": {
+          "question": "Blood clotting ke liye kaun sa vitamin zaroori hai?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"],
+          "answer": "Vitamin K"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the largest moon in our solar system?",
+          "options": ["Earth's Moon", "Titan", "Ganymede", "Europa"],
+          "answer": "Ganymede"
+        },
+        "hinglish": {
+          "question": "Hamare solar system ka sabse bada chandrama kaun sa hai?",
+          "options": ["Chandrama", "Titan", "Ganymede", "Europa"],
+          "answer": "Ganymede"
+        }
+      },
+      {
+        "english": {
+          "question": "Which acid is found in vinegar?",
+          "options": ["Hydrochloric acid", "Sulfuric acid", "Acetic acid", "Citric acid"],
+          "answer": "Acetic acid"
+        },
+        "hinglish": {
+          "question": "Sirke mein kaun sa acid paya jata hai?",
+          "options": ["Hydrochloric acid", "Sulfuric acid", "Acetic acid", "Citric acid"],
+          "answer": "Acetic acid"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the powerhouse of the cell?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+          "answer": "Mitochondria"
+        },
+        "hinglish": {
+          "question": "Cell ka powerhouse kya hota hai?",
+          "options": ["Nucleus", "Mitochondria", "Ribosome", "Golgi apparatus"],
+          "answer": "Mitochondria"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the most extreme seasons?",
+          "options": ["Earth", "Mars", "Uranus", "Neptune"],
+          "answer": "Uranus"
+        },
+        "hinglish": {
+          "question": "Kaun se grah ke seasons sabse extreme hote hain?",
+          "options": ["Prithvi", "Mangal", "Uranus", "Neptune"],
+          "answer": "Uranus"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical symbol for tungsten?",
+          "options": ["Tu", "Tn", "W", "Tg"],
+          "answer": "W"
+        },
+        "hinglish": {
+          "question": "Tungsten ka chemical symbol kya hai?",
+          "options": ["Tu", "Tn", "W", "Tg"],
+          "answer": "W"
+        }
+      },
+      {
+        "english": {
+          "question": "Which part of the brain controls breathing?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        },
+        "hinglish": {
+          "question": "Dimaag ka kaun sa hissa breathing control karta hai?",
+          "options": ["Cerebrum", "Cerebellum", "Medulla oblongata", "Hypothalamus"],
+          "answer": "Medulla oblongata"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the term for the point where light rays converge after passing through a lens?",
+          "options": ["Focal point", "Vertex", "Nodal point", "Center of curvature"],
+          "answer": "Focal point"
+        },
+        "hinglish": {
+          "question": "Lens se gujarne ke baad light rays ke converge hone ke point ko kya kehte hain?",
+          "options": ["Focal point", "Vertex", "Nodal point", "Center of curvature"],
+          "answer": "Focal point"
+        }
+      },
+      {
+        "english": {
+          "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        },
+        "hinglish": {
+          "question": "Suraj ki roshni mein insaan ka sharir kaun sa vitamin produce karta hai?",
+          "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+          "answer": "Vitamin D"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the chemical name for baking soda?",
+          "options": ["Sodium chloride", "Sodium bicarbonate", "Calcium carbonate", "Potassium nitrate"],
+          "answer": "Sodium bicarbonate"
+        },
+        "hinglish": {
+          "question": "Baking soda ka chemical naam kya hai?",
+          "options": ["Sodium chloride", "Sodium bicarbonate", "Calcium carbonate", "Potassium nitrate"],
+          "answer": "Sodium bicarbonate"
+        }
+      },
+      {
+        "english": {
+          "question": "Which system in the human body produces hormones?",
+          "options": ["Nervous system", "Endocrine system", "Digestive system", "Circulatory system"],
+          "answer": "Endocrine system"
+        },
+        "hinglish": {
+          "question": "Insaan ke sharir mein hormones kaun si system produce karta hai?",
+          "options": ["Nervous system", "Endocrine system", "Digestive system", "Circulatory system"],
+          "answer": "Endocrine system"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the term for the distance light travels in one year?",
+          "options": ["Astronomical unit", "Parsec", "Light-year", "Megameter"],
+          "answer": "Light-year"
+        },
+        "hinglish": {
+          "question": "Ek saal mein light kitni doori tai karti hai use kya kehte hain?",
+          "options": ["Astronomical unit", "Parsec", "Light-year", "Megameter"],
+          "answer": "Light-year"
+        }
+      },
+      {
+        "english": {
+          "question": "Which gas is known as 'marsh gas'?",
+          "options": ["Methane", "Ethane", "Propane", "Butane"],
+          "answer": "Methane"
+        },
+        "hinglish": {
+          "question": "'Marsh gas' ke naam se kaun si gas jani jati hai?",
+          "options": ["Methane", "Ethane", "Propane", "Butane"],
+          "answer": "Methane"
+        }
+      },
+      {
+        "english": {
+          "question": "What is the study of fungi called?",
+          "options": ["Botany", "Zoology", "Mycology", "Entomology"],
+          "answer": "Mycology"
+        },
+        "hinglish": {
+          "question": "Fungi ka adhyan kya kehlata hai?",
+          "options": ["Botany", "Zoology", "Mycology", "Entomology"],
+          "answer": "Mycology"
+        }
+      },
+      {
+        "english": {
+          "question": "Which planet has the Great Red Spot?",
+          "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+          "answer": "Jupiter"
+        },
+        "hinglish": {
+          "question": "Kaun se grah par Great Red Spot hai?",
+          "options": ["Mangal", "Brihaspati", "Shani", "Neptune"],
+          "answer": "Brihaspati"
+        }
+      }
+    ]
+  }

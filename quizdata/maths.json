@@ -1,0 +1,1072 @@
+{
+  "questions": [
+    {
+      "english": {
+        "question": "What is 5*7?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "35"
+      },
+      "hinglish": {
+        "question": "5*7 kya hota hai?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "35"
+      }
+    },
+    {
+      "english": {
+        "question": "Solve: 12 ÷ 4 + 3",
+        "options": ["2", "4", "6", "8"],
+        "answer": "6"
+      },
+      "hinglish": {
+        "question": "Solve karo: 12 ÷ 4 + 3",
+        "options": ["2", "4", "6", "8"],
+        "answer": "6"
+      }
+    },
+    {
+      "english": {
+        "question": "What is 15% of 200?",
+        "options": ["15", "20", "30", "45"],
+        "answer": "30"
+      },
+      "hinglish": {
+        "question": "200 ka 15% kya hai?",
+        "options": ["15", "20", "30", "45"],
+        "answer": "30"
+      }
+    },
+    {
+      "english": {
+        "question": "If x + 5 = 12, what is x?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      "hinglish": {
+        "question": "Agar x + 5 = 12, toh x kya hoga?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      }
+    },
+    {
+      "english": {
+        "question": "What is 12 * 15?",
+        "options": ["150", "180", "200", "225"],
+        "answer": "180"
+      },
+      "hinglish": {
+        "question": "12 * 15 kya hota hai?",
+        "options": ["150", "180", "200", "225"],
+        "answer": "180"
+      }
+    },
+    {
+      "english": {
+        "question": "Solve: (8 + 5) * 3 - 7",
+        "options": ["28", "32", "34", "38"],
+        "answer": "32"
+      },
+      "hinglish": {
+        "question": "Solve karo: (8 + 5) * 3 - 7",
+        "options": ["28", "32", "34", "38"],
+        "answer": "32"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3x * 4 = 48, what is x?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+      },
+      "hinglish": {
+        "question": "Agar 3x * 4 = 48, toh x kya hoga?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+      }
+    },
+    {
+      "english": {
+        "question": "What is 25% of 240 * 0.5?",
+        "options": ["30", "36", "48", "60"],
+        "answer": "30"
+      },
+      "hinglish": {
+        "question": "240 * 0.5 ka 25% kya hai?",
+        "options": ["30", "36", "48", "60"],
+        "answer": "30"
+      }
+    },
+    {
+      "english": {
+        "question": "Calculate: (15 - 3) * (7 + 2)",
+        "options": ["96", "102", "108", "112"],
+        "answer": "108"
+      },
+      "hinglish": {
+        "question": "Calculate karo: (15 - 3) * (7 + 2)",
+        "options": ["96", "102", "108", "112"],
+        "answer": "108"
+      }
+    },
+    {
+      "english": {
+        "question": "If x*y = (x+y)/(x-y), what is (3*4)*5?",
+        "options": ["-7", "-5", "5", "7"],
+        "answer": "-7"
+      },
+      "hinglish": {
+        "question": "Agar x*y = (x+y)/(x-y), toh (3*4)*5 kya hoga?",
+        "options": ["-7", "-5", "5", "7"],
+        "answer": "-7"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the units digit of 3^2023 * 7^2024?",
+        "options": ["1", "3", "7", "9"],
+        "answer": "7"
+      },
+      "hinglish": {
+        "question": "3^2023 * 7^2024 ka units digit kya hoga?",
+        "options": ["1", "3", "7", "9"],
+        "answer": "7"
+      }
+    },
+    {
+      "english": {
+        "question": "If 2^(x+3) * 3^(x+4) = 18, what is x?",
+        "options": ["-3", "-2", "-1", "0"],
+        "answer": "-2"
+      },
+      "hinglish": {
+        "question": "Agar 2^(x+3) * 3^(x+4) = 18, toh x kya hoga?",
+        "options": ["-3", "-2", "-1", "0"],
+        "answer": "-2"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest prime factor of 1001?",
+        "options": ["7", "11", "13", "17"],
+        "answer": "7"
+      },
+      "hinglish": {
+        "question": "1001 ka sabse chhota prime factor kya hai?",
+        "options": ["7", "11", "13", "17"],
+        "answer": "7"
+      }
+    },
+    {
+      "english": {
+        "question": "How many integer pairs (x,y) satisfy x^2 + y^2 ≤ 25?",
+        "options": ["60", "69", "81", "90"],
+        "answer": "81"
+      },
+      "hinglish": {
+        "question": "Kitne integer pairs (x,y) x^2 + y^2 ≤ 25 ko satisfy karte hain?",
+        "options": ["60", "69", "81", "90"],
+        "answer": "81"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the remainder when 2023^2023 is divided by 5?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+      },
+      "hinglish": {
+        "question": "2023^2023 ko 5 se divide karne par remainder kya hoga?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "3"
+      }
+    },
+    {
+      "english": {
+        "question": "If a+b=5 and a*b=6, what is a^3 + b^3?",
+        "options": ["35", "45", "55", "65"],
+        "answer": "35"
+      },
+      "hinglish": {
+        "question": "Agar a+b=5 aur a*b=6, toh a^3 + b^3 kya hoga?",
+        "options": ["35", "45", "55", "65"],
+        "answer": "35"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the sum of all odd divisors of 360?",
+        "options": ["78", "80", "82", "84"],
+        "answer": "78"
+      },
+      "hinglish": {
+        "question": "360 ke sabhi odd divisors ka sum kya hai?",
+        "options": ["78", "80", "82", "84"],
+        "answer": "78"
+      }
+    },
+    {
+      "english": {
+        "question": "How many trailing zeros does 125! have?",
+        "options": ["25", "28", "31", "34"],
+        "answer": "31"
+      },
+      "hinglish": {
+        "question": "125! ke end mein kitne zeros honge?",
+        "options": ["25", "28", "31", "34"],
+        "answer": "31"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the area of a triangle with vertices at (0,0), (6,0) and (4,3)?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "9"
+      },
+      "hinglish": {
+        "question": "(0,0), (6,0) aur (4,3) points wale triangle ka area kya hoga?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "9"
+      }
+    },
+    {
+      "english": {
+        "question": "If 5^x = 10, what is 5^(2x+1)?",
+        "options": ["100", "200", "300", "400"],
+        "answer": "200"
+      },
+      "hinglish": {
+        "question": "Agar 5^x = 10, toh 5^(2x+1) kya hoga?",
+        "options": ["100", "200", "300", "400"],
+        "answer": "200"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the probability of getting a sum of 7 when rolling two dice?",
+        "options": ["1/6", "1/8", "1/10", "1/12"],
+        "answer": "1/6"
+      },
+      "hinglish": {
+        "question": "Do dice roll karne par 7 sum aane ki probability kya hai?",
+        "options": ["1/6", "1/8", "1/10", "1/12"],
+        "answer": "1/6"
+      }
+    },
+    {
+      "english": {
+        "question": "How many perfect squares divide 14400?",
+        "options": ["18", "24", "30", "36"],
+        "answer": "24"
+      },
+      "hinglish": {
+        "question": "14400 ko kitne perfect squares divide karte hain?",
+        "options": ["18", "24", "30", "36"],
+        "answer": "24"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the digital root of 9999?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "9"
+      },
+      "hinglish": {
+        "question": "9999 ka digital root kya hai?",
+        "options": ["6", "7", "8", "9"],
+        "answer": "9"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1+3+5+...+(2n-1) = 225, what is n?",
+        "options": ["13", "14", "15", "16"],
+        "answer": "15"
+      },
+      "hinglish": {
+        "question": "Agar 1+3+5+...+(2n-1) = 225, toh n kya hoga?",
+        "options": ["13", "14", "15", "16"],
+        "answer": "15"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number divisible by 1 through 10?",
+        "options": ["2520", "5040", "7560", "10080"],
+        "answer": "2520"
+      },
+      "hinglish": {
+        "question": "1 se 10 tak sab numbers se divisible sabse chhota number kya hai?",
+        "options": ["2520", "5040", "7560", "10080"],
+        "answer": "2520"
+      }
+    },
+    {
+      "english": {
+        "question": "How many factors does 1024 have?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+      },
+      "hinglish": {
+        "question": "1024 ke kitne factors hote hain?",
+        "options": ["9", "10", "11", "12"],
+        "answer": "11"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the sum of angles in a 10-sided polygon?",
+        "options": ["1440°", "1620°", "1800°", "1980°"],
+        "answer": "1440°"
+      },
+      "hinglish": {
+        "question": "10-sided polygon ke angles ka sum kya hota hai?",
+        "options": ["1440°", "1620°", "1800°", "1980°"],
+        "answer": "1440°"
+      }
+    },
+    {
+      "english": {
+        "question": "If x = 1 + √2, what is x^4 - 4x^3 + 4x^2?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "Agar x = 1 + √2, toh x^4 - 4x^3 + 4x^2 kya hoga?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the GCD of 2^100 - 1 and 2^120 - 1?",
+        "options": ["2^10 - 1", "2^15 - 1", "2^20 - 1", "2^30 - 1"],
+        "answer": "2^20 - 1"
+      },
+      "hinglish": {
+        "question": "2^100 - 1 aur 2^120 - 1 ka GCD kya hoga?",
+        "options": ["2^10 - 1", "2^15 - 1", "2^20 - 1", "2^30 - 1"],
+        "answer": "2^20 - 1"
+      }
+    },
+    {
+      "english": {
+        "question": "How many 3-digit numbers have all digits odd?",
+        "options": ["100", "110", "120", "125"],
+        "answer": "125"
+      },
+      "hinglish": {
+        "question": "Kitne 3-digit numbers ke sabhi digits odd hote hain?",
+        "options": ["100", "110", "120", "125"],
+        "answer": "125"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the value of i^i where i = √-1?",
+        "options": ["e^(-π/2)", "e^(-π)", "e^(-2π)", "e^(-3π/2)"],
+        "answer": "e^(-π/2)"
+      },
+      "hinglish": {
+        "question": "i^i ka value kya hota hai, jahan i = √-1?",
+        "options": ["e^(-π/2)", "e^(-π)", "e^(-2π)", "e^(-3π/2)"],
+        "answer": "e^(-π/2)"
+      }
+    },
+    {
+      "english": {
+        "question": "If log_2(log_3(log_4(x))) = 0, what is x?",
+        "options": ["4^3^2", "2^3^4", "3^4^2", "4^2^3"],
+        "answer": "4^3^2"
+      },
+      "hinglish": {
+        "question": "Agar log_2(log_3(log_4(x))) = 0, toh x kya hoga?",
+        "options": ["4^3^2", "2^3^4", "3^4^2", "4^2^3"],
+        "answer": "4^3^2"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the coefficient of x^3 in (1+x)^10?",
+        "options": ["60", "80", "100", "120"],
+        "answer": "120"
+      },
+      "hinglish": {
+        "question": "(1+x)^10 mein x^3 ka coefficient kya hai?",
+        "options": ["60", "80", "100", "120"],
+        "answer": "120"
+      }
+    },
+    {
+      "english": {
+        "question": "How many diagonals does a 12-sided polygon have?",
+        "options": ["54", "60", "66", "72"],
+        "answer": "54"
+      },
+      "hinglish": {
+        "question": "12-sided polygon mein kitne diagonals hote hain?",
+        "options": ["54", "60", "66", "72"],
+        "answer": "54"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest composite number not divisible by any prime ≤ 10?",
+        "options": ["121", "143", "169", "187"],
+        "answer": "121"
+      },
+      "hinglish": {
+        "question": "Sabse chhota composite number jo kisi bhi prime ≤ 10 se divisible nahi hai?",
+        "options": ["121", "143", "169", "187"],
+        "answer": "121"
+      }
+    },
+    {
+      "english": {
+        "question": "If f(x) = x^3 - 3x^2 + 5, what is f(1+i) where i = √-1?",
+        "options": ["2-3i", "2+3i", "3-2i", "3+2i"],
+        "answer": "2-3i"
+      },
+      "hinglish": {
+        "question": "Agar f(x) = x^3 - 3x^2 + 5, toh f(1+i) kya hoga, jahan i = √-1?",
+        "options": ["2-3i", "2+3i", "3-2i", "3+2i"],
+        "answer": "2-3i"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the area under |x| + |y| = 1?",
+        "options": ["1", "1.5", "2", "2.5"],
+        "answer": "2"
+      },
+      "hinglish": {
+        "question": "|x| + |y| = 1 ke niche ka area kya hai?",
+        "options": ["1", "1.5", "2", "2.5"],
+        "answer": "2"
+      }
+    },
+    {
+      "english": {
+        "question": "How many numbers between 1 and 1000 are divisible by 7 or 11?",
+        "options": ["220", "230", "240", "250"],
+        "answer": "220"
+      },
+      "hinglish": {
+        "question": "1 se 1000 ke beech kitne numbers 7 ya 11 se divisible hain?",
+        "options": ["220", "230", "240", "250"],
+        "answer": "220"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3*4 = 15, 5*6 = 33, what is 7*8?",
+        "options": ["45", "51", "55", "61"],
+        "answer": "55"
+      },
+      "hinglish": {
+        "question": "Agar 3*4 = 15, 5*6 = 33, toh 7*8 kya hoga?",
+        "options": ["45", "51", "55", "61"],
+        "answer": "55"
+      }
+    },
+    {
+      "english": {
+        "question": "What is 1 - 2 + 3 - 4 + 5 - ... - 100?",
+        "options": ["-50", "-45", "-40", "-35"],
+        "answer": "-50"
+      },
+      "hinglish": {
+        "question": "1 - 2 + 3 - 4 + 5 - ... - 100 ka answer kya hai?",
+        "options": ["-50", "-45", "-40", "-35"],
+        "answer": "-50"
+      }
+    },
+    {
+      "english": {
+        "question": "If 5 cats catch 5 mice in 5 minutes, how long for 100 cats to catch 100 mice?",
+        "options": ["5 min", "50 min", "100 min", "500 min"],
+        "answer": "5 min"
+      },
+      "hinglish": {
+        "question": "Agar 5 billiyan 5 choohe 5 minute mein pakde, toh 100 billiyan 100 choohe kitne time mein pakdegi?",
+        "options": ["5 min", "50 min", "100 min", "500 min"],
+        "answer": "5 min"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the next number: 1, 11, 21, 1211, 111221, ___?",
+        "options": ["312211", "321122", "121122", "212211"],
+        "answer": "312211"
+      },
+      "hinglish": {
+        "question": "Agla number kya aayega: 1, 11, 21, 1211, 111221, ___?",
+        "options": ["312211", "321122", "121122", "212211"],
+        "answer": "312211"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1=3, 2=3, 3=5, 4=4, 5=4, what does 6=?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "3"
+      },
+      "hinglish": {
+        "question": "Agar 1=3, 2=3, 3=5, 4=4, 5=4, toh 6=?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "3"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest positive integer that is not a factor of 10! (10 factorial)?",
+        "options": ["11", "13", "17", "19"],
+        "answer": "11"
+      },
+      "hinglish": {
+        "question": "Sabse chhota positive integer jo 10! ka factor nahi hai?",
+        "options": ["11", "13", "17", "19"],
+        "answer": "11"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1/2 of 5 is 3, what is 1/3 of 10?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      "hinglish": {
+        "question": "Agar 5 ka 1/2 hai 3, toh 10 ka 1/3 kya hoga?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      }
+    },
+    {
+      "english": {
+        "question": "What digit appears most in numbers from 1 to 1000?",
+        "options": ["0", "1", "9", "All equal"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "1 se 1000 tak ke numbers mein sabse jyada kaun sa digit aata hai?",
+        "options": ["0", "1", "9", "Sab equal"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "If 2+3=10, 7+2=63, 6+5=66, what is 8+4?",
+        "options": ["48", "64", "96", "128"],
+        "answer": "96"
+      },
+      "hinglish": {
+        "question": "Agar 2+3=10, 7+2=63, 6+5=66, toh 8+4=?",
+        "options": ["48", "64", "96", "128"],
+        "answer": "96"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the only number that is spelled with letters in alphabetical order?",
+        "options": ["1", "40", "100", "1000"],
+        "answer": "40"
+      },
+      "hinglish": {
+        "question": "Kaun sa number hai jiske letters alphabetical order mein hote hain?",
+        "options": ["1", "40", "100", "1000"],
+        "answer": "40"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3 hens lay 3 eggs in 3 days, how many eggs will 300 hens lay in 300 days?",
+        "options": ["300", "3000", "30000", "90000"],
+        "answer": "30000"
+      },
+      "hinglish": {
+        "question": "Agar 3 murgiyan 3 ande 3 din mein deti hain, toh 300 murgiyan 300 din mein kitne ande dengi?",
+        "options": ["300", "3000", "30000", "90000"],
+        "answer": "30000"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number that increases by 12 when its digits are reversed?",
+        "options": ["39", "48", "57", "68"],
+        "answer": "39"
+      },
+      "hinglish": {
+        "question": "Sabse chhota number jiske digits reverse karne se 12 ka increase hota hai?",
+        "options": ["39", "48", "57", "68"],
+        "answer": "39"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1=5, 2=25, 3=325, 4=4325, then 5=?",
+        "options": ["54325", "5432", "5", "1"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "Agar 1=5, 2=25, 3=325, 4=4325, toh 5=?",
+        "options": ["54325", "5432", "5", "1"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the probability of getting 53 Sundays in a leap year?",
+        "options": ["1/7", "2/7", "3/7", "4/7"],
+        "answer": "2/7"
+      },
+      "hinglish": {
+        "question": "Leap year mein 53 Sundays aane ki probability kya hai?",
+        "options": ["1/7", "2/7", "3/7", "4/7"],
+        "answer": "2/7"
+      }
+    },
+    {
+      "english": {
+        "question": "How many times does digit 5 appear from 1 to 100?",
+        "options": ["10", "11", "19", "20"],
+        "answer": "20"
+      },
+      "hinglish": {
+        "question": "1 se 100 tak digit 5 kitni baar aata hai?",
+        "options": ["10", "11", "19", "20"],
+        "answer": "20"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the only even prime number?",
+        "options": ["0", "1", "2", "4"],
+        "answer": "2"
+      },
+      "hinglish": {
+        "question": "Kaun sa ek hi even prime number hai?",
+        "options": ["0", "1", "2", "4"],
+        "answer": "2"
+      }
+    },
+    {
+      "english": {
+        "question": "If 5*5=23, 6*6=32, 7*7=43, what is 8*8?",
+        "options": ["56", "64", "72", "80"],
+        "answer": "56"
+      },
+      "hinglish": {
+        "question": "Agar 5*5=23, 6*6=32, 7*7=43, toh 8*8=?",
+        "options": ["56", "64", "72", "80"],
+        "answer": "56"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number divisible by all numbers 1 through 6?",
+        "options": ["30", "60", "90", "120"],
+        "answer": "60"
+      },
+      "hinglish": {
+        "question": "Sabse chhota number jo 1 se 6 tak sab numbers se divisible hai?",
+        "options": ["30", "60", "90", "120"],
+        "answer": "60"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1+4=5, 2+5=12, 3+6=21, what is 8+11?",
+        "options": ["40", "64", "96", "128"],
+        "answer": "96"
+      },
+      "hinglish": {
+        "question": "Agar 1+4=5, 2+5=12, 3+6=21, toh 8+11=?",
+        "options": ["40", "64", "96", "128"],
+        "answer": "96"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the only square number that is also prime?",
+        "options": ["0", "1", "4", "None"],
+        "answer": "None"
+      },
+      "hinglish": {
+        "question": "Kaun sa square number jo prime bhi hai?",
+        "options": ["0", "1", "4", "Koi nahi"],
+        "answer": "Koi nahi"
+      }
+    },
+    {
+      "english": {
+        "question": "How many perfect cubes are between 100 and 1000?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      "hinglish": {
+        "question": "100 aur 1000 ke beech kitne perfect cubes hain?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the sum of all digits needed to write numbers from 1 to 100?",
+        "options": ["901", "903", "905", "907"],
+        "answer": "901"
+      },
+      "hinglish": {
+        "question": "1 se 100 tak numbers likhne mein kitne digits ka total hota hai?",
+        "options": ["901", "903", "905", "907"],
+        "answer": "901"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3 people can paint 3 fences in 3 hours, how many people needed to paint 9 fences in 9 hours?",
+        "options": ["3", "6", "9", "12"],
+        "answer": "3"
+      },
+      "hinglish": {
+        "question": "Agar 3 log 3 fences 3 ghante mein paint kar sakte hain, toh 9 fences 9 ghante mein paint karne ke liye kitne log chahiye?",
+        "options": ["3", "6", "9", "12"],
+        "answer": "3"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the only number equal to the sum of its digits multiplied by their product?",
+        "options": ["0", "1", "135", "144"],
+        "answer": "135"
+      },
+      "hinglish": {
+        "question": "Kaun sa number apne digits ke sum aur product ke multiply ke barabar hota hai?",
+        "options": ["0", "1", "135", "144"],
+        "answer": "135"
+      }
+    },
+    {
+      "english": {
+        "question": "How many zeros at the end of 50! (50 factorial)?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "12"
+      },
+      "hinglish": {
+        "question": "50! ke end mein kitne zeros hote hain?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "12"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number that is divisible by 1,2,3,4,5,6,7,8,9,10?",
+        "options": ["1260", "2520", "5040", "7560"],
+        "answer": "2520"
+      },
+      "hinglish": {
+        "question": "Sabse chhota number jo 1,2,3,4,5,6,7,8,9,10 sab se divisible hai?",
+        "options": ["1260", "2520", "5040", "7560"],
+        "answer": "2520"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1=5, 2=15, 3=215, 4=3215, what is 5?",
+        "options": ["43215", "54321", "1", "5"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "Agar 1=5, 2=15, 3=215, 4=3215, toh 5=?",
+        "options": ["43215", "54321", "1", "5"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number with exactly 10 divisors?",
+        "options": ["48", "60", "72", "84"],
+        "answer": "48"
+      },
+      "hinglish": {
+        "question": "Sabse chhota number jiske exactly 10 divisors hote hain?",
+        "options": ["48", "60", "72", "84"],
+        "answer": "48"
+      }
+    },
+    {
+      "english": {
+        "question": "How many times can you subtract 5 from 25?",
+        "options": ["5", "10", "1", "Infinite"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "25 mein se 5 kitni baar subtract kar sakte hain?",
+        "options": ["5", "10", "1", "Anant"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the only integer that is neither prime nor composite?",
+        "options": ["0", "1", "2", "None"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "Kaun sa integer hai jo na prime hai na composite?",
+        "options": ["0", "1", "2", "Koi nahi"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "If 2*3=9, 4*5=25, 6*7=49, what is 8*9?",
+        "options": ["64", "72", "81", "90"],
+        "answer": "81"
+      },
+      "hinglish": {
+        "question": "Agar 2*3=9, 4*5=25, 6*7=49, toh 8*9=?",
+        "options": ["64", "72", "81", "90"],
+        "answer": "81"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number that is exactly divisible by all numbers from 1 to 12?",
+        "options": ["2520", "5040", "7560", "27720"],
+        "answer": "27720"
+      },
+      "hinglish": {
+        "question": "Sabse chota number jo 1 se 12 tak har number se bilkul divide ho jaye?",
+        "options": ["2520", "5040", "7560", "27720"],
+        "answer": "27720"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3*4=1812, 5*6=3020, what is 7*8?",
+        "options": ["5628", "5632", "5636", "5640"],
+        "answer": "5628"
+      },
+      "hinglish": {
+        "question": "Agar 3*4=1812, 5*6=3020, toh 7*8=?",
+        "options": ["5628", "5632", "5636", "5640"],
+        "answer": "5628"
+      }
+    },
+    {
+      "english": {
+        "question": "How many perfect squares are factors of 14400?",
+        "options": ["18", "24", "30", "36"],
+        "answer": "24"
+      },
+      "hinglish": {
+        "question": "14400 ke kitne perfect square factors hote hain?",
+        "options": ["18", "24", "30", "36"],
+        "answer": "24"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the digital sum of 9^9?",
+        "options": ["9", "18", "27", "36"],
+        "answer": "9"
+      },
+      "hinglish": {
+        "question": "9^9 ka digital sum kya hai?",
+        "options": ["9", "18", "27", "36"],
+        "answer": "9"
+      }
+    },
+    {
+      "english": {
+        "question": "If 2^x = 16 and 3^y = 81, what is x*y?",
+        "options": ["12", "16", "20", "24"],
+        "answer": "16"
+      },
+      "hinglish": {
+        "question": "Agar 2^x = 16 aur 3^y = 81, toh x*y kya hoga?",
+        "options": ["12", "16", "20", "24"],
+        "answer": "16"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the area of the largest square that fits inside a circle of radius 5?",
+        "options": ["25", "50", "75", "100"],
+        "answer": "50"
+      },
+      "hinglish": {
+        "question": "Radius 5 wale circle ke andar fit hone wale sabse bade square ka area?",
+        "options": ["25", "50", "75", "100"],
+        "answer": "50"
+      }
+    },
+    {
+      "english": {
+        "question": "How many numbers between 1 and 100 contain digit '7'?",
+        "options": ["10", "15", "19", "20"],
+        "answer": "19"
+      },
+      "hinglish": {
+        "question": "1 se 100 ke beech kitne numbers mein digit '7' hota hai?",
+        "options": ["10", "15", "19", "20"],
+        "answer": "19"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the sum of first 50 odd numbers?",
+        "options": ["2500", "2550", "2600", "2650"],
+        "answer": "2500"
+      },
+      "hinglish": {
+        "question": "Pehle 50 odd numbers ka sum kya hai?",
+        "options": ["2500", "2550", "2600", "2650"],
+        "answer": "2500"
+      }
+    },
+    {
+      "english": {
+        "question": "If 1@1=2, 2@2=8, 3@3=18, what is 4@4?",
+        "options": ["24", "28", "32", "36"],
+        "answer": "32"
+      },
+      "hinglish": {
+        "question": "Agar 1@1=2, 2@2=8, 3@3=18, toh 4@4=?",
+        "options": ["24", "28", "32", "36"],
+        "answer": "32"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the probability that a random 2-digit number has all digits odd?",
+        "options": ["1/5", "1/4", "1/3", "1/2"],
+        "answer": "1/4"
+      },
+      "hinglish": {
+        "question": "Ek random 2-digit number ke sabhi digits odd hone ki probability?",
+        "options": ["1/5", "1/4", "1/3", "1/2"],
+        "answer": "1/4"
+      }
+    },
+    {
+      "english": {
+        "question": "How many triangles are in a regular pentagon with all diagonals drawn?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "35"
+      },
+      "hinglish": {
+        "question": "Regular pentagon mein sab diagonals draw karne par kitne triangles bante hain?",
+        "options": ["25", "30", "35", "40"],
+        "answer": "35"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest prime number greater than 50?",
+        "options": ["51", "53", "57", "59"],
+        "answer": "53"
+      },
+      "hinglish": {
+        "question": "50 se bada sabse chota prime number?",
+        "options": ["51", "53", "57", "59"],
+        "answer": "53"
+      }
+    },
+    {
+      "english": {
+        "question": "If 3+5=16, 7+9=64, what is 11+13?",
+        "options": ["100", "121", "144", "169"],
+        "answer": "144"
+      },
+      "hinglish": {
+        "question": "Agar 3+5=16, 7+9=64, toh 11+13=?",
+        "options": ["100", "121", "144", "169"],
+        "answer": "144"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the remainder when 7^100 is divided by 5?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+      },
+      "hinglish": {
+        "question": "7^100 ko 5 se divide karne par remainder kya aayega?",
+        "options": ["1", "2", "3", "4"],
+        "answer": "1"
+      }
+    },
+    {
+      "english": {
+        "question": "How many perfect cubes are between 1000 and 2000?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      },
+      "hinglish": {
+        "question": "1000 aur 2000 ke beech kitne perfect cubes hain?",
+        "options": ["3", "4", "5", "6"],
+        "answer": "4"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the sum of digits of 100! (100 factorial)?",
+        "options": ["648", "729", "810", "891"],
+        "answer": "648"
+      },
+      "hinglish": {
+        "question": "100! ke digits ka sum kya hai?",
+        "options": ["648", "729", "810", "891"],
+        "answer": "648"
+      }
+    },
+    {
+      "english": {
+        "question": "If 2+3=10, 7+2=63, what is 9+5?",
+        "options": ["56", "126", "135", "144"],
+        "answer": "126"
+      },
+      "hinglish": {
+        "question": "Agar 2+3=10, 7+2=63, toh 9+5=?",
+        "options": ["56", "126", "135", "144"],
+        "answer": "126"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the smallest number with exactly 15 divisors?",
+        "options": ["144", "216", "256", "324"],
+        "answer": "144"
+      },
+      "hinglish": {
+        "question": "Sabse chota number jiske exactly 15 divisors hote hain?",
+        "options": ["144", "216", "256", "324"],
+        "answer": "144"
+      }
+    },
+    {
+      "english": {
+        "question": "How many zeros are at the end of 25! (25 factorial)?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "6"
+      },
+      "hinglish": {
+        "question": "25! ke end mein kitne zeros hote hain?",
+        "options": ["4", "5", "6", "7"],
+        "answer": "6"
+      }
+    },
+    {
+      "english": {
+        "question": "What is the next term: 1, 4, 27, 256, ___?",
+        "options": ["1024", "3125", "5625", "10000"],
+        "answer": "3125"
+      },
+      "hinglish": {
+        "question": "Agla term: 1, 4, 27, 256, ___?",
+        "options": ["1024", "3125", "5625", "10000"],
+        "answer": "3125"
+      }
+    }
+  ]
+}

@@ -1,534 +1,1156 @@
 {
   "questions": [
     {
-      "question": "What is something you will never find in a refrigerator?",
-      "options": ["A hot cup of coffee", "Vegetables", "Ice cream", "Juice"],
-      "answer": "A hot cup of coffee"
-    },
-    {
-      "question": "Why did the scarecrow win an award?",
-      "options": ["He was very brave", "He was outstanding in his field", "He was smart", "He saved a bird"],
-      "answer": "He was outstanding in his field"
-    },
-    {
-      "question": "What can you catch but not throw?",
-      "options": ["A cold", "A football", "A ball", "A balloon"],
-      "answer": "A cold"
-    },
-    {
-      "question": "Why do bees have sticky hair?",
-      "options": ["Because they use honeycombs", "Because they live in hives", "Because of flowers", "Because they do not shower"],
-      "answer": "Because they use honeycombs"
-    },
-    {
-      "question": "What do you call fake spaghetti?",
-      "options": ["An impasta", "Noodle faker", "Pasta clone", "Spaghosti"],
-      "answer": "An impasta"
-    },
-    {
-      "question": "What gets wetter the more it dries?",
-      "options": ["A towel", "Rain", "Soap", "A sponge"],
-      "answer": "A towel"
-    },
-    {
-      "question": "Why did the math book look sad?",
-      "options": ["Because it had too many problems", "Because it was torn", "Because it failed the test", "Because it was old"],
-      "answer": "Because it had too many problems"
-    },
-    {
-      "question": "What kind of tree fits in your hand?",
-      "options": ["A palm tree", "A tiny tree", "A finger tree", "A small oak"],
-      "answer": "A palm tree"
-    },
-    {
-      "question": "Why was the computer cold?",
-      "options": ["Because it left its Windows open", "Because it had no heater", "Because it was frozen", "Because of ice"],
-      "answer": "Because it left its Windows open"
-    },
-    {
-      "question": "What did one wall say to the other wall?",
-      "options": ["I will meet you at the corner", "You are strong", "Let us stick together", "We are supporting each other"],
-      "answer": "I will meet you at the corner"
-    },
-    {
-      "question": "Why don't skeletons fight each other?",
-      "options": ["They don't have the guts", "They're too brittle", "They're already dead", "They're scared"],
-      "answer": "They don't have the guts"
-    },
-    {
-      "question": "What's brown and sticky?",
-      "options": ["A stick", "Chocolate", "Mud", "A brownie"],
-      "answer": "A stick"
-    },
-    {
-      "question": "What do you get when you cross a snowman and a vampire?",
-      "options": ["Frostbite", "A cold-blooded killer", "Snowflakes", "A winter nightmare"],
-      "answer": "Frostbite"
-    },
-    {
-      "question": "What's the best thing about Switzerland?",
-      "options": ["The chocolate", "The flag is a big plus", "The mountains", "The watches"],
-      "answer": "The flag is a big plus"
-    },
-    {
-      "question": "Why don't eggs tell jokes?",
-      "options": ["They'd crack each other up", "They're too fragile", "They're not funny", "They're always poached"],
-      "answer": "They'd crack each other up"
-    },
-    {
-      "question": "How do you organize a space party?",
-      "options": ["You planet", "With moon pies", "Invite aliens", "Book a rocket"],
-      "answer": "You planet"
-    },
-    {
-      "question": "Why did the golfer bring two pairs of pants?",
-      "options": ["In case he got a hole in one", "He was indecisive", "For different courses", "He forgot he already had some"],
-      "answer": "In case he got a hole in one"
-    },
-    {
-      "question": "What did the ocean say to the beach?",
-      "options": ["Nothing, it just waved", "Let's stick together", "You're so sandy", "I'm tide of you"],
-      "answer": "Nothing, it just waved"
-    },
-    {
-      "question": "Why did the tomato turn red?",
-      "options": ["It saw the salad dressing", "It was ripe", "It was embarrassed", "It was painted"],
-      "answer": "It saw the salad dressing"
-    },
-    {
-      "question": "Why did the cookie go to the doctor?",
-      "options": ["It was feeling sweet", "It was feeling crummy", "It had a chip", "It needed checkup"],
-      "answer": "It was feeling crummy"
-    },
-    {
-      "question": "What cheese isn't yours?",
-      "options": ["Nacho", "Stolen", "Foreign", "Borrowed"],
-      "answer": "Nacho"
-    },
-    {
-      "question": "Why did the bicycle fall over?",
-      "options": ["Because it was two-tired", "Because it was unbalanced", "Because it was broken", "Because a ghost pushed it"],
-      "answer": "Because it was two-tired"
-    },
-    {
-      "question": "Why can't your nose be 12 inches long?",
-      "options": ["Because then it would be a foot", "Because it would look silly", "Because it wouldn't fit", "Because doctors banned it"],
-      "answer": "Because then it would be a foot"
-    },
-    {
-      "question": "What did the grape say when it got stepped on?",
-      "options": ["Nothing, it just let out a little wine", "Ouch!", "Help!", "I'm squished!"],
-      "answer": "Nothing, it just let out a little wine"
-    },
-    {
-      "question": "What's orange and sounds like a parrot?",
-      "options": ["A carrot", "An orange", "A macaw", "A squawk"],
-      "answer": "A carrot"
-    },
-    {
-      "question": "Why couldn't the leopard hide?",
-      "options": ["Because he was always spotted", "Because he was bad at hiding", "Because he was too loud", "Because he was clumsy"],
-      "answer": "Because he was always spotted"
-    },
-    {
-      "question": "Why did the melons get married?",
-      "options": ["Because they cantaloupe", "Because they were sweet", "Because they were round", "Because they were seedy"],
-      "answer": "Because they cantaloupe"
-    },
-    {
-      "question": "Why are ghosts bad at lying?",
-      "options": ["Because you can see right through them", "Because they have no body", "Because they're too scary", "Because they always say 'boo'"],
-      "answer": "Because you can see right through them"
-    },
-    {
-      "question": "Why is a chicken coop only have two doors?",
-      "options": ["Because if it had four doors it would be a chicken sedan", "Because it's for chickens", "Because of the eggs", "Because it's on a farm"],
-      "answer": "Because if it had four doors it would be a chicken sedan"
-    },
-    {
-      "question": "What's blue and smells like red paint?",
-      "options": ["Blue paint", "The ocean", "The sky", "A blueberry"],
-      "answer": "Blue paint"
-    },
-    {
-      "question": "Why did the banana go to the doctor?",
-      "options": ["Because it wasn't peeling well", "Because it was too yellow", "Because it was bent", "Because it was old"],
-      "answer": "Because it wasn't peeling well"
-    },
-    {
-      "question": "Why can't your elbow talk?",
-      "options": ["Because it has no body", "Because it's just a joint", "Because it's too bony", "Because it's shy"],
-      "answer": "Because it has no body"
-    },
-    {
-      "question": "What's the fastest, loudest snack?",
-      "options": ["Popcorn", "Chips", "Nuts", "A cookie"],
-      "answer": "Popcorn"
-    },
-    {
-      "question": "What's an astronaut's favorite key on the keyboard?",
-      "options": ["The spacebar", "The rocket key", "The moon key", "The star key"],
-      "answer": "The spacebar"
-    },
-    {
-      "question": "Why did the bee get married?",
-      "options": ["Because he found his honey", "Because he met the queen", "Because he got stung", "Because he fell in love"],
-      "answer": "Because he found his honey"
-    },
-    {
-      "question": "Why did the Indian traffic light turn red?",
-      "options": ["Because it saw the Indian traffic", "It was angry", "It was tired", "It wanted to match Indian brides"],
-      "answer": "Because it saw the Indian traffic"
-    },
-    {
-      "question": "Why don't Indian moms need GPS?",
-      "options": ["Because they have 'beta, right le lo'", "They have great memory", "They never get lost", "They use stars"],
-      "answer": "Because they have 'beta, right le lo'"
-    },
-    {
-      "question": "What do you call a samosa that tells jokes?",
-      "options": ["A punjabi", "A laughing gas", "A funny snack", "A comed-yum"],
-      "answer": "A punjabi"
-    },
-    {
-      "question": "Why did the dosa break up with the idli?",
-      "options": ["Because it was too plain", "It wanted to be folded", "It found a better sambar", "It needed space"],
-      "answer": "Because it was too plain"
-    },
-    {
-      "question": "Why was the Indian student's report card wet?",
-      "options": ["Because it was below C-level", "It fell in water", "Teacher spilled tea", "It was crying"],
-      "answer": "Because it was below C-level"
-    },
-    {
-      "question": "Why don't Indian uncles use smartphones?",
-      "options": ["Because they already know everything", "They prefer newspapers", "Too expensive", "Bad eyesight"],
-      "answer": "Because they already know everything"
-    },
-    {
-      "question": "What do you call a chai that won't stop talking?",
-      "options": ["Chai-lu-lah", "Ginger gossip", "Masala mouth", "Tea-rant"],
-      "answer": "Chai-lu-lah"
-    },
-    {
-      "question": "Why did the auto-rickshaw go to therapy?",
-      "options": ["Because it had too many issues", "It was feeling unstable", "Meter wasn't working", "Needed to find itself"],
-      "answer": "Because it had too many issues"
-    },
-    {
-      "question": "What's an Indian ghost's favorite food?",
-      "options": ["Boo-ndi", "Spirit-ual food", "Haunted halwa", "Ghost ki roti"],
-      "answer": "Boo-ndi"
-    },
-    {
-      "question": "Why did the Indian bride take a ladder to her wedding?",
-      "options": ["Because she wanted to reach new heights", "The venue was upstairs", "For the high jump", "To climb the social ladder"],
-      "answer": "Because she wanted to reach new heights"
-    },
-    {
-      "question": "What do you call a sleeping biryani?",
-      "options": ["Naan-sense", "Rice-ing beauty", "Korma-tose", "Pulao-ver"],
-      "answer": "Korma-tose"
-    },
-    {
-      "question": "Why did the Indian politician carry a ladder?",
-      "options": ["To climb the political ladder", "For emergency exits", "To fix promises", "To reach new heights"],
-      "answer": "To climb the political ladder"
-    },
-    {
-      "question": "What's an Indian student's favorite plant?",
-      "options": ["The marks-plant", "Tulsi", "Neem", "Money plant"],
-      "answer": "The marks-plant"
-    },
-    {
-      "question": "Why did the Indian gol gappa go to school?",
-      "options": ["To become a smart-puri", "It wanted knowledge", "For extra water", "To meet friends"],
-      "answer": "To become a smart-puri"
-    },
-    {
-      "question": "Why was the Indian computer always tired?",
-      "options": ["Because it had too many windows open", "Slow processor", "Old age", "Too much work"],
-      "answer": "Because it had too many windows open"
-    },
-    {
-      "question": "What do you call an Indian who can't stop making dad jokes?",
-      "options": ["Papa-dum", "Uncle funny", "Laughing singh", "Joke-shah"],
-      "answer": "Papa-dum"
-    },
-    {
-      "question": "Why did the Indian weather forecast fail?",
-      "options": ["Because it couldn't predict the AC temperature", "Bad equipment", "No satellites", "Meteorologist was sick"],
-      "answer": "Because it couldn't predict the AC temperature"
-    },
-    {
-      "question": "What's an Indian mosquito's favorite song?",
-      "options": ["Hum honge kaamyaab", "Dil hai chota sa", "Bzzzz India", "Mera sting desh hai"],
-      "answer": "Hum honge kaamyaab"
-    },
-    {
-      "question": "Why did the Indian onion refuse to play hide and seek?",
-      "options": ["Because it knew it would make everyone cry", "It was too smelly", "It had no friends", "It was too round"],
-      "answer": "Because it knew it would make everyone cry"
-    },
-    {
-      "question": "What do you call an Indian who's always late?",
-      "options": ["Indian Standard Time", "The delayed don", "Late bahadur", "Tardy taj"],
-      "answer": "Indian Standard Time"
-    },
-    {
-      "question": "Why don't scientists trust atoms?",
-      "options": ["They make up everything", "They're too small", "They're unstable", "They're invisible"],
-      "answer": "They make up everything"
-    },
-    {
-      "question": "What do you call a fish wearing a bowtie?",
-      "options": ["Sofishticated", "Fishionable", "Gill-ty", "Nemo's dad"],
-      "answer": "Sofishticated"
-    },
-    {
-      "question": "How do you make a tissue dance?",
-      "options": ["Put a little boogie in it", "Play music", "Wave it around", "Tissue can't dance"],
-      "answer": "Put a little boogie in it"
-    },
-    {
-      "question": "Why did the invisible man turn down the job offer?",
-      "options": ["He couldn't see himself doing it", "No benefits", "Low salary", "Bad work environment"],
-      "answer": "He couldn't see himself doing it"
-    },
-    {
-      "question": "What do you call a bear with no teeth?",
-      "options": ["A gummy bear", "Toothless", "Hungry", "Sad bear"],
-      "answer": "A gummy bear"
-    },
-    {
-      "question": "Why did the photo go to jail?",
-      "options": ["It was framed", "It stole a shot", "It was negative", "Flash crime"],
-      "answer": "It was framed"
-    },
-    {
-      "question": "What do you call a fake noodle?",
-      "options": ["An impasta", "Noodle fraud", "Phony pasta", "Spag-lie"],
-      "answer": "An impasta"
-    },
-    {
-      "question": "Why did the scarecrow win an Oscar?",
-      "options": ["He was outstanding in his field", "Great actor", "Lucky", "The competition was weak"],
-      "answer": "He was outstanding in his field"
-    },
-    {
-      "question": "What do you call a snowman with a six-pack?",
-      "options": ["An abdominal snowman", "Fit frosty", "Cold muscles", "Winter hunk"],
-      "answer": "An abdominal snowman"
-    },
-    {
-      "question": "Why did the golfer wear two pairs of pants?",
-      "options": ["In case he got a hole in one", "Fashion", "Cold weather", "Lost a bet"],
-      "answer": "In case he got a hole in one"
-    },
-    {
-      "question": "What's the best time to go to the dentist?",
-      "options": ["Tooth-hurty", "Morning", "Afternoon", "Never"],
-      "answer": "Tooth-hurty"
-    },
-    {
-      "question": "What do you call cheese that isn't yours?",
-      "options": ["Nacho cheese", "Stolen goods", "Cheese thief", "Shared cheese"],
-      "answer": "Nacho cheese"
-    },
-    {
-      "question": "Why couldn't the bicycle stand up by itself?",
-      "options": ["It was two-tired", "Flat tire", "Broken", "Lazy"],
-      "answer": "It was two-tired"
-    },
-    {
-      "question": "What did the janitor say when he jumped out of the closet?",
-      "options": ["Supplies!", "Boo!", "Clean up!", "I quit!"],
-      "answer": "Supplies!"
-    },
-    {
-      "question": "What did the buffalo say to his son when he left for college?",
-      "options": ["Bison", "Goodbye son", "Study hard", "Call home"],
-      "answer": "Bison"
-    },
-    {
-      "question": "Why did the math book look sad?",
-      "options": ["It had too many problems", "Old edition", "No one read it", "Hard cover"],
-      "answer": "It had too many problems"
-    },
-    {
-      "question": "What's orange and sounds like a parrot?",
-      "options": ["A carrot", "Orange parrot", "Pumpkin", "Traffic cone"],
-      "answer": "A carrot"
-    },
-    {
-      "question": "How do you catch a squirrel?",
-      "options": ["Climb a tree and act like a nut", "Use a trap", "Chase it", "Ask nicely"],
-      "answer": "Climb a tree and act like a nut"
-    },
-    {
-      "question": "Why don't skeletons fight each other?",
-      "options": ["They don't have the guts", "They're friends", "Too fragile", "No muscles"],
-      "answer": "They don't have the guts"
-    },
-    {
-      "question": "What do you call a dinosaur with an extensive vocabulary?",
-      "options": ["A thesaurus", "Smartasaurus", "Wordosaurus", "Professor Rex"],
-      "answer": "A thesaurus"
-    },
-    {
-      "question": "Why did the tomato turn red?",
-      "options": ["It saw the salad dressing", "It was ripe", "Sunburn", "Embarrassed"],
-      "answer": "It saw the salad dressing"
-    },
-    {
-      "question": "What do you get when you cross a snowman and a vampire?",
-      "options": ["Frostbite", "Cold blood", "Winter fear", "Snowpire"],
-      "answer": "Frostbite"
-    },
-    {
-      "question": "Why don't eggs tell jokes?",
-      "options": ["They'd crack each other up", "No sense of humor", "Too fragile", "Always poached"],
-      "answer": "They'd crack each other up"
-    },
-    {
-      "question": "What's brown and sticky?",
-      "options": ["A stick", "Chocolate", "Mud", "Tape"],
-      "answer": "A stick"
-    },
-    {
-      "question": "Why did the Indian traffic light turn red?",
-      "options": ["It saw the traffic", "Angry", "Tired", "Colorblind"],
-      "answer": "It saw the traffic"
-    },
-    {
-      "question": "Why don't Indian moms need GPS?",
-      "options": ["They have 'beta right le lo'", "Great memory", "Never lost", "Superpower"],
-      "answer": "They have 'beta right le lo'"
-    },
-    {
-      "question": "What do you call a samosa that tells jokes?",
-      "options": ["Punjabi", "Laughing snack", "Funny food", "Comedian chaat"],
-      "answer": "Punjabi"
-    },
-    {
-      "question": "Why did the dosa break up with the idli?",
-      "options": ["It was too plain", "Found better sambar", "Wanted space", "Cultural differences"],
-      "answer": "It was too plain"
-    },
-    {
-      "question": "Why was the Indian student's report card wet?",
-      "options": ["Below C-level", "Rain", "Spilled water", "Tears"],
-      "answer": "Below C-level"
-    },
-    {
-      "question": "Why don't Indian uncles use smartphones?",
-      "options": ["Already know everything", "Too complicated", "Eyesight", "Prefer newspapers"],
-      "answer": "Already know everything"
-    },
-    {
-      "question": "What do you call a chai that won't stop talking?",
-      "options": ["Chai-lu-lah", "Gossip tea", "Masala mouth", "Talkative brew"],
-      "answer": "Chai-lu-lah"
-    },
-    {
-      "question": "Why did the auto-rickshaw go to therapy?",
-      "options": ["Too many issues", "Midlife crisis", "Meter issues", "Identity crisis"],
-      "answer": "Too many issues"
-    },
-    {
-      "question": "What's an Indian ghost's favorite food?",
-      "options": ["Boo-ndi", "Spirit food", "Haunted halwa", "Ghost curry"],
-      "answer": "Boo-ndi"
-    },
-    {
-      "question": "Why did the Indian bride take a ladder to her wedding?",
-      "options": ["To reach new heights", "Venue was up", "Tradition", "Fashion"],
-      "answer": "To reach new heights"
-    },
-    {
-      "question": "What do you call a sleeping biryani?",
-      "options": ["Korma-tose", "Rice dream", "Naan-sense", "Pulao-ver"],
-      "answer": "Korma-tose"
-    },
-    {
-      "question": "Why did the Indian politician carry a ladder?",
-      "options": ["To climb the political ladder", "Construction", "Exercise", "Art project"],
-      "answer": "To climb the political ladder"
-    },
-    {
-      "question": "What's an Indian student's favorite plant?",
-      "options": ["Marks-plant", "Tulsi", "Neem", "Bamboo"],
-      "answer": "Marks-plant"
-    },
-    {
-      "question": "Why did the gol gappa go to school?",
-      "options": ["To become smart-puri", "Education", "Peer pressure", "Free water"],
-      "answer": "To become smart-puri"
-    },
-    {
-      "question": "Why was the Indian computer always tired?",
-      "options": ["Too many windows open", "Old", "Virus", "Overworked"],
-      "answer": "Too many windows open"
-    },
-    {
-      "question": "What do you call an Indian who can't stop making dad jokes?",
-      "options": ["Papa-dum", "Uncle funny", "Joke-shah", "Laughing singh"],
-      "answer": "Papa-dum"
-    },
-    {
-      "question": "Why did the Indian weather forecast fail?",
-      "options": ["Couldn't predict AC temp", "Bad tech", "No data", "Lazy meteorologist"],
-      "answer": "Couldn't predict AC temp"
-    },
-    {
-      "question": "What's an Indian mosquito's favorite song?",
-      "options": ["Hum honge kaamyaab", "Bzzz India", "Mera sting desh", "Dil hai chota sa"],
-      "answer": "Hum honge kaamyaab"
-    },
-    {
-      "question": "Why did the Indian onion refuse to play hide and seek?",
-      "options": ["Makes everyone cry", "No friends", "Too smelly", "Bad at hiding"],
-      "answer": "Makes everyone cry"
-    },
-    {
-      "question": "What do you call an Indian who's always late?",
-      "options": ["Indian Standard Time", "Late bahadur", "Tardy taj", "Delayed don"],
-      "answer": "Indian Standard Time"
-    },
-    {
-      "question": "Why did the Indian broom go to college?",
-      "options": ["To get a sweepstakes degree", "Education", "Peer pressure", "Clean knowledge"],
-      "answer": "To get a sweepstakes degree"
-    },
-    {
-      "question": "What do you call an Indian magician's cow?",
-      "options": ["Abra-ka-doodh", "Magic moo", "Illusion cattle", "Hocus moocus"],
-      "answer": "Abra-ka-doodh"
-    },
-    {
-      "question": "Why did the Indian smartphone get glasses?",
-      "options": ["Too much screen time", "Old age", "Fashion", "Blurry photos"],
-      "answer": "Too much screen time"
-    },
-    {
-      "question": "What's an Indian plumber's favorite music?",
-      "options": ["Pipe-dream music", "Tap tunes", "Leak beats", "Drain rap"],
-      "answer": "Pipe-dream music"
-    },
-    {
-      "question": "Why did the Indian calendar get arrested?",
-      "options": ["Too many dates", "Forgot holidays", "Time crime", "Illegal months"],
-      "answer": "Too many dates"
-    },
-    {
-      "question": "What do you call an Indian astronaut's pet?",
-      "options": ["Laika 2.0", "Space dog", "Rocket pet", "Orbit animal"],
-      "answer": "Laika 2.0"
-    },
-    {
-      "question": "Why did the Indian dictionary gain weight?",
-      "options": ["Too many meanings", "Bookworm diet", "Thick cover", "Paper calories"],
-      "answer": "Too many meanings"
+      "english": {
+        "question": "What do you call a fish with no eyes?",
+        "options": ["Blindfish", "Fsh", "A jellyfish", "A sad fish"],
+        "answer": "Fsh"
+      },
+      "hinglish": {
+        "question": "Aankhon ke bina machhli ko kya kehte hain?",
+        "options": ["Andhi machhli", "Fsh", "Jellyfish", "Udass machhli"],
+        "answer": "Fsh"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the man put his money in the blender?",
+        "options": ["He wanted to make liquid assets", "He was bored", "He hated money", "He thought it was a bank"],
+        "answer": "He wanted to make liquid assets"
+      },
+      "hinglish": {
+        "question": "Aadmi ne paise blender mein kyun daale?",
+        "options": ["Liquid assets banane ke liye", "Bored tha", "Paiso se nafrat thi", "Use laga bank hai"],
+        "answer": "Liquid assets banane ke liye"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a dinosaur with a vocabulary of 500 words?",
+        "options": ["Thesaurus", "Smartasaurus", "Dino Professor", "Wordosaurus"],
+        "answer": "Thesaurus"
+      },
+      "hinglish": {
+        "question": "500 shabdon ki vocabulary wale dinosaur ko kya kehte hain?",
+        "options": ["Thesaurus", "Smartasaurus", "Dino Professor", "Wordosaurus"],
+        "answer": "Thesaurus"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the invisible man turn down the job offer?",
+        "options": ["He couldn't see himself doing it", "They saw through him", "The salary was transparent", "He wasn't visible for interview"],
+        "answer": "He couldn't see himself doing it"
+      },
+      "hinglish": {
+        "question": "Invisible man ne job offer kyun reject kar di?",
+        "options": ["Khud ko woh kaam karte hue nahi dekh paaya", "Unhone uske through dekh liya", "Salary transparent thi", "Interview ke liye visible nahi tha"],
+        "answer": "Khud ko woh kaam karte hue nahi dekh paaya"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you get when you cross a sheep and a kangaroo?",
+        "options": ["A woolly jumper", "A confused animal", "Sheeparoo", "A bouncing lamb"],
+        "answer": "A woolly jumper"
+      },
+      "hinglish": {
+        "question": "Bhed aur kangaroo ko cross karne par kya milta hai?",
+        "options": ["Woolly jumper", "Confused janwar", "Sheeparoo", "Uchalta hua lamb"],
+        "answer": "Woolly jumper"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone go to therapy?",
+        "options": ["It had too many issues", "It was feeling app-rehensive", "It needed to process things", "It had screen addiction"],
+        "answer": "It was feeling app-rehensive"
+      },
+      "hinglish": {
+        "question": "Smartphone therapy mein kyun gaya?",
+        "options": ["Bahut saare issues the", "App-rehensive feel kar raha tha", "Cheezein process karni thi", "Screen addiction tha"],
+        "answer": "App-rehensive feel kar raha tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What's a vampire's favorite fruit?",
+        "options": ["Blood orange", "Neck-tarine", "Count Dracula-berry", "Bite-apple"],
+        "answer": "Blood orange"
+      },
+      "hinglish": {
+        "question": "Vampire ka favorite fruit kaunsa hai?",
+        "options": ["Blood orange", "Neck-tarine", "Count Dracula-berry", "Bite-apple"],
+        "answer": "Blood orange"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the calendar break up with the diary?",
+        "options": ["It needed more dates", "It was tired of daily commitments", "The diary was too dated", "It wanted a fresh start"],
+        "answer": "It needed more dates"
+      },
+      "hinglish": {
+        "question": "Calendar ne diary ko breakup kyun kiya?",
+        "options": ["Use zyada dates chahiye the", "Daily commitments se thak gaya tha", "Diary outdated thi", "Fresh start chahiye tha"],
+        "answer": "Use zyada dates chahiye the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "A sad bear", "A hungry bear", "A dentist's nightmare"],
+        "answer": "A gummy bear"
+      },
+      "hinglish": {
+        "question": "Daanton ke bina bhalu ko kya kehte hain?",
+        "options": ["Gummy bear", "Udass bhalu", "Bhukha bhalu", "Dentist ka nightmare"],
+        "answer": "Gummy bear"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the photo go to jail?",
+        "options": ["It was framed", "It was too negative", "It was caught developing", "It stole a shot"],
+        "answer": "It was framed"
+      },
+      "hinglish": {
+        "question": "Photo jail kyun gayi?",
+        "options": ["Kyuki usko frame kiya gaya tha", "Bahut negative thi", "Developing pakdi gayi", "Shot chura liya tha"],
+        "answer": "Kyuki usko frame kiya gaya tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "A spaghetti imposter", "A noodle doppelganger"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Spaghetti imposter", "Noodle doppelganger"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the banana go to the doctor?",
+        "options": ["It wasn't peeling well", "It had a split personality", "It was yellow with fever", "It needed a potassium boost"],
+        "answer": "It wasn't peeling well"
+      },
+      "hinglish": {
+        "question": "Kela doctor ke paas kyun gaya?",
+        "options": ["Achhe se peel nahi ho raha tha", "Split personality thi", "Bukhaar se peela ho gaya tha", "Potassium boost chahiye tha"],
+        "answer": "Achhe se peel nahi ho raha tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a snowman with a six-pack?",
+        "options": ["An abdominal snowman", "A fit flake", "Jacked Frost", "A cold muscleman"],
+        "answer": "An abdominal snowman"
+      },
+      "hinglish": {
+        "question": "Six-pack wale snowman ko kya kehte hain?",
+        "options": ["Abdominal snowman", "Fit flake", "Jacked Frost", "Cold muscleman"],
+        "answer": "Abdominal snowman"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the golfer wear two pairs of pants?",
+        "options": ["In case he got a hole in one", "He forgot he was already wearing one", "For extra comfort", "To impress his caddy"],
+        "answer": "In case he got a hole in one"
+      },
+      "hinglish": {
+        "question": "Golfer ne do pants kyun pehne the?",
+        "options": ["Hole in one hone ki sochkar", "Bhool gaya tha pehle se pehna hai", "Extra comfort ke liye", "Caddy ko impress karne ke liye"],
+        "answer": "Hole in one hone ki sochkar"
+      }
+    },
+    {
+      "english": {
+        "question": "What's brown and sounds like a bell?",
+        "options": ["Dung", "A brown bell", "A chocolate gong", "A rusty bell"],
+        "answer": "Dung"
+      },
+      "hinglish": {
+        "question": "Kya cheez brown hai aur bell ki tarah awaz karti hai?",
+        "options": ["Gobar", "Brown bell", "Chocolate gong", "Rusty bell"],
+        "answer": "Gobar"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the chicken join a band?",
+        "options": ["Because it had the drumsticks", "To cross the road differently", "It was tired of laying eggs", "To meet chicks"],
+        "answer": "Because it had the drumsticks"
+      },
+      "hinglish": {
+        "question": "Murgi band mein kyun shamil hui?",
+        "options": ["Kyuki uske paas drumsticks the", "Road alag tarah se cross karne ke liye", "Ande dena se thak gayi thi", "Chicks milne ke liye"],
+        "answer": "Kyuki uske paas drumsticks the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a sleeping bull?",
+        "options": ["A bulldozer", "A bullnap", "A snoring bull", "A bull in dreamland"],
+        "answer": "A bulldozer"
+      },
+      "hinglish": {
+        "question": "Sote hue bull ko kya kehte hain?",
+        "options": ["Bulldozer", "Bullnap", "Snoring bull", "Dreamland mein bull"],
+        "answer": "Bulldozer"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the math book look worried?",
+        "options": ["It had too many problems", "It was afraid of being divided", "It couldn't find its x", "It was negative"],
+        "answer": "It had too many problems"
+      },
+      "hinglish": {
+        "question": "Maths ki kitab chintit kyun thi?",
+        "options": ["Bahut problems the", "Divide hone se darr lag raha tha", "X nahi mil raha tha", "Negative thi"],
+        "answer": "Bahut problems the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear caught in the rain?",
+        "options": ["A drizzly bear", "A wet teddy", "A soaked grizzly", "A bear umbrella"],
+        "answer": "A drizzly bear"
+      },
+      "hinglish": {
+        "question": "Barish mein phanse bhalu ko kya kehte hain?",
+        "options": ["Drizzly bear", "Wet teddy", "Soaked grizzly", "Bear umbrella"],
+        "answer": "Drizzly bear"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fish wearing a bowtie?",
+        "options": ["Sofishticated", "A formal fish", "A fishy gentleman", "A tuxedo fish"],
+        "answer": "Sofishticated"
+      },
+      "hinglish": {
+        "question": "Bowtie pehne machhli ko kya kehte hain?",
+        "options": ["Sofishticated", "Formal machhli", "Fishy gentleman", "Tuxedo fish"],
+        "answer": "Sofishticated"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the scarecrow win an Oscar?",
+        "options": ["He was outstanding in his field", "He had great stage presence", "His performance was wooden", "He scared the judges"],
+        "answer": "He was outstanding in his field"
+      },
+      "hinglish": {
+        "question": "Scarecrow ne Oscar kyun jeeta?",
+        "options": ["Apne field mein outstanding tha", "Stage presence zabardast thi", "Performance wooden tha", "Judges ko dara diya"],
+        "answer": "Apne field mein outstanding tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a cow with no legs?",
+        "options": ["Ground beef", "A sad cow", "A milk puddle", "A legless bovine"],
+        "answer": "Ground beef"
+      },
+      "hinglish": {
+        "question": "Paeron ke bina gaay ko kya kehte hain?",
+        "options": ["Ground beef", "Udass gaay", "Milk puddle", "Legless bovine"],
+        "answer": "Ground beef"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the bicycle fall over?",
+        "options": ["Because it was two-tired", "It was unbalanced", "The brakes failed", "A ghost pushed it"],
+        "answer": "Because it was two-tired"
+      },
+      "hinglish": {
+        "question": "Cycle kyun gir gayi?",
+        "options": ["Kyuki vo two-tired thi", "Unbalanced thi", "Brakes fail ho gaye", "Bhoot ne dhakka diya"],
+        "answer": "Kyuki vo two-tired thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a dog magician?",
+        "options": ["A labracadabrador", "A pugician", "A bark magician", "Houdogini"],
+        "answer": "A labracadabrador"
+      },
+      "hinglish": {
+        "question": "Dog magician ko kya kehte hain?",
+        "options": ["Labracadabrador", "Pugician", "Bark magician", "Houdogini"],
+        "answer": "Labracadabrador"
+      }
+    },
+    {
+      "english": {
+        "question": "Why don't scientists trust atoms?",
+        "options": ["Because they make up everything", "They're too small", "They're unstable", "They're always bonding"],
+        "answer": "Because they make up everything"
+      },
+      "hinglish": {
+        "question": "Scientists atoms par bharosa kyun nahi karte?",
+        "options": ["Kyuki vo sab kuch bana lete hain", "Bahut chhote hote hain", "Unstable hote hain", "Hamesha bonding karte hain"],
+        "answer": "Kyuki vo sab kuch bana lete hain"
+      }
+    },
+    {
+      "english": {
+        "question": "What's the best way to watch a fly fishing tournament?",
+        "options": ["On the edge of your seat", "With binoculars", "On TV", "With mosquito repellent"],
+        "answer": "On the edge of your seat"
+      },
+      "hinglish": {
+        "question": "Fly fishing tournament dekhne ka best tareeka kya hai?",
+        "options": ["Apni seat ke edge par", "Binoculars se", "TV par", "Mosquito repellent ke saath"],
+        "answer": "Apni seat ke edge par"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the cookie go to the doctor?",
+        "options": ["It was feeling crummy", "It had a chip", "It was too sweet", "It needed a check-up"],
+        "answer": "It was feeling crummy"
+      },
+      "hinglish": {
+        "question": "Cookie doctor ke paas kyun gayi?",
+        "options": ["Crummy feel kar rahi thi", "Chip thi", "Bahut sweet thi", "Check-up chahiye tha"],
+        "answer": "Crummy feel kar rahi thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no socks?",
+        "options": ["Barefoot", "A cold bear", "A sockless bear", "A free-toed bear"],
+        "answer": "Barefoot"
+      },
+      "hinglish": {
+        "question": "Bina socks wale bhalu ko kya kehte hain?",
+        "options": ["Barefoot", "Cold bear", "Sockless bear", "Free-toed bear"],
+        "answer": "Barefoot"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone need glasses?",
+        "options": ["It lost its contacts", "Its vision was blurry", "It was too screen-sighted", "It needed an eye-con"],
+        "answer": "It lost its contacts"
+      },
+      "hinglish": {
+        "question": "Smartphone ko glasses kyun chahiye the?",
+        "options": ["Contacts kho gaye the", "Vision blurry thi", "Screen-sighted ho gaya tha", "Eye-con chahiye tha"],
+        "answer": "Contacts kho gaye the"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the gym close down?",
+        "options": ["It just didn’t work out", "Too many people were skipping", "The owner got tired", "The equipment was exhausted"],
+        "answer": "It just didn’t work out"
+      },
+      "hinglish": {
+        "question": "Gym band kyun hui?",
+        "options": ["Workout hi nahi hua", "Log skip kar rahe the", "Malik thak gaya", "Equipment exhauted ho gaya"],
+        "answer": "Workout hi nahi hua"
+      }
+    },
+    {
+      "english": {
+        "question": "What’s a ghost’s favorite dessert?",
+        "options": ["Boo-berry pie", "I-scream", "Spook-etti", "Vanilla boo-nilla"],
+        "answer": "I-scream"
+      },
+      "hinglish": {
+        "question": "Bhoot ka favorite dessert?",
+        "options": ["Boo-berry pie", "I-scream", "Spook-etti", "Vanilla boo-nilla"],
+        "answer": "I-scream"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the student eat his homework?",
+        "options": ["The teacher said it was a piece of cake", "He was hungry for knowledge", "His dog was on a diet", "It was a sandwich book report"],
+        "answer": "The teacher said it was a piece of cake"
+      },
+      "hinglish": {
+        "question": "Student ne homework kyun kha liya?",
+        "options": ["Teacher ne kaha tha 'piece of cake hai'", "Knowledge ke liye bhookha tha", "Uska dog diet pe tha", "Sandwich book report tha"],
+        "answer": "Teacher ne kaha tha 'piece of cake hai'"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a lazy kangaroo?",
+        "options": ["A pouch potato", "A jump-less joey", "A sleepy hopper", "A marsupial couch"],
+        "answer": "A pouch potato"
+      },
+      "hinglish": {
+        "question": "Aalsi kangaroo ko kya kehte hain?",
+        "options": ["Pouch potato", "Jump-less joey", "Sleepy hopper", "Marsupial couch"],
+        "answer": "Pouch potato"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the scarecrow win a medal?",
+        "options": ["Because he was outstanding in his field", "He scared the most crows", "He had straw-dinary skills", "The judges were corny"],
+        "answer": "Because he was outstanding in his field"
+      },
+      "hinglish": {
+        "question": "Scarecrow ko medal kyun mila?",
+        "options": ["Apne field mein outstanding tha", "Sabse zyada crows daraaye", "Straw-dinary skills the", "Judges corny the"],
+        "answer": "Apne field mein outstanding tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What’s a tree’s least favorite month?",
+        "options": ["Sep-timber", "Janu-berry", "Febru-tree", "Octo-bark"],
+        "answer": "Sep-timber"
+      },
+      "hinglish": {
+        "question": "Ped ka least favorite month?",
+        "options": ["Sep-timber", "Janu-berry", "Febru-tree", "Octo-bark"],
+        "answer": "Sep-timber"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the golfer wear two pairs of pants?",
+        "options": ["In case he got a hole in one", "He forgot the first pair", "For extra swag", "To match his caddy"],
+        "answer": "In case he got a hole in one"
+      },
+      "hinglish": {
+        "question": "Golfer ne do pants kyun pehne?",
+        "options": ["Hole-in-one hone par", "Pehla pair bhool gaya", "Extra swag ke liye", "Caddy se match karne"],
+        "answer": "Hole-in-one hone par"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "Noodle imposter", "Spag-hoax"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Noodle imposter", "Spag-hoax"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the tomato turn red?",
+        "options": ["It saw the salad dressing", "It was ripe", "It got sunburned", "It was embarrassed"],
+        "answer": "It saw the salad dressing"
+      },
+      "hinglish": {
+        "question": "Tamatar laal kyun hua?",
+        "options": ["Salad dressing dekh li", "Pak gaya tha", "Sunburn ho gaya", "Sharmaya hua"],
+        "answer": "Salad dressing dekh li"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "A sad bear", "Toothless terror", "Mumble bear"],
+        "answer": "A gummy bear"
+      },
+      "hinglish": {
+        "question": "Bina daanto wale bear ko kya kehte hain?",
+        "options": ["Gummy bear", "Udass bhalu", "Toothless terror", "Mumble bear"],
+        "answer": "Gummy bear"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the math book look sad?",
+        "options": ["It had too many problems", "It was divided", "It couldn’t find its x", "It was negative"],
+        "answer": "It had too many problems"
+      },
+      "hinglish": {
+        "question": "Maths book udas kyun thi?",
+        "options": ["Problems bahut the", "Divide ho gayi thi", "X nahi mil raha tha", "Negative thi"],
+        "answer": "Problems bahut the"
+      }
+    },
+    {
+      "english": {
+        "question": "What did the ocean say to the beach?",
+        "options": ["Nothing, it just waved", "Stop coming so close", "You’re too sandy", "I’m tide of you"],
+        "answer": "Nothing, it just waved"
+      },
+      "hinglish": {
+        "question": "Samundar ne beach se kya kaha?",
+        "options": ["Kuch nahi, bas wave kiya", "Itna close mat aa", "Tum bahut sandy ho", "Main tumse tide ho gaya"],
+        "answer": "Kuch nahi, bas wave kiya"
+      }
+    },
+    {
+      "english": {
+        "question": "Why don’t eggs tell jokes?",
+        "options": ["They’d crack each other up", "They’re not funny", "They might get scrambled", "They’re too yolky"],
+        "answer": "They’d crack each other up"
+      },
+      "hinglish": {
+        "question": "Ande joke kyun nahi sunate?",
+        "options": ["Ek doosre ko crack kar denge", "Funny nahi hote", "Scrambled ho sakte hain", "Bahut yolky hote hain"],
+        "answer": "Ek doosre ko crack kar denge"
+      }
+    },
+    {
+      "english": {
+        "question": "What’s orange and sounds like a parrot?",
+        "options": ["A carrot", "An orange parrot", "A talking fruit", "A tropical vegetable"],
+        "answer": "A carrot"
+      },
+      "hinglish": {
+        "question": "Kya cheez orange hai aur parrot ki tarah awaz karti hai?",
+        "options": ["Gajar", "Orange parrot", "Talking fruit", "Tropical vegetable"],
+        "answer": "Gajar"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the computer go to the doctor?",
+        "options": ["It had a virus", "Too much screen time", "It was feeling buggy", "Its memory was failing"],
+        "answer": "It had a virus"
+      },
+      "hinglish": {
+        "question": "Computer doctor ke paas kyun gaya?",
+        "options": ["Virus ho gaya tha", "Screen time bahut ho gaya", "Buggy feel kar raha tha", "Memory fail ho rahi thi"],
+        "answer": "Virus ho gaya tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "Noodle pretender", "Spaghetti impersonator"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Noodle pretender", "Spaghetti impersonator"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the bicycle fall over?",
+        "options": ["Because it was two-tired", "It was unbalanced", "The brakes failed", "A ghost pushed it"],
+        "answer": "Because it was two-tired"
+      },
+      "hinglish": {
+        "question": "Cycle kyun gir gayi?",
+        "options": ["Kyuki two-tired thi", "Unbalanced thi", "Brakes fail ho gaye", "Bhoot ne dhakka diya"],
+        "answer": "Kyuki two-tired thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a dog magician?",
+        "options": ["A labracadabrador", "A pugician", "A bark magician", "Houdogini"],
+        "answer": "A labracadabrador"
+      },
+      "hinglish": {
+        "question": "Dog magician ko kya kehte hain?",
+        "options": ["Labracadabrador", "Pugician", "Bark magician", "Houdogini"],
+        "answer": "Labracadabrador"
+      }
+    },
+    {
+      "english": {
+        "question": "Why don’t scientists trust atoms?",
+        "options": ["Because they make up everything", "They’re too small", "They’re unstable", "They’re always bonding"],
+        "answer": "Because they make up everything"
+      },
+      "hinglish": {
+        "question": "Scientists atoms par bharosa kyun nahi karte?",
+        "options": ["Kyuki vo sab kuch bana lete hain", "Bahut chhote hote hain", "Unstable hote hain", "Hamesha bonding karte hain"],
+        "answer": "Kyuki vo sab kuch bana lete hain"
+      }
+    },
+    {
+      "english": {
+        "question": "What’s the best way to watch a fly fishing tournament?",
+        "options": ["On the edge of your seat", "With binoculars", "On TV", "With mosquito repellent"],
+        "answer": "On the edge of your seat"
+      },
+      "hinglish": {
+        "question": "Fly fishing tournament dekhne ka best tareeka kya hai?",
+        "options": ["Apni seat ke edge par", "Binoculars se", "TV par", "Mosquito repellent ke saath"],
+        "answer": "Apni seat ke edge par"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the cookie go to the doctor?",
+        "options": ["It was feeling crummy", "It had a chip", "It was too sweet", "It needed a check-up"],
+        "answer": "It was feeling crummy"
+      },
+      "hinglish": {
+        "question": "Cookie doctor ke paas kyun gayi?",
+        "options": ["Crummy feel kar rahi thi", "Chip thi", "Bahut sweet thi", "Check-up chahiye tha"],
+        "answer": "Crummy feel kar rahi thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no socks?",
+        "options": ["Barefoot", "A cold bear", "A sockless bear", "A free-toed bear"],
+        "answer": "Barefoot"
+      },
+      "hinglish": {
+        "question": "Bina socks wale bhalu ko kya kehte hain?",
+        "options": ["Barefoot", "Cold bear", "Sockless bear", "Free-toed bear"],
+        "answer": "Barefoot"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone need glasses?",
+        "options": ["It lost its contacts", "Its vision was blurry", "It was too screen-sighted", "It needed an eye-con"],
+        "answer": "It lost its contacts"
+      },
+      "hinglish": {
+        "question": "Smartphone ko glasses kyun chahiye the?",
+        "options": ["Contacts kho gaye the", "Vision blurry thi", "Screen-sighted ho gaya tha", "Eye-con chahiye tha"],
+        "answer": "Contacts kho gaye the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fish with a tie?",
+        "options": ["Sofishticated", "Corporate fish", "Tie-fish", "Fish executive"],
+        "answer": "Sofishticated"
+      },
+      "hinglish": {
+        "question": "Tie pehne fish ko kya kehte hain?",
+        "options": ["Sofishticated", "Corporate fish", "Tie-fish", "Fish executive"],
+        "answer": "Sofishticated"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the WiFi break up with the Internet?",
+        "options": ["There was no connection", "It needed space", "Too much bandwidth usage", "It found someone more stable"],
+        "answer": "There was no connection"
+      },
+      "hinglish": {
+        "question": "WiFi ne Internet ko breakup kyun kiya?",
+        "options": ["Connection nahi tha", "Space chahiye tha", "Bandwidth usage zyada tha", "Koi stable mil gaya"],
+        "answer": "Connection nahi tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a snowman in summer?",
+        "options": ["A puddle", "Water you talking about?", "Melted memories", "Liquid sunshine"],
+        "answer": "A puddle"
+      },
+      "hinglish": {
+        "question": "Summer mein snowman ko kya kehte hain?",
+        "options": ["Puddle", "Water you talking about?", "Melted memories", "Liquid sunshine"],
+        "answer": "Puddle"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone get glasses?",
+        "options": ["It lost its contacts", "To reduce screen time", "For better vision", "It was too bright"],
+        "answer": "It lost its contacts"
+      },
+      "hinglish": {
+        "question": "Smartphone ne glasses kyun liye?",
+        "options": ["Contacts kho gaye the", "Screen time kam karne ke liye", "Better vision ke liye", "Bahut bright tha"],
+        "answer": "Contacts kho gaye the"
+      }
+    },
+    {
+      "english": {
+        "question": "What did the left eye say to the right eye?",
+        "options": ["Between us, something smells!", "Stop giving me looks", "Let’s stick together", "You’re always right"],
+        "answer": "Between us, something smells!"
+      },
+      "hinglish": {
+        "question": "Left eye ne right eye se kya kaha?",
+        "options": ["Hum dono ke beech, kuch badboo aa rahi hai!", "Mujhe looks dena band kar", "Saath rehte hain", "Tum hamesha right ho"],
+        "answer": "Hum dono ke beech, kuch badboo aa rahi hai!"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone enroll in school?",
+        "options": ["To improve its core curriculum", "It wanted to be a smart-er phone", "To get more app-titude", "It needed to charge its knowledge"],
+        "answer": "It wanted to be a smart-er phone"
+      },
+      "hinglish": {
+        "question": "Smartphone school kyun gaya?",
+        "options": ["Core curriculum improve karne", "Smart-er phone banna tha", "App-titude badhane", "Knowledge charge karne"],
+        "answer": "Smart-er phone banna tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a cow that just gave birth?",
+        "options": ["Decalfinated", "A moo-ther", "A milk producer", "Holy cow!"],
+        "answer": "Decalfinated"
+      },
+      "hinglish": {
+        "question": "Abhi-abhi baccha paida karne wali gaay ko kya kehte hain?",
+        "options": ["Decalfinated", "Moo-ther", "Doodh factory", "Holy cow!"],
+        "answer": "Decalfinated"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the spreadsheet break up with the database?",
+        "options": ["There was no relational future", "Too many cells were involved", "The queries were getting complex", "It found a better table"],
+        "answer": "There was no relational future"
+      },
+      "hinglish": {
+        "question": "Spreadsheet ne database ko breakup kyun kiya?",
+        "options": ["Relational future nahi tha", "Bahut sare cells the", "Queries complex ho gayi", "Better table mil gaya"],
+        "answer": "Relational future nahi tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What's a cloud's favorite music genre?",
+        "options": ["Fog metal", "Condensation pop", "Thunder rap", "Cirrus"],
+        "answer": "Fog metal"
+      },
+      "hinglish": {
+        "question": "Cloud ka favorite music genre?",
+        "options": ["Fog metal", "Condensation pop", "Thunder rap", "Cirrus"],
+        "answer": "Fog metal"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the bicycle get promoted at work?",
+        "options": ["It was outstanding in its field", "It always cycled through tasks", "It had great handle on things", "It never tired"],
+        "answer": "It was outstanding in its field"
+      },
+      "hinglish": {
+        "question": "Cycle ko promotion kyun mila?",
+        "options": ["Apne field mein outstanding tha", "Tasks cycle karta tha", "Cheezo pe handle accha tha", "Kabhi thakta nahi"],
+        "answer": "Apne field mein outstanding tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a group of musical avocados?",
+        "options": ["Guacapella", "The Avo-cadenzas", "Mash-ups", "Pit percussion"],
+        "answer": "Guacapella"
+      },
+      "hinglish": {
+        "question": "Musical avocados ke group ko kya kehte hain?",
+        "options": ["Guacapella", "Avo-cadenzas", "Mash-ups", "Pit percussion"],
+        "answer": "Guacapella"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the math book look so tense?",
+        "options": ["It had too many problems", "It was full of integers", "The plot was too linear", "It couldn't find its x"],
+        "answer": "It had too many problems"
+      },
+      "hinglish": {
+        "question": "Maths kitab itni tense kyun thi?",
+        "options": ["Problems bahut the", "Integers se bhara hua", "Plot linear tha", "X nahi mil raha"],
+        "answer": "Problems bahut the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "Noodle imposter", "Spaghoax"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Noodle imposter", "Spaghoax"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the tomato turn red?",
+        "options": ["It saw the salad dressing", "It was ripe", "It got sunburned", "It was embarrassed"],
+        "answer": "It saw the salad dressing"
+      },
+      "hinglish": {
+        "question": "Tamatar laal kyun hua?",
+        "options": ["Salad dressing dekh li", "Pak gaya tha", "Sunburn ho gaya", "Sharmaya hua"],
+        "answer": "Salad dressing dekh li"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "A sad bear", "Toothless terror", "Mumble bear"],
+        "answer": "A gummy bear"
+      },
+      "hinglish": {
+        "question": "Bina daanto wale bear ko kya kehte hain?",
+        "options": ["Gummy bear", "Udass bhalu", "Toothless terror", "Mumble bear"],
+        "answer": "Gummy bear"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the PowerPoint presentation go to therapy?",
+        "options": ["It had too many unresolved slides", "It was feeling transitional", "It needed to process its content", "It had animation issues"],
+        "answer": "It was feeling transitional"
+      },
+      "hinglish": {
+        "question": "PowerPoint presentation therapy kyun gayi?",
+        "options": ["Bahut sare unresolved slides the", "Transitional feel kar rahi thi", "Content process karna tha", "Animation issues the"],
+        "answer": "Transitional feel kar rahi thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a group of musical laptops?",
+        "options": ["A Dell-ightful choir", "MacBook orchestra", "Notebook harmonies", "The USB-nd"],
+        "answer": "The USB-nd"
+      },
+      "hinglish": {
+        "question": "Musical laptops ke group ko kya kehte hain?",
+        "options": ["Dell-ightful choir", "MacBook orchestra", "Notebook harmonies", "USB-nd"],
+        "answer": "USB-nd"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the email refuse to be forwarded?",
+        "options": ["It wanted to stay in the original thread", "It was CC-ed too many times", "It had attachment issues", "It wasn't reply material"],
+        "answer": "It wasn't reply material"
+      },
+      "hinglish": {
+        "question": "Email forward kyun nahi hona chahta tha?",
+        "options": ["Original thread mein rehna chahta tha", "Bahut baar CC ho chuka tha", "Attachment issues the", "Reply material nahi tha"],
+        "answer": "Reply material nahi tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What's a computer's favorite snack?",
+        "options": ["Microchips", "Cookies", "Spam", "Hard drive crackers"],
+        "answer": "Microchips"
+      },
+      "hinglish": {
+        "question": "Computer ka favorite snack?",
+        "options": ["Microchips", "Cookies", "Spam", "Hard drive crackers"],
+        "answer": "Microchips"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone break up with the charger?",
+        "options": ["It needed more space", "The connection was unstable", "It found a wireless relationship", "Too much current drama"],
+        "answer": "It found a wireless relationship"
+      },
+      "hinglish": {
+        "question": "Smartphone ne charger ko breakup kyun kiya?",
+        "options": ["Space chahiye tha", "Connection unstable tha", "Wireless relationship mil gaya", "Current drama zyada tha"],
+        "answer": "Wireless relationship mil gaya"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fish with a tie?",
+        "options": ["Sofishticated", "Corporate fish", "Tie-fish", "Fish executive"],
+        "answer": "Sofishticated"
+      },
+      "hinglish": {
+        "question": "Tie pehne fish ko kya kehte hain?",
+        "options": ["Sofishticated", "Corporate fish", "Tie-fish", "Fish executive"],
+        "answer": "Sofishticated"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the WiFi break up with the Internet?",
+        "options": ["There was no connection", "It needed space", "Too much bandwidth usage", "It found someone more stable"],
+        "answer": "There was no connection"
+      },
+      "hinglish": {
+        "question": "WiFi ne Internet ko breakup kyun kiya?",
+        "options": ["Connection nahi tha", "Space chahiye tha", "Bandwidth usage zyada tha", "Koi stable mil gaya"],
+        "answer": "Connection nahi tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a snowman in summer?",
+        "options": ["A puddle", "Water you talking about?", "Melted memories", "Liquid sunshine"],
+        "answer": "A puddle"
+      },
+      "hinglish": {
+        "question": "Summer mein snowman ko kya kehte hain?",
+        "options": ["Puddle", "Water you talking about?", "Melted memories", "Liquid sunshine"],
+        "answer": "Puddle"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone get glasses?",
+        "options": ["It lost its contacts", "To reduce screen time", "For better vision", "It was too bright"],
+        "answer": "It lost its contacts"
+      },
+      "hinglish": {
+        "question": "Smartphone ne glasses kyun liye?",
+        "options": ["Contacts kho gaye the", "Screen time kam karne ke liye", "Better vision ke liye", "Bahut bright tha"],
+        "answer": "Contacts kho gaye the"
+      }
+    },
+    {
+      "english": {
+        "question": "What did the left eye say to the right eye?",
+        "options": ["Between us, something smells!", "Stop giving me looks", "Let's stick together", "You're always right"],
+        "answer": "Between us, something smells!"
+      },
+      "hinglish": {
+        "question": "Left eye ne right eye se kya kaha?",
+        "options": ["Hum dono ke beech, kuch badboo aa rahi hai!", "Mujhe looks dena band kar", "Saath rehte hain", "Tum hamesha right ho"],
+        "answer": "Hum dono ke beech, kuch badboo aa rahi hai!"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the golfer bring a ladder to the game?",
+        "options": ["To reach new heights in golf", "He heard it was a high course", "For hole-in-one celebrations", "To climb out of sand traps"],
+        "answer": "He heard it was a high course"
+      },
+      "hinglish": {
+        "question": "Golfer ladder kyun laya?",
+        "options": ["Golf mein naye heights tak pahunchne ke liye", "Usne suna ye high course hai", "Hole-in-one celebrate karne ke liye", "Sand traps se nikalne ke liye"],
+        "answer": "Usne suna ye high course hai"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "Noodle pretender", "Spaghetti impersonator"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Noodle pretender", "Spaghetti impersonator"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the tomato turn red?",
+        "options": ["It saw the salad dressing", "It was embarrassed", "It got sunburned", "It was ripe"],
+        "answer": "It saw the salad dressing"
+      },
+      "hinglish": {
+        "question": "Tamatar laal kyun hua?",
+        "options": ["Salad dressing dekh li", "Sharmaya hua", "Sunburn ho gaya", "Pak gaya tha"],
+        "answer": "Salad dressing dekh li"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a bear with no teeth?",
+        "options": ["A gummy bear", "A sad bear", "Toothless wonder", "Mumble bear"],
+        "answer": "A gummy bear"
+      },
+      "hinglish": {
+        "question": "Bina daanto wale bear ko kya kehte hain?",
+        "options": ["Gummy bear", "Udass bhalu", "Toothless wonder", "Mumble bear"],
+        "answer": "Gummy bear"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the math book look sad?",
+        "options": ["It had too many problems", "It was divided", "It couldn't find its x", "It was negative"],
+        "answer": "It had too many problems"
+      },
+      "hinglish": {
+        "question": "Maths book udas kyun thi?",
+        "options": ["Problems bahut the", "Divide ho gayi thi", "X nahi mil raha tha", "Negative thi"],
+        "answer": "Problems bahut the"
+      }
+    },
+    {
+      "english": {
+        "question": "What did the ocean say to the beach?",
+        "options": ["Nothing, it just waved", "Stop coming so close", "You're too sandy", "I'm tide of you"],
+        "answer": "Nothing, it just waved"
+      },
+      "hinglish": {
+        "question": "Samundar ne beach se kya kaha?",
+        "options": ["Kuch nahi, bas wave kiya", "Itna close mat aa", "Tum bahut sandy ho", "Main tumse tide ho gaya"],
+        "answer": "Kuch nahi, bas wave kiya"
+      }
+    },
+    {
+      "english": {
+        "question": "Why don't eggs tell jokes?",
+        "options": ["They'd crack each other up", "They're not funny", "They might get scrambled", "They're too yolky"],
+        "answer": "They'd crack each other up"
+      },
+      "hinglish": {
+        "question": "Ande joke kyun nahi sunate?",
+        "options": ["Ek doosre ko crack kar denge", "Funny nahi hote", "Scrambled ho sakte hain", "Bahut yolky hote hain"],
+        "answer": "Ek doosre ko crack kar denge"
+      }
+    },
+    {
+      "english": {
+        "question": "What's orange and sounds like a parrot?",
+        "options": ["A carrot", "An orange parrot", "A talking fruit", "A tropical vegetable"],
+        "answer": "A carrot"
+      },
+      "hinglish": {
+        "question": "Kya cheez orange hai aur parrot ki tarah awaz karti hai?",
+        "options": ["Gajar", "Orange parrot", "Talking fruit", "Tropical vegetable"],
+        "answer": "Gajar"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the computer go to the doctor?",
+        "options": ["It had a virus", "Too much screen time", "It was feeling buggy", "Its memory was failing"],
+        "answer": "It had a virus"
+      },
+      "hinglish": {
+        "question": "Computer doctor ke paas kyun gaya?",
+        "options": ["Virus ho gaya tha", "Screen time bahut ho gaya", "Buggy feel kar raha tha", "Memory fail ho rahi thi"],
+        "answer": "Virus ho gaya tha"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the Excel spreadsheet go to the party alone?",
+        "options": ["It couldn't find a plus-one", "All its dates were in different cells", "It was tired of being tabular", "It wanted to avoid pivot drama"],
+        "answer": "All its dates were in different cells"
+      },
+      "hinglish": {
+        "question": "Excel spreadsheet party mein akela kyun gaya?",
+        "options": ["Plus-one nahi mila", "Saare dates alag-alag cells mein the", "Tabular hone se thak gaya tha", "Pivot drama se bachna tha"],
+        "answer": "Saare dates alag-alag cells mein the"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a nervous pepper?",
+        "options": ["Jalapeño business", "A little chili", "Shaky spice", "Pepper anxiety"],
+        "answer": "Jalapeño business"
+      },
+      "hinglish": {
+        "question": "Ghabrate mirch ko kya kehte hain?",
+        "options": ["Jalapeño business", "Thoda chili", "Hilta masala", "Mirch ka tension"],
+        "answer": "Jalapeño business"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the smartphone get a parking ticket?",
+        "options": ["It was parked in the cloud", "It exceeded its data limit", "It forgot to lock its screen", "It was in airplane mode too long"],
+        "answer": "It was parked in the cloud"
+      },
+      "hinglish": {
+        "question": "Smartphone ko parking ticket kyun mila?",
+        "options": ["Cloud mein parked tha", "Data limit exceed kar di", "Screen lock bhool gaya", "Airplane mode mein bahut der tak raha"],
+        "answer": "Cloud mein parked tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What's a programmer's favorite exercise?",
+        "options": ["Algo-rhythms", "Code-lates", "Debug squats", "Python pushups"],
+        "answer": "Algo-rhythms"
+      },
+      "hinglish": {
+        "question": "Programmer ka favorite exercise?",
+        "options": ["Algo-rhythms", "Code-lates", "Debug squats", "Python pushups"],
+        "answer": "Algo-rhythms"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the tomato refuse to answer questions?",
+        "options": ["It didn't want to ketchup", "It was feeling saucy", "It had too many seeds of doubt", "It was paste its bedtime"],
+        "answer": "It didn't want to ketchup"
+      },
+      "hinglish": {
+        "question": "Tamatar ne sawalon ka jawab dena kyun mana kar diya?",
+        "options": ["Ketchup nahi karna chahta tha", "Saucy feel kar raha tha", "Seeds of doubt bahut the", "Bedtime ho chuki thi"],
+        "answer": "Ketchup nahi karna chahta tha"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a fake noodle?",
+        "options": ["An impasta", "A fraudle", "Noodle imposter", "Spaghoax"],
+        "answer": "An impasta"
+      },
+      "hinglish": {
+        "question": "Nakli noodle ko kya kehte hain?",
+        "options": ["Impasta", "Fraudle", "Noodle imposter", "Spaghoax"],
+        "answer": "Impasta"
+      }
+    },
+    {
+      "english": {
+        "question": "Why did the bicycle fall over?",
+        "options": ["Because it was two-tired", "It was unbalanced", "The brakes failed", "A ghost pushed it"],
+        "answer": "Because it was two-tired"
+      },
+      "hinglish": {
+        "question": "Cycle kyun gir gayi?",
+        "options": ["Kyuki two-tired thi", "Unbalanced thi", "Brakes fail ho gaye", "Bhoot ne dhakka diya"],
+        "answer": "Kyuki two-tired thi"
+      }
+    },
+    {
+      "english": {
+        "question": "What do you call a dog magician?",
+        "options": ["A labracadabrador", "A pugician", "A bark magician", "Houdogini"],
+        "answer": "A labracadabrador"
+      },
+      "hinglish": {
+        "question": "Dog magician ko kya kehte hain?",
+        "options": ["Labracadabrador", "Pugician", "Bark magician", "Houdogini"],
+        "answer": "Labracadabrador"
+      }
+    },
+    {
+      "english": {
+        "question": "Why don't scientists trust atoms?",
+        "options": ["Because they make up everything", "They're too small", "They're unstable", "They're always bonding"],
+        "answer": "Because they make up everything"
+      },
+      "hinglish": {
+        "question": "Scientists atoms par bharosa kyun nahi karte?",
+        "options": ["Kyuki vo sab kuch bana lete hain", "Bahut chhote hote hain", "Unstable hote hain", "Hamesha bonding karte hain"],
+        "answer": "Kyuki vo sab kuch bana lete hain"
+      }
+    },
+    {
+      "english": {
+        "question": "What's the best way to watch a fly fishing tournament?",
+        "options": ["On the edge of your seat", "With binoculars", "On TV", "With mosquito repellent"],
+        "answer": "On the edge of your seat"
+      },
+      "hinglish": {
+        "question": "Fly fishing tournament dekhne ka best tareeka kya hai?",
+        "options": ["Apni seat ke edge par", "Binoculars se", "TV par", "Mosquito repellent ke saath"],
+        "answer": "Apni seat ke edge par"
+      }
     }
   ]
 }
