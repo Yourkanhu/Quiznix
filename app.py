@@ -3,25 +3,12 @@ import os
 import json
 import random
 import time
-from pygame import mixer
 from pathlib import Path
 from utils import send_otp, verify_entered_otp
 
-# -------------------- SOUND SYSTEM SETUP --------------------
-def init_sound_system():
-    try:
-        mixer.init()
-        return True
-    except Exception as e:
-        st.error(f"Sound system initialization failed: {str(e)}")
-        return False
-
+# -------------------- SOUND SYSTEM SETUP (STREAMLIT CLOUD COMPATIBLE) --------------------
 def play_sound(sound_type):
-    if not hasattr(play_sound, "initialized"):
-        if not init_sound_system():
-            return False
-        play_sound.initialized = True
-    
+    """HTML5 audio implementation for Streamlit Cloud"""
     sound_files = {
         'click': "assets/sound/click.mp3",
         'correct': "assets/sound/correct.mp3",
@@ -33,14 +20,13 @@ def play_sound(sound_type):
         st.error(f"Sound file not found: {file_path}")
         return False
         
-    try:
-        sound = mixer.Sound(file_path)
-        sound.set_volume(0.5)  # Set volume to 50%
-        sound.play()
-        return True
-    except Exception as e:
-        st.error(f"Error playing sound: {str(e)}")
-        return False
+    audio_html = f"""
+        <audio autoplay>
+            <source src="{file_path}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    """
+    st.components.v1.html(audio_html, height=0)
 
 # -------------------- APP SETUP --------------------
 st.set_page_config(
@@ -444,7 +430,7 @@ elif st.session_state.stage == "quiz":
                     play_sound('wrong')
                     st.error("❌ Incorrect!" if st.session_state.language == "english" else "❌ Incorrect!")
                     answer_text = "Correct Answer:" if st.session_state.language == "english" else "Correct Answer:"
-                    st.info(f"{answer_text} **{q['answer']}**")
+                    st.info(f"{answer_text} *{q['answer']}*")
                 time.sleep(1.5)
                 st.session_state.q_index += 1
                 st.session_state.answer_shown = False
