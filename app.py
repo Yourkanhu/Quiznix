@@ -3,7 +3,6 @@ import os
 import json
 import random
 import time
-import pygame
 from pygame import mixer
 from pathlib import Path
 from utils import send_otp, verify_entered_otp
@@ -11,7 +10,6 @@ from utils import send_otp, verify_entered_otp
 # -------------------- SOUND SYSTEM SETUP --------------------
 def init_sound_system():
     try:
-        pygame.init()
         mixer.init()
         return True
     except Exception as e:
