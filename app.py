@@ -285,7 +285,7 @@ elif st.session_state.stage == "otp":
 # 3. NAME SCREEN
 elif st.session_state.stage == "name":
     st.subheader("Enter Your Name")
-    name = st.text_input("Name", placeholder="John Doe" if st.session_state.language == "english" else "Your Name")
+    name = st.text_input("Name", placeholder="Mo Asad" if st.session_state.language == "english" else "Your Name")
     if st.button("Continue" if st.session_state.language == "english" else "Continue"):
         play_sound('click')
         if name.strip():
