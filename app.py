@@ -3,10 +3,48 @@ import os
 import json
 import random
 import time
+import pygame
+from pygame import mixer
 from pathlib import Path
 from utils import send_otp, verify_entered_otp
 
-# -------------------- SETUP --------------------
+# -------------------- SOUND SYSTEM SETUP --------------------
+def init_sound_system():
+    try:
+        pygame.init()
+        mixer.init()
+        return True
+    except Exception as e:
+        st.error(f"Sound system initialization failed: {str(e)}")
+        return False
+
+def play_sound(sound_type):
+    if not hasattr(play_sound, "initialized"):
+        if not init_sound_system():
+            return False
+        play_sound.initialized = True
+    
+    sound_files = {
+        'click': "assets/sound/click.mp3",
+        'correct': "assets/sound/correct.mp3",
+        'wrong': "assets/sound/wrong.mp3"
+    }
+    
+    file_path = sound_files.get(sound_type)
+    if not file_path or not os.path.exists(file_path):
+        st.error(f"Sound file not found: {file_path}")
+        return False
+        
+    try:
+        sound = mixer.Sound(file_path)
+        sound.set_volume(0.5)  # Set volume to 50%
+        sound.play()
+        return True
+    except Exception as e:
+        st.error(f"Error playing sound: {str(e)}")
+        return False
+
+# -------------------- APP SETUP --------------------
 st.set_page_config(
     page_title="Quiznix",
     page_icon="🧠",
@@ -18,16 +56,13 @@ st.set_page_config(
 USER_DATA_FILE = "user_session.json"
 
 def save_user_session(email, name):
-    """Save user session data to local file"""
     session_data = {"email": email, "name": name, "timestamp": time.time()}
     Path(USER_DATA_FILE).write_text(json.dumps(session_data))
 
 def load_user_session():
-    """Load user session data from local file"""
     try:
         if os.path.exists(USER_DATA_FILE):
             data = json.loads(Path(USER_DATA_FILE).read_text())
-            # Check if session is older than 30 days
             if time.time() - data.get("timestamp", 0) < 30 * 24 * 60 * 60:
                 return data
             else:
@@ -37,11 +72,10 @@ def load_user_session():
     return None
 
 def clear_user_session():
-    """Clear user session data"""
     if os.path.exists(USER_DATA_FILE):
         os.remove(USER_DATA_FILE)
 
-# -------------------- THEME & STYLES --------------------
+# -------------------- ROYAL GREEN THEME --------------------
 st.markdown("""
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
@@ -51,13 +85,13 @@ st.markdown("""
         }
         
         .main {
-            background: linear-gradient(135deg, #0B2E33 0%, #1c1c2d 100%);
+            background: linear-gradient(135deg, #013a30 0%, #025f4c 100%);
             color: white;
         }
         
         .stButton>button {
-            background: linear-gradient(90deg, #4F7C82 0%, #93B1B5 100%);
-            color: black;
+            background: linear-gradient(90deg, #025f4c 0%, #02a676 100%);
+            color: white;
             font-weight: bold;
             border: none;
             border-radius: 8px;
@@ -67,62 +101,47 @@ st.markdown("""
         
         .stButton>button:hover {
             transform: scale(1.05);
-            box-shadow: 0 0 15px #B8E3E9;
+            box-shadow: 0 0 15px #02a676;
         }
         
         .stRadio>div {
-            background: #1c1c2d;
+            background: #013a30;
             border-radius: 10px;
             padding: 15px;
-            border: 1px solid #4F7C82;
+            border: 1px solid #02a676;
         }
         
         .stTextInput>div>div>input {
-            background: #1c1c2d !important;
+            background: #013a30 !important;
             color: white !important;
-            border: 1px solid #4F7C82 !important;
+            border: 1px solid #02a676 !important;
         }
         
         h1, h2, h3 {
-            color: #B8E3E9 !important;
+            color: #b8e3d5 !important;
             text-align: center;
         }
         
         .quiz-card {
-            background: #1c1c2d;
+            background: #013a30;
             padding: 20px;
             border-radius: 10px;
-            border-left: 5px solid #4F7C82;
+            border-left: 5px solid #02a676;
             margin-bottom: 20px;
         }
         
         .progress-bar {
             height: 20px;
-            background: #1c1c2d;
+            background: #013a30;
             border-radius: 10px;
             margin: 10px 0;
         }
         
         .progress-fill {
             height: 100%;
-            background: linear-gradient(90deg, #4F7C82 0%, #93B1B5 100%);
+            background: linear-gradient(90deg, #025f4c 0%, #02a676 100%);
             border-radius: 10px;
             transition: width 0.5s;
-        }
-        
-        .home-button {
-            position: fixed;
-            top: 10px;
-            left: 10px;
-            z-index: 1000;
-        }
-        
-        .home-button button {
-            background: #0B2E33 !important;
-            color: #B8E3E9 !important;
-            border: 1px solid #B8E3E9 !important;
-            border-radius: 5px;
-            padding: 5px 10px;
         }
     </style>
 """, unsafe_allow_html=True)
@@ -141,13 +160,15 @@ defaults = {
     "num_questions": 10,
     "answer_shown": False,
     "selected_option": None,
-    "show_confirm_home": False
+    "show_confirm_home": False,
+    "language": "english"
 }
+
 for k, v in defaults.items():
     if k not in st.session_state:
         st.session_state[k] = v
 
-# Check for existing session on app start
+# Check for existing session
 if not st.session_state.get("verified"):
     existing_session = load_user_session()
     if existing_session:
@@ -160,22 +181,44 @@ if not st.session_state.get("verified"):
 
 # -------------------- HELPER FUNCTIONS --------------------
 def load_questions(category):
-    """Load questions from JSON file for a category."""
     try:
         with open(f"quizdata/{category}.json", "r") as f:
             data = json.load(f)
-            return data.get("questions", [])
+            questions = data.get("questions", [])
+            
+            lang = st.session_state.language
+            processed_questions = []
+            
+            for q in questions:
+                if "english" in q and "hinglish" in q:
+                    processed_q = {
+                        "question": q[lang]["question"],
+                        "options": q[lang]["options"],
+                        "answer": q[lang]["answer"],
+                        "original_data": q
+                    }
+                else:
+                    processed_q = {
+                        "question": q["question"],
+                        "options": q["options"],
+                        "answer": q["answer"],
+                        "original_data": q
+                    }
+                
+                processed_questions.append(processed_q)
+            
+            return processed_questions
     except Exception as e:
         st.error(f"Error loading questions: {e}")
         return []
 
 def save_to_leaderboard():
-    """Save user score to leaderboard.json."""
     entry = {
         "name": st.session_state.name,
         "score": min(st.session_state.score, st.session_state.num_questions),
         "category": st.session_state.category,
-        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S")
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S"),
+        "language": st.session_state.language
     }
     try:
         if os.path.exists("leaderboard.json"):
@@ -189,10 +232,31 @@ def save_to_leaderboard():
     except Exception as e:
         st.error(f"Error saving leaderboard: {e}")
 
+# -------------------- LANGUAGE SWITCHER --------------------
+def language_switcher():
+    st.markdown(f"""
+        <div style="position: fixed; top: 10px; right: 10px; z-index: 1000;">
+            <button onclick="window.streamlitScriptHostCommunication.comm.sendMessage({{type: 'SET_QUERY_PARAMS', queryParams: {{'toggle_lang': 'true'}}}});" 
+                style="background: #013a30 !important; color: #b8e3d5 !important; border: 1px solid #02a676 !important; border-radius: 5px; padding: 5px 10px; cursor: pointer;">
+                {'हिंदी' if st.session_state.language == 'english' else 'English'}
+            </button>
+        </div>
+    """, unsafe_allow_html=True)
+
 # -------------------- APP SCREENS --------------------
 st.markdown("<h1 style='text-align:center;'>Welcome to Quiznix</h1>", unsafe_allow_html=True)
 
-# Add logout button if logged in
+# Language toggle handler
+if st.query_params.get("toggle_lang") == "true":
+    st.session_state.language = "hinglish" if st.session_state.language == "english" else "english"
+    st.query_params.clear()
+    st.rerun()
+
+# Show language switcher after email verification
+if st.session_state.stage not in ["email", "otp"]:
+    language_switcher()
+
+# Logout button
 if st.session_state.get("verified"):
     if st.sidebar.button("🚪 Logout"):
         clear_user_session()
@@ -205,6 +269,7 @@ if st.session_state.stage == "email":
     st.subheader("Enter Your Email")
     email = st.text_input("Email", placeholder="example@email.com")
     if st.button("Send OTP"):
+        play_sound('click')
         if "@" in email and "." in email:
             otp = str(random.randint(1000, 9999))
             st.session_state.otp = otp
@@ -223,6 +288,7 @@ elif st.session_state.stage == "otp":
     st.subheader("Verify OTP")
     entered_otp = st.text_input("Enter 4-digit OTP", max_chars=4)
     if st.button("Verify"):
+        play_sound('click')
         if verify_entered_otp(entered_otp, st.session_state.otp):
             st.success("OTP Verified! ✅")
             time.sleep(1)
@@ -235,19 +301,22 @@ elif st.session_state.stage == "otp":
 # 3. NAME SCREEN
 elif st.session_state.stage == "name":
     st.subheader("Enter Your Name")
-    name = st.text_input("Name", placeholder="John Doe")
-    if st.button("Continue"):
+    name = st.text_input("Name", placeholder="John Doe" if st.session_state.language == "english" else "Your Name")
+    if st.button("Continue" if st.session_state.language == "english" else "Continue"):
+        play_sound('click')
         if name.strip():
             st.session_state.name = name
-            save_user_session(st.session_state.email, name)  # Save session
+            save_user_session(st.session_state.email, name)
             st.session_state.stage = "category"
             st.rerun()
         else:
-            st.warning("Name cannot be empty.")
+            st.warning("Name cannot be empty." if st.session_state.language == "english" else "Name cannot be empty.")
 
 # 4. CATEGORY SELECTION
 elif st.session_state.stage == "category":
-    st.subheader("Choose a Quiz Category")
+    title = "Choose a Quiz Category" if st.session_state.language == "english" else "Choose a Quiz Category"
+    st.subheader(title)
+    
     categories = [f.split(".")[0] for f in os.listdir("quizdata") if f.endswith(".json")]
     cols = st.columns(4)
     for i, cat in enumerate(categories):
@@ -256,28 +325,50 @@ elif st.session_state.stage == "category":
             if os.path.exists(icon_path):
                 st.image(icon_path, width=80)
             if st.button(cat.capitalize(), key=f"cat_{i}"):
+                play_sound('click')
                 st.session_state.category = cat
                 st.session_state.stage = "choose_num"
                 st.rerun()
 
 # 5. NUMBER OF QUESTIONS
 elif st.session_state.stage == "choose_num":
-    st.subheader(f"Select Questions for {st.session_state.category.capitalize()}")
-    num = st.slider("Number of Questions", 5, 20, 10, step=5)
-    if st.button("Start Quiz"):
-        questions = load_questions(st.session_state.category)
-        if questions:
-            selected_qs = random.sample(questions, min(num, len(questions)))
-            for q in selected_qs:
-                q["shuffled_options"] = random.sample(q["options"], len(q["options"]))
-            st.session_state.questions = selected_qs
-            st.session_state.num_questions = num
-            st.session_state.q_index = 0
-            st.session_state.score = 0
-            st.session_state.stage = "quiz"
+    if 'language_confirmed' not in st.session_state:
+        st.subheader("Choose Question Language / Questions Bhasha Choose Karein")
+        lang = st.radio("", ["English", "Hinglish (English+Hindi)"])
+        if st.button("Confirm / Confirm karein"):
+            play_sound('click')
+            st.session_state.language = 'english' if lang == "English" else 'hinglish'
+            st.session_state.language_confirmed = True
             st.rerun()
-        else:
-            st.error("No questions available. Try another category.")
+    else:
+        title = f"Select Questions for {st.session_state.category.capitalize()}" 
+        if st.session_state.language == 'hinglish':
+            title = f"{st.session_state.category.capitalize()} Select Questions for"
+        
+        st.subheader(title)
+        
+        num = st.slider(
+            "Number of Questions" if st.session_state.language == 'english' else "Number of Questions",
+            5, 20, 10, step=5
+        )
+        
+        btn_text = "Start Quiz" if st.session_state.language == 'english' else "Start Quiz"
+        if st.button(btn_text):
+            play_sound('click')
+            questions = load_questions(st.session_state.category)
+            if questions:
+                selected_qs = random.sample(questions, min(num, len(questions)))
+                for q in selected_qs:
+                    q["shuffled_options"] = random.sample(q["options"], len(q["options"]))
+                st.session_state.questions = selected_qs
+                st.session_state.num_questions = num
+                st.session_state.q_index = 0
+                st.session_state.score = 0
+                st.session_state.stage = "quiz"
+                st.rerun()
+            else:
+                error_msg = "No questions available" if st.session_state.language == 'english' else "No questions available"
+                st.error(error_msg)
 
 # 6. QUIZ SCREEN
 elif st.session_state.stage == "quiz":
@@ -285,11 +376,12 @@ elif st.session_state.stage == "quiz":
     questions = st.session_state.questions
     
     # Home button
-    st.markdown("""
-        <div class="home-button">
-            <button onclick="window.streamlitScriptHostCommunication.comm.sendMessage({type: 'SET_QUERY_PARAMS', queryParams: {'home': 'true'}});" 
-                style="background: #0B2E33; color: #B8E3E9; border: 1px solid #B8E3E9; border-radius: 5px; padding: 5px 10px; cursor: pointer;">
-                🏠 Home
+    home_text = "🏠 Home" if st.session_state.language == "english" else "🏠 Home"
+    st.markdown(f"""
+        <div style="position: fixed; top: 10px; left: 10px; z-index: 1000;">
+            <button onclick="window.streamlitScriptHostCommunication.comm.sendMessage({{type: 'SET_QUERY_PARAMS', queryParams: {{'home': 'true'}}}});" 
+                style="background: #013a30; color: #b8e3d5; border: 1px solid #02a676; border-radius: 5px; padding: 5px 10px; cursor: pointer;">
+                {home_text}
             </button>
         </div>
     """, unsafe_allow_html=True)
@@ -305,42 +397,56 @@ elif st.session_state.stage == "quiz":
             </div>
         """, unsafe_allow_html=True)
         
-        # Modified radio button with index=None to prevent auto-selection
+        radio_label = "Choose an option:" if st.session_state.language == "english" else "Choose an option::"
+        
         selected = st.radio(
-            "Choose an option:", 
+            radio_label, 
             q["shuffled_options"], 
             key=f"q_{q_index}",
-            index=None  # No option selected by default
+            index=None
         )
         
         # Home Button Confirmation
         if st.session_state.show_confirm_home:
-            st.warning("Are you sure you want to quit the quiz?")
+            confirm_text = "Are you sure you want to quit the quiz?" if st.session_state.language == "english" else "Are you sure you want to quit the quiz?"
+            yes_text = "Yes, Quit" if st.session_state.language == "english" else "Yes, Quit"
+            no_text = "No, Continue" if st.session_state.language == "english" else "Yes, Quit"
+            
+            st.warning(confirm_text)
             col1, col2 = st.columns(2)
             with col1:
-                if st.button("Yes, Quit"):
+                if st.button(yes_text):
+                    play_sound('click')
                     st.session_state.stage = "category"
                     st.session_state.show_confirm_home = False
                     st.query_params.clear()
                     st.rerun()
             with col2:
-                if st.button("No, Continue"):
+                if st.button(no_text):
+                    play_sound('click')
                     st.session_state.show_confirm_home = False
                     st.query_params.clear()
                     st.rerun()
         
-        if st.button("Submit Answer", key=f"submit_{q_index}"):
+        submit_text = "Submit Answer" if st.session_state.language == "english" else "Submit Answer"
+        
+        if st.button(submit_text, key=f"submit_{q_index}"):
+            play_sound('click')
             if selected is None:
-                st.warning("Please select an answer before submitting!")
+                warning_text = "Please select an answer before submitting!" if st.session_state.language == "english" else "Please select an answer before submitting!"
+                st.warning(warning_text)
             else:
                 st.session_state.selected_option = selected
                 st.session_state.answer_shown = True
                 if selected == q["answer"]:
-                    st.success("✅ Correct!")
+                    play_sound('correct')
+                    st.success("✅ Correct!" if st.session_state.language == "english" else "✅ Correct!")
                     st.session_state.score += 1
                 else:
-                    st.error("❌ Incorrect!")
-                    st.info(f"Correct Answer: **{q['answer']}**")
+                    play_sound('wrong')
+                    st.error("❌ Incorrect!" if st.session_state.language == "english" else "❌ Incorrect!")
+                    answer_text = "Correct Answer:" if st.session_state.language == "english" else "Correct Answer:"
+                    st.info(f"{answer_text} **{q['answer']}**")
                 time.sleep(1.5)
                 st.session_state.q_index += 1
                 st.session_state.answer_shown = False
@@ -348,56 +454,85 @@ elif st.session_state.stage == "quiz":
     
     # QUIZ COMPLETED
     else:
-        st.balloons()  # Confetti animation
+        play_sound('correct')
+        st.balloons()
+        
+        completed_text = "Quiz Completed!" if st.session_state.language == "english" else "Quiz Completed!"
+        score_text = "Your Score:" if st.session_state.language == "english" else "Your Score:"
+        
         st.markdown(f"""
             <div style="text-align:center;">
-                <h2>🎉 Quiz Completed!</h2>
-                <h3>Your Score: {min(st.session_state.score, st.session_state.num_questions)}/{st.session_state.num_questions}</h3>
+                <h2>🎉 {completed_text}</h2>
+                <h3>{score_text} {min(st.session_state.score, st.session_state.num_questions)}/{st.session_state.num_questions}</h3>
                 <div class="progress-bar">
-                    <div class="progress-fill" style="width:{int((min(st.session_state.score, st.session_state.num_questions)/st.session_state.num_questions)*100)}%"></div>
+                    <div class="progress-fill" style="width:{int(min(st.session_state.score, st.session_state.num_questions)/st.session_state.num_questions)*100}%"></div>
                 </div>
             </div>
         """, unsafe_allow_html=True)
         
         save_to_leaderboard()
         
+        home_text = "🏠 Home" if st.session_state.language == "english" else "🏠 Home"
+        suggest_text = "📝 Suggest a Question" if st.session_state.language == "english" else "📝 Suggest a Question"
+        
         col1, col2 = st.columns(2)
         with col1:
-            if st.button("🏠 Home"):
+            if st.button(home_text):
+                play_sound('click')
                 st.session_state.stage = "category"
                 st.rerun()
         with col2:
-            if st.button("📝 Suggest a Question"):
+            if st.button(suggest_text):
+                play_sound('click')
                 st.session_state.stage = "suggest"
                 st.rerun()
 
 # 7. SUGGESTION SCREEN
 elif st.session_state.stage == "suggest":
-    st.subheader("Suggest a New Question")
+    title = "Suggest a New Question" if st.session_state.language == "english" else "Suggest a New Question"
+    st.subheader(title)
+    
     with st.form("suggestion_form"):
-        new_q = st.text_area("Question", placeholder="Enter your question here...")
-        new_opts = st.text_input("Options (comma-separated)", placeholder="Option1, Option2, Option3")
-        new_ans = st.text_input("Correct Answer", placeholder="Must match one of the options")
-        submitted = st.form_submit_button("Submit")
+        q_label = "Question" if st.session_state.language == "english" else "Question"
+        q_placeholder = "Enter your question here..." if st.session_state.language == "english" else "Enter your question here..."
+        new_q = st.text_area(q_label, placeholder=q_placeholder)
+        
+        opts_label = "Options (comma-separated)" if st.session_state.language == "english" else "Options (comma-separated)"
+        opts_placeholder = "Option1, Option2, Option3" if st.session_state.language == "english" else "Option1, Option2, Option3, option4"
+        new_opts = st.text_input(opts_label, placeholder=opts_placeholder)
+        
+        ans_label = "Correct Answer" if st.session_state.language == "english" else "Correct Answer"
+        ans_placeholder = "Must match one of the options" if st.session_state.language == "english" else "Must match one of the options"
+        new_ans = st.text_input(ans_label, placeholder=ans_placeholder)
+        
+        submit_text = "Submit" if st.session_state.language == "english" else "Submit"
+        submitted = st.form_submit_button(submit_text)
+        
         if submitted:
+            play_sound('click')
             if new_q and new_opts and new_ans:
                 suggestion = {
                     "question": new_q,
                     "options": [opt.strip() for opt in new_opts.split(",")],
-                    "answer": new_ans.strip()
+                    "answer": new_ans.strip(),
+                    "language": st.session_state.language
                 }
                 try:
                     with open("suggestions.json", "a") as f:
                         f.write(json.dumps(suggestion) + "\n")
-                    st.success("Thank you! Your suggestion has been recorded.")
+                    success_text = "Thank you! Your suggestion has been recorded." if st.session_state.language == "english" else "Thank you! Your suggestion has been recorded."
+                    st.success(success_text)
                     time.sleep(1)
                     st.session_state.stage = "category"
                     st.rerun()
                 except Exception as e:
                     st.error(f"Error saving suggestion: {e}")
             else:
-                st.warning("Please fill all fields.")
+                warning_text = "Please fill all fields." if st.session_state.language == "english" else "Please fill all fields."
+                st.warning(warning_text)
 
-    if st.button("← Back to Home"):
+    back_text = "← Back to Home" if st.session_state.language == "english" else "← Back to Home"
+    if st.button(back_text):
+        play_sound('click')
         st.session_state.stage = "category"
         st.rerun()
