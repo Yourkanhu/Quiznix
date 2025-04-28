@@ -1,21 +1,158 @@
-.category-card {
-    border-radius: 12px;
-    padding: 15px;
-    background-color: #ffffff;
-    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
-    transition: transform 0.2s ease-in-out;
+/* ========== GREEN THEME MODIFICATIONS ========== */
+:root {
+    --primary-green: #2e7d32;
+    --dark-green: #1b5e20;
+    --light-green: #a5d6a7;
+    --bg-gradient: linear-gradient(135deg, #0a2e24 0%, #1c3b32 100%);
+  }
+  
+  /* ========== CATEGORY CARDS ========== */
+  .category-card {
+      border-radius: 12px;
+      padding: 15px;
+      background-color: #e8f5e9; /* Light green background */
+      box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+      transition: all 0.3s ease-in-out;
+      cursor: pointer;
+      text-align: center;
+      border: 2px solid var(--light-green);
+  }
+  
+  .category-card:hover {
+      transform: scale(1.05);
+      background-color: #c8e6c9;
+      box-shadow: 0 0 15px var(--light-green);
+  }
+  
+  .category-img {
+      width: 60px;
+      height: 60px;
+      object-fit: contain;
+      margin-bottom: 10px;
+      filter: hue-rotate(120deg); /* Make icons match green theme */
+  }
+  
+  /* ========== PROFILE SECTION ========== */
+  .profile-section {
+      position: fixed;
+      top: 15px;
+      right: 15px;
+      z-index: 1000;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+  }
+  
+  .profile-icon {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: var(--primary-green);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      transition: all 0.3s;
+      border: 2px solid var(--light-green);
+  }
+  
+  .profile-icon:hover {
+      transform: scale(1.1);
+      background: var(--dark-green);
+      box-shadow: 0 0 10px var(--light-green);
+  }
+  
+  .profile-name {
+      color: #e8f5e9;
+      font-weight: 600;
+      font-size: 16px;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.3);
+  }
+  
+  /* ========== QUIZ CARD MODIFICATIONS ========== */
+  .quiz-card {
+      background: #1c3b32;
+      padding: 20px;
+      border-radius: 10px;
+      border-left: 5px solid var(--primary-green);
+      margin-bottom: 20px;
+      color: white;
+  }
+  
+  /* ========== BUTTON STYLES ========== */
+  .stButton>button {
+      background: linear-gradient(90deg, var(--primary-green) 0%, var(--light-green) 100%);
+      color: white !important;
+      font-weight: bold;
+      border: none !important;
+  }
+  
+  .stButton>button:hover {
+      background: linear-gradient(90deg, var(--dark-green) 0%, #81c784 100%);
+  }
+  
+  /* ========== RESPONSIVE ADJUSTMENTS ========== */
+  @media (max-width: 768px) {
+      .profile-section {
+          top: 10px;
+          right: 10px;
+      }
+      .profile-name {
+          display: none; /* Hide name on small screens */
+      }
+  }
+  /* Profile Section Styles */
+.profile-section {
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #2e7d32;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
     cursor: pointer;
-    text-align: center;
+    border: 2px solid #a5d6a7;
+    transition: all 0.3s;
 }
 
-.category-card:hover {
-    transform: scale(1.05);
-    background-color: #f0f4ff;
+.profile-icon:hover {
+    transform: scale(1.1);
+    background: #1b5e20;
 }
 
-.category-img {
-    width: 60px;
-    height: 60px;
-    object-fit: contain;
-    margin-bottom: 10px;
+.profile-modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #1c3b32;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    border: 2px solid #2e7d32;
+    z-index: 1001;
+}
+
+.profile-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5);
+    z-index: 1000;
 }
