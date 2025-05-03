@@ -977,13 +977,13 @@
       "english": {
         "question": "Which element has the highest melting point?",
         "options": ["Tungsten", "Carbon", "Osmium", "Rhenium"],
-        "answer": "Tungsten (3422°C)",
+        "answer": "Tungsten",
         "difficulty": "Hard"
       },
       "hinglish": {
         "question": "Kis tatv ka sabse zyada melting point hota hai?",
         "options": ["Tungsten", "Carbon", "Osmium", "Rhenium"],
-        "answer": "Tungsten (3422°C)"
+        "answer": "Tungsten"
       }
     },
     {
@@ -1003,13 +1003,13 @@
       "english": {
         "question": "Who built the Konark Sun Temple?",
         "options": ["Raja Raja Chola", "Narasimhadeva I", "Krishnadevaraya", "Harshavardhana"],
-        "answer": "Narasimhadeva I (Eastern Ganga Dynasty)",
+        "answer": "Narasimhadeva I",
         "difficulty": "Hard"
       },
       "hinglish": {
         "question": "Konark Sun Temple kisne banvaya?",
         "options": ["Raja Raja Chola", "Narasimhadeva I", "Krishnadevaraya", "Harshavardhana"],
-        "answer": "Narasimhadeva I (Eastern Ganga Dynasty)"
+        "answer": "Narasimhadeva I"
       }
     },
     {
