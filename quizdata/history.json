@@ -708,12 +708,12 @@
       "english": {
         "question": "Who was the first female Prime Minister in the world?",
         "options": ["Indira Gandhi", "Golda Meir", "Sirimavo Bandaranaike", "Margaret Thatcher"],
-        "answer": "Sirimavo Bandaranaike (Sri Lanka, 1960)"
+        "answer": "Sirimavo Bandaranaike"
       },
       "hinglish": {
         "question": "Duniya ki pehli mahila Pradhan Mantri kaun thi?",
         "options": ["Indira Gandhi", "Golda Meir", "Sirimavo Bandaranaike", "Margaret Thatcher"],
-        "answer": "Sirimavo Bandaranaike (Sri Lanka, 1960)"
+        "answer": "Sirimavo Bandaranaike"
       }
     },
     {
